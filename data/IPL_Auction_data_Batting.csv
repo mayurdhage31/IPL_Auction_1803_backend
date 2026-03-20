@@ -1,0 +1,971 @@
+batter_name,Role,Amount,Team,Year,Player Origin,matches,total_runs,dismissals,balls_faced,batting_avg,batting_sr,boundary_pct,non_boundary_sr,spinner_runs,spinner_dismissals,spinner_balls_faced,spinner_batting_avg,spinner_batting_sr,spinner_boundary_pct,spinner_non_boundary_sr,pacer_runs,pacer_dismissals,pacer_balls_faced,pacer_batting_avg,pacer_batting_sr,pacer_boundary_pct,pacer_non_boundary_sr
+Aaron Finch,Batsman,40000000,Sunrisers Hyderabad,2014,Overseas,111,3448,100,2541,34.48,135.69,18.97%,61.39,716,20,470,35.80,152.34,21.28%,66.49,1770,50,1355,35.40,130.63,18.52%,59.24
+Aaron Finch,Batsman,32000000,Mumbai Indians,2015,Overseas,111,3448,100,2541,34.48,135.69,18.97%,61.39,716,20,470,35.80,152.34,21.28%,66.49,1770,50,1355,35.40,130.63,18.52%,59.24
+Aaron Finch,Batsman,10000000,Gujarat Lions,2016,Overseas,111,3448,100,2541,34.48,135.69,18.97%,61.39,716,20,470,35.80,152.34,21.28%,66.49,1770,50,1355,35.40,130.63,18.52%,59.24
+Aaron Finch,Batsman,62000000,Kings XI Punjab,2018,Overseas,111,3448,100,2541,34.48,135.69,18.97%,61.39,716,20,470,35.80,152.34,21.28%,66.49,1770,50,1355,35.40,130.63,18.52%,59.24
+Aaron Finch,Batsman,44000000,Royal Challengers Bangalore,2020,Overseas,111,3448,100,2541,34.48,135.69,18.97%,61.39,716,20,470,35.80,152.34,21.28%,66.49,1770,50,1355,35.40,130.63,18.52%,59.24
+Abdul Samad,All-Rounder,2000000,Sunrisers Hyderabad,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhijeet Tomar,Batsman,4000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhimanyu Mithun,Bowler,3000000,Mumbai Indians,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhimanyu Mithun,Bowler,3000000,Sunrisers Hyderabad,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhinav Sadarangani,Batsman,26000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhishek Nayar,All-Rounder,50625000,Pune Warriors India,2013,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhishek Nayar,All-Rounder,10000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhishek Sharma,All-Rounder,5500000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abhishek Sharma,All-Rounder,65000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abu Nechim Ahmed,Bowler,3000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Adam Milne,Bowler,7000000,Royal Challengers Bangalore,2015,Overseas,5,18,0,16,NA,112.50,6.25%,93.33,NA,NA,NA,NA,NA,NA,NA,18,0,16,NA,112.50,6.25%,93.33
+Adam Milne,Bowler,32000000,Mumbai Indians,2021,Overseas,5,18,0,16,NA,112.50,6.25%,93.33,NA,NA,NA,NA,NA,NA,NA,18,0,16,NA,112.50,6.25%,93.33
+Adam Milne,Bowler,19000000,Chennai Super Kings,2022,Overseas,5,18,0,16,NA,112.50,6.25%,93.33,NA,NA,NA,NA,NA,NA,NA,18,0,16,NA,112.50,6.25%,93.33
+Adam Zampa,Bowler,3000000,Rising Pune Supergiant,2016,Overseas,11,56,7,49,8.00,114.29,12.24%,69.77,13,3,10,4.33,130.00,20.00%,62.50,20,3,22,6.67,90.91,9.09%,60.00
+Aditya Garhwal,All-Rounder,2500000,Kolkata Knight Riders,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aditya Tare,Wicket Keeper,16000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aditya Tare,Wicket Keeper,12000000,Sunrisers Hyderabad,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aditya Tare,Wicket Keeper,2500000,Delhi Daredevils,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aditya Tare,Wicket Keeper,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Agnivesh Ayachi,All-Rounder,2000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aiden Blizzard,Batsman,3000000,Mumbai Indians,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aiden Markram,Batsman,26000000,Sunrisers Hyderabad,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ajantha Mendis,Bowler,54375000,Pune Warriors India,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ajinkya Rahane,Batsman,40000000,Rajasthan Royals,2018,Indian,70,2048,56,1730,36.57,118.38,13.87%,67.92,515,18,466,28.61,110.52,8.80%,78.82,1207,30,986,40.23,122.41,16.63%,60.95
+Ajinkya Rahane,Batsman,10000000,Kolkata Knight Riders,2022,Indian,70,2048,56,1730,36.57,118.38,13.87%,67.92,515,18,466,28.61,110.52,8.80%,78.82,1207,30,986,40.23,122.41,16.63%,60.95
+Akash Deep,Bowler,2000000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akash Singh,Bowler,2000000,Rajasthan Royals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akash Singh,Bowler,2000000,Rajasthan Royals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akhil Arvind Herwadkar,All-Rounder,1000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akila Dananjaya,All-Rounder,1500000,Chennai Super Kings,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akila Dhananjaya,Bowler,5000000,Mumbai Indians,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshar Rajesh Patel,All-Rounder,7500000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshay Karnewar,All-Rounder,1000000,Royal Challengers Bangalore,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshay Wakhare,Bowler,1000000,Mumbai Indians,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshdeep Nath,All-Rounder,10000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Akshdeep Nath,All-Rounder,36000000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Albie Morkel,All-Rounder,24000000,Royal Challengers Bangalore,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Albie Morkel,All-Rounder,3000000,Delhi Daredevils,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alex Carey,Wicket Keeper,24000000,Delhi Capitals,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alex Hales,Batsman,15000000,Kolkata Knight Riders,2022,Overseas,68,1726,65,1256,26.55,137.42,20.06%,58.76,222,11,168,20.18,132.14,17.86%,62.32,696,29,512,24.00,135.94,20.70%,55.17
+Alzarri Joseph,Bowler,24000000,Gujarat Titans,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aman Khan,All-Rounder,2000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ambati Rayudu,Wicket Keeper,22000000,Chennai Super Kings,2018,Indian,60,1283,50,1039,25.66,123.48,13.86%,70.06,393,14,338,28.07,116.27,9.47%,75.49,728,32,570,22.75,127.72,16.49%,65.55
+Ambati Rayudu,Wicket Keeper,67500000,Chennai Super Kings,2022,Indian,60,1283,50,1039,25.66,123.48,13.86%,70.06,393,14,338,28.07,116.27,9.47%,75.49,728,32,570,22.75,127.72,16.49%,65.55
+Amit Mishra,Bowler,1000000,Rajasthan Royals,2014,Indian,14,105,8,129,13.12,81.40,6.98%,57.50,9,2,22,4.50,40.91,0.00%,40.91,77,6,85,12.83,90.59,9.41%,58.44
+Amit Mishra,Bowler,47500000,Sunrisers Hyderabad,2014,Indian,14,105,8,129,13.12,81.40,6.98%,57.50,9,2,22,4.50,40.91,0.00%,40.91,77,6,85,12.83,90.59,9.41%,58.44
+Amit Mishra,Bowler,35000000,Delhi Daredevils,2015,Indian,14,105,8,129,13.12,81.40,6.98%,57.50,9,2,22,4.50,40.91,0.00%,40.91,77,6,85,12.83,90.59,9.41%,58.44
+Amit Mishra,Bowler,1000000,Gujarat Lions,2016,Indian,14,105,8,129,13.12,81.40,6.98%,57.50,9,2,22,4.50,40.91,0.00%,40.91,77,6,85,12.83,90.59,9.41%,58.44
+Amit Mishra,Bowler,40000000,Delhi Daredevils,2018,Indian,14,105,8,129,13.12,81.40,6.98%,57.50,9,2,22,4.50,40.91,0.00%,40.91,77,6,85,12.83,90.59,9.41%,58.44
+Amit Paunikar,Wicket Keeper,2000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Andre Russell,All-Rounder,6000000,Kolkata Knight Riders,2014,Overseas,66,1173,51,716,23.00,163.83,23.04%,64.43,282,12,186,23.50,151.61,20.43%,59.46,693,28,412,24.75,168.20,24.03%,65.50
+Andrew Tye,Bowler,2000000,Chennai Super Kings,2015,Overseas,14,85,8,87,10.62,97.70,10.34%,52.56,8,3,11,2.67,72.73,9.09%,20.00,55,5,47,11.00,117.02,14.89%,57.50
+Andrew Tye,All-Rounder,5000000,Gujarat Lions,2016,Overseas,14,85,8,87,10.62,97.70,10.34%,52.56,8,3,11,2.67,72.73,9.09%,20.00,55,5,47,11.00,117.02,14.89%,57.50
+Andrew Tye,Bowler,72000000,Kings XI Punjab,2018,Overseas,14,85,8,87,10.62,97.70,10.34%,52.56,8,3,11,2.67,72.73,9.09%,20.00,55,5,47,11.00,117.02,14.89%,57.50
+Andrew Tye,Bowler,10000000,Rajasthan Royals,2020,Overseas,14,85,8,87,10.62,97.70,10.34%,52.56,8,3,11,2.67,72.73,9.09%,20.00,55,5,47,11.00,117.02,14.89%,57.50
+Aneeshwar Gautam,All-Rounder,2000000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Angelo Mathews,All-Rounder,75000000,Delhi Daredevils,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Angelo Mathews,All-Rounder,20000000,Delhi Daredevils,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aniket Choudhary,Bowler,20000000,Royal Challengers Bangalore,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aniket Choudhary,Bowler,3000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anirudha Ashok Joshi,All-Rounder,2000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anirudha Ashok Joshi,All-Rounder,2000000,Rajasthan Royals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankeet Bawane,Batsman,1000000,Delhi Daredevils,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankit Nagendra Sharma,Bowler,1000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankit Sharma,All-Rounder,1000000,Rising Pune Supergiant,2016,Indian,5,44,3,39,14.67,112.82,15.38%,54.55,27,2,25,13.50,108.00,12.00%,59.09,16,1,13,16.00,123.08,23.08%,40.00
+Ankit Sharma,All-Rounder,2000000,Rajasthan Royals,2018,Indian,5,44,3,39,14.67,112.82,15.38%,54.55,27,2,25,13.50,108.00,12.00%,59.09,16,1,13,16.00,123.08,23.08%,40.00
+Ankit Singh Rajpoot,Bowler,15000000,Kolkata Knight Riders,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankit Singh Rajpoot,Bowler,30000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankit Singh Rajpoot,Bowler,5000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankush Bains,Wicket Keeper,1000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankush Bains,Wicket Keeper,1000000,Chennai Super Kings,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankush Bains,Wicket Keeper,1000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ankush Bains,Wicket Keeper,2000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anmolpreet Singh,Batsman,8000000,Mumbai Indians,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anmolpreet Singh,Batsman,2000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anrich Nortje,Bowler,2000000,Kolkata Knight Riders,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ansh Patel,All-Rounder,2000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anuj Rawat,Wicket Keeper,8000000,Rajasthan Royals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anuj Rawat,Wicket Keeper,34000000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anukul Roy,All-Rounder,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anukul Roy,All-Rounder,2000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anunay Singh,All-Rounder,2000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anureet Singh,Bowler,2000000,Kings XI Punjab,2014,Indian,6,18,3,31,6.00,58.06,3.23%,40.00,11,0,6,NA,183.33,16.67%,100.00,7,3,25,2.33,28.00,0.00%,28.00
+Anureet Singh,Bowler,3000000,Rajasthan Royals,2018,Indian,6,18,3,31,6.00,58.06,3.23%,40.00,11,0,6,NA,183.33,16.67%,100.00,7,3,25,2.33,28.00,0.00%,28.00
+Apoorv Vijay Wankhade,Batsman,1000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Apoorv Vijay Wankhade,Batsman,2000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arjun Tendulkar,All-Rounder,2000000,Mumbai Indians,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arjun Tendulkar,All-Rounder,3000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Armaan Jaffer,Batsman,1000000,Kings XI Punjab,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arshdeep Singh,Bowler,2000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aryaman Vikram Birla,All-Rounder,3000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aryan Juyal,Wicket Keeper,2000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asela Gunarathna,Batsman,3000000,Mumbai Indians,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashish Nehra,Bowler,20000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashish Nehra,Bowler,55000000,Sunrisers Hyderabad,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashish Reddy,Bowler,2000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashok Dinda,Bowler,15000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashok Dinda,Bowler,5000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashok Sharma,Bowler,5500000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ashton Turner,All-Rounder,5000000,Rajasthan Royals,2019,Indian,19,229,13,165,17.62,138.79,12.73%,84.03,49,2,33,24.50,148.48,15.15%,82.14,97,5,60,19.40,161.67,15.00%,100.00
+Ashwin Hebbar,Batsman,2000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asif K M,Bowler,4000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Atharva Taide,All-Rounder,2000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Avesh Khan,Bowler,7000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Avesh Khan,Bowler,100000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Axar Rajesh Patel,All-Rounder,50000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ayush Badoni,All-Rounder,2000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B. Sai Sudharsan,All-Rounder,2000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baba Aparajith,Batsman,1000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baba Aparajith,All-Rounder,1000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baba Indrajith,Wicket Keeper,2000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baltej Dhanda,Bowler,2000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bandaru Ayyappa,Bowler,2000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Barinder Singh Saran,Bowler,1000000,Rajasthan Royals,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Barinder Singh Sran,Bowler,12000000,Sunrisers Hyderabad,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Barinder Singh Sran,Bowler,22000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Barinder Singh Sran,Bowler,34000000,Mumbai Indians,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Basil Thampi,Bowler,8500000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Basil Thampi,Bowler,9500000,Sunrisers Hyderabad,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Basil Thampi,Bowler,3000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ben Cutting,Bowler,8000000,Rajasthan Royals,2014,Overseas,34,528,26,348,20.31,151.72,18.39%,70.42,101,11,91,9.18,110.99,12.09%,53.75,291,11,171,26.45,170.18,21.64%,76.87
+Ben Cutting,All-Rounder,5000000,Sunrisers Hyderabad,2016,Overseas,34,528,26,348,20.31,151.72,18.39%,70.42,101,11,91,9.18,110.99,12.09%,53.75,291,11,171,26.45,170.18,21.64%,76.87
+Ben Cutting,All-Rounder,22000000,Mumbai Indians,2018,Overseas,34,528,26,348,20.31,151.72,18.39%,70.42,101,11,91,9.18,110.99,12.09%,53.75,291,11,171,26.45,170.18,21.64%,76.87
+Ben Cutting,All-Rounder,7500000,Kolkata Knight Riders,2021,Overseas,34,528,26,348,20.31,151.72,18.39%,70.42,101,11,91,9.18,110.99,12.09%,53.75,291,11,171,26.45,170.18,21.64%,76.87
+Ben Dunk,Wicket Keeper,2000000,Mumbai Indians,2014,Overseas,33,862,32,638,26.94,135.11,16.77%,71.56,131,3,92,43.67,142.39,19.57%,71.62,441,21,362,21.00,121.82,13.81%,69.55
+Ben Dwarshuis,Bowler,14000000,Kings XI Punjab,2018,Overseas,5,51,5,44,10.20,115.91,11.36%,69.23,26,1,17,26.00,152.94,17.65%,71.43,22,3,23,7.33,95.65,8.70%,66.67
+Ben Hilfenhaus,Bowler,10000000,Chennai Super Kings,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ben Laughlin,Bowler,1500000,Chennai Super Kings,2013,Overseas,12,57,8,56,7.12,101.79,8.93%,60.78,19,1,6,19.00,316.67,50.00%,100.00,14,6,23,2.33,60.87,0.00%,60.87
+Ben Laughlin,Bowler,3000000,Sunrisers Hyderabad,2017,Overseas,12,57,8,56,7.12,101.79,8.93%,60.78,19,1,6,19.00,316.67,50.00%,100.00,14,6,23,2.33,60.87,0.00%,60.87
+Ben Laughlin,Bowler,5000000,Rajasthan Royals,2018,Overseas,12,57,8,56,7.12,101.79,8.93%,60.78,19,1,6,19.00,316.67,50.00%,100.00,14,6,23,2.33,60.87,0.00%,60.87
+Benjamin Stokes,All-Rounder,145000000,Rising Pune Supergiant,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Benjamin Stokes,All-Rounder,125000000,Rajasthan Royals,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Benny Howell,All-Rounder,4000000,Punjab Kings,2022,Overseas,33,565,24,472,23.54,119.70,11.65%,73.62,93,3,73,31.00,127.40,12.33%,73.44,211,9,173,23.44,121.97,12.72%,74.83
+Beuran Hendricks,Bowler,18000000,Kings XI Punjab,2014,Overseas,4,16,2,18,8.00,88.89,5.56%,58.82,NA,NA,NA,NA,NA,NA,NA,13,1,14,13.00,92.86,7.14%,53.85
+Bhanuka Rajapaksa,Batsman,5000000,Punjab Kings,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bhuvneshwar Kumar,Bowler,42500000,Sunrisers Hyderabad,2014,Overseas,25,122,16,121,7.62,100.83,11.57%,56.07,14,2,13,7.00,107.69,15.38%,36.36,87,10,84,8.70,103.57,13.10%,53.42
+Bhuvneshwar Kumar,Bowler,42000000,Sunrisers Hyderabad,2022,Indian,25,122,16,121,7.62,100.83,11.57%,56.07,14,2,13,7.00,107.69,15.38%,36.36,87,10,84,8.70,103.57,13.10%,53.42
+Billy Stanlake,Bowler,3000000,Royal Challengers Bangalore,2017,Overseas,2,3,0,4,NA,75.00,0.00%,75.00,NA,NA,NA,NA,NA,NA,NA,3,0,4,NA,75.00,0.00%,75.00
+Billy Stanlake,Batsman,5000000,Sunrisers Hyderabad,2018,Overseas,2,3,0,4,NA,75.00,0.00%,75.00,NA,NA,NA,NA,NA,NA,NA,3,0,4,NA,75.00,0.00%,75.00
+Bipul Sharma,All-Rounder,2000000,Sunrisers Hyderabad,2018,Indian,5,52,2,27,26.00,192.59,22.22%,85.71,1,1,2,1.00,50.00,0.00%,50.00,51,1,25,51.00,204.00,24.00%,89.47
+Brad Hodge,Batsman,24000000,Rajasthan Royals,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brad Hogg,Bowler,5000000,Kolkata Knight Riders,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brendan Taylor,Wicket Keeper,3000000,Sunrisers Hyderabad,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brendon McCullum,Wicket Keeper,32500000,Chennai Super Kings,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brendon McCullum,Batsman,36000000,Royal Challengers Bangalore,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C.Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C.M. Gautam,Wicket Keeper,2000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C.M. Gautam,Wicket Keeper,2000000,Delhi Daredevils,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cameron Delport,All-Rounder,3000000,Kolkata Knight Riders,2018,Overseas,9,208,7,154,29.71,135.06,16.23%,63.57,33,2,29,16.50,113.79,10.34%,65.38,90,3,63,30.00,142.86,20.63%,52.00
+Carlos Brathwaite,All-Rounder,42000000,Delhi Daredevils,2016,Overseas,14,181,11,96,16.45,188.54,29.17%,51.47,40,5,26,8.00,153.85,23.08%,30.00,141,6,69,23.50,204.35,31.88%,61.70
+Carlos Brathwaite,All-Rounder,20000000,Sunrisers Hyderabad,2018,Overseas,14,181,11,96,16.45,188.54,29.17%,51.47,40,5,26,8.00,153.85,23.08%,30.00,141,6,69,23.50,204.35,31.88%,61.70
+Carlos Brathwaite,All-Rounder,50000000,Kolkata Knight Riders,2019,Overseas,14,181,11,96,16.45,188.54,29.17%,51.47,40,5,26,8.00,153.85,23.08%,30.00,141,6,69,23.50,204.35,31.88%,61.70
+Chaitanya Bishnoi,All-Rounder,2000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chama Milind,Bowler,1000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chama Milind,Bowler,1000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chama Milind,Bowler,2500000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chamika Karunaratne,All-Rounder,5000000,Kolkata Knight Riders,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chetan Sakariya,Bowler,12000000,Rajasthan Royals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chetan Sakariya,Bowler,42000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheteshwar Pujara,Batsman,19000000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheteshwar Pujara,Batsman,5000000,Chennai Super Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chirag Suri,Batsman,1000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chris Green,All-Rounder,2000000,Kolkata Knight Riders,2020,Overseas,8,46,6,30,7.67,153.33,20.00%,66.67,27,1,12,27.00,225.00,33.33%,62.50,18,3,14,6.00,128.57,14.29%,83.33
+Chris Jordan,All-Rounder,5000000,Sunrisers Hyderabad,2017,Overseas,26,364,19,299,19.16,121.74,13.04%,69.23,38,2,53,19.00,71.70,7.55%,44.90,204,16,147,12.75,138.78,17.69%,64.46
+Chris Jordan,All-Rounder,10000000,Sunrisers Hyderabad,2018,Overseas,26,364,19,299,19.16,121.74,13.04%,69.23,38,2,53,19.00,71.70,7.55%,44.90,204,16,147,12.75,138.78,17.69%,64.46
+Chris Jordan,All-Rounder,30000000,Kings XI Punjab,2020,Overseas,26,364,19,299,19.16,121.74,13.04%,69.23,38,2,53,19.00,71.70,7.55%,44.90,204,16,147,12.75,138.78,17.69%,64.46
+Chris Jordan,All-Rounder,36000000,Chennai Super Kings,2022,Overseas,26,364,19,299,19.16,121.74,13.04%,69.23,38,2,53,19.00,71.70,7.55%,44.90,204,16,147,12.75,138.78,17.69%,64.46
+Chris Lynn,Batsman,13000000,Kolkata Knight Riders,2014,Overseas,38,1193,31,775,38.48,153.94,19.74%,69.94,188,12,187,15.67,100.53,9.09%,62.35,570,10,338,57.00,168.64,24.26%,68.75
+Chris Lynn,Batsman,96000000,Kolkata Knight Riders,2018,Overseas,38,1193,31,775,38.48,153.94,19.74%,69.94,188,12,187,15.67,100.53,9.09%,62.35,570,10,338,57.00,168.64,24.26%,68.75
+Chris Lynn,Batsman,20000000,Mumbai Indians,2020,Overseas,38,1193,31,775,38.48,153.94,19.74%,69.94,188,12,187,15.67,100.53,9.09%,62.35,570,10,338,57.00,168.64,24.26%,68.75
+Chris Woakes,All-Rounder,42000000,Kolkata Knight Riders,2017,Overseas,14,157,6,118,26.17,133.05,12.71%,86.41,12,1,15,12.00,80.00,0.00%,80.00,94,3,62,31.33,151.61,17.74%,82.35
+Chris Woakes,All-Rounder,74000000,Royal Challengers Bangalore,2018,Overseas,14,157,6,118,26.17,133.05,12.71%,86.41,12,1,15,12.00,80.00,0.00%,80.00,94,3,62,31.33,151.61,17.74%,82.35
+Chris Woakes,All-Rounder,15000000,Delhi Capitals,2020,Overseas,14,157,6,118,26.17,133.05,12.71%,86.41,12,1,15,12.00,80.00,0.00%,80.00,94,3,62,31.33,151.61,17.74%,82.35
+Christopher Barnwell,All-Rounder,3750000,Royal Challengers Bangalore,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Christopher Gayle,Batsman,20000000,Kings XI Punjab,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Christopher Morris,All-Rounder,46875000,Chennai Super Kings,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Christopher Morris,All-Rounder,14000000,Rajasthan Royals,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Christopher Morris,All-Rounder,70000000,Delhi Daredevils,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Christopher Morris,All-Rounder,100000000,Royal Challengers Bangalore,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Christopher Morris,All-Rounder,162500000,Rajasthan Royals,2021,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clinton McKay,Bowler,7500000,Sunrisers Hyderabad,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colin De Grandhomme,All-Rounder,22000000,Royal Challengers Bangalore,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colin Ingram,Batsman,64000000,Delhi Capitals,2019,Overseas,32,973,28,612,34.75,158.99,22.55%,66.46,121,4,90,30.25,134.44,14.44%,74.03,450,12,273,37.50,164.84,23.44%,71.77
+Colin Munro,All-Rounder,3000000,Kolkata Knight Riders,2016,Overseas,49,1010,40,717,25.25,140.86,17.85%,66.55,219,6,158,36.50,138.61,17.09%,64.89,292,18,236,16.22,123.73,16.10%,59.60
+Colin Munro,All-Rounder,19000000,Delhi Daredevils,2018,Overseas,49,1010,40,717,25.25,140.86,17.85%,66.55,219,6,158,36.50,138.61,17.09%,64.89,292,18,236,16.22,123.73,16.10%,59.60
+Corey Anderson,All-Rounder,45000000,Mumbai Indians,2014,Overseas,31,677,26,510,26.04,132.75,17.06%,61.23,284,7,210,40.57,135.24,15.71%,72.32,284,13,227,21.85,125.11,18.06%,47.31
+Corey Anderson,All-Rounder,10000000,Delhi Daredevils,2017,Overseas,31,677,26,510,26.04,132.75,17.06%,61.23,284,7,210,40.57,135.24,15.71%,72.32,284,13,227,21.85,125.11,18.06%,47.31
+Dale Steyn,Bowler,23000000,Gujarat Lions,2016,Overseas,20,110,8,92,13.75,119.57,14.13%,68.35,3,0,7,NA,42.86,0.00%,42.86,84,5,69,16.80,121.74,13.04%,76.67
+Dale Steyn,Bowler,20000000,Royal Challengers Bangalore,2020,Overseas,20,110,8,92,13.75,119.57,14.13%,68.35,3,0,7,NA,42.86,0.00%,42.86,84,5,69,16.80,121.74,13.04%,76.67
+Dan Christian,All-Rounder,48000000,Royal Challengers Bangalore,2021,Overseas,60,1207,48,864,25.15,139.70,16.32%,69.85,153,11,135,13.91,113.33,7.41%,80.80,464,17,343,27.29,135.28,16.03%,68.06
+Daniel Christian,All-Rounder,7500000,Royal Challengers Bangalore,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Daniel Christian,All-Rounder,10000000,Rising Pune Supergiant,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Daniel Christian,All-Rounder,15000000,Delhi Daredevils,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Daniel Sams,All-Rounder,26000000,Mumbai Indians,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darcy Short,All-Rounder,40000000,Rajasthan Royals,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darren Bravo,Batsman,5000000,Kolkata Knight Riders,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darren Sammy,All-Rounder,31875000,Sunrisers Hyderabad,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darren Sammy,All-Rounder,35000000,Sunrisers Hyderabad,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darren Sammy,All-Rounder,28000000,Royal Challengers Bangalore,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darren Sammy,All-Rounder,3000000,Kings XI Punjab,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darshan Nalkande,All-Rounder,3000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darshan Nalkande,All-Rounder,2000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Daryl Mitchell,All-Rounder,7500000,Rajasthan Royals,2022,Overseas,2,54,0,47,NA,114.89,8.51%,83.72,NA,NA,NA,NA,NA,NA,NA,26,0,18,NA,144.44,16.67%,80.00
+David Miller,Batsman,30000000,Kings XI Punjab,2018,Overseas,83,1957,56,1375,34.95,142.33,16.29%,75.85,621,20,487,31.05,127.52,12.73%,75.06,1041,28,662,37.18,157.25,20.24%,75.19
+David Miller,Batsman,7500000,Rajasthan Royals,2020,Overseas,83,1957,56,1375,34.95,142.33,16.29%,75.85,621,20,487,31.05,127.52,12.73%,75.06,1041,28,662,37.18,157.25,20.24%,75.19
+David Miller,Batsman,30000000,Gujarat Titans,2022,Overseas,83,1957,56,1375,34.95,142.33,16.29%,75.85,621,20,487,31.05,127.52,12.73%,75.06,1041,28,662,37.18,157.25,20.24%,75.19
+David Warner,Batsman,55000000,Sunrisers Hyderabad,2014,Overseas,83,2975,71,2059,41.90,144.49,19.86%,67.33,868,19,633,45.68,137.12,16.75%,67.93,1597,41,1073,38.95,148.84,21.34%,68.13
+David Warner,Batsman,62500000,Delhi Capitals,2022,Overseas,83,2975,71,2059,41.90,144.49,19.86%,67.33,868,19,633,45.68,137.12,16.75%,67.93,1597,41,1073,38.95,148.84,21.34%,68.13
+David Wiese,All-Rounder,28000000,Royal Challengers Bangalore,2015,Overseas,20,245,10,177,24.50,138.42,15.25%,80.67,25,1,27,25.00,92.59,7.41%,68.00,196,9,131,21.78,149.62,17.56%,81.48
+David Willey,All-Rounder,20000000,Royal Challengers Bangalore,2022,Overseas,46,1005,41,672,24.51,149.55,20.83%,60.34,142,4,88,35.50,161.36,23.86%,59.70,319,17,267,18.76,119.48,14.98%,55.07
+Dawid Malan,All-Rounder,15000000,Punjab Kings,2021,Overseas,34,1060,28,779,37.86,136.07,18.49%,68.35,173,5,131,34.60,132.06,12.98%,76.32,404,12,292,33.67,138.36,21.58%,61.14
+Debabrata Das,Wicket Keeper,2000000,Kolkata Knight Riders,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deepak Chahar,All-Rounder,1000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deepak Chahar,All-Rounder,8000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deepak Chahar,Bowler,140000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deepak Hooda,Bowler,4000000,Rajasthan Royals,2014,Indian,24,295,20,216,14.75,136.57,14.35%,75.14,115,8,80,14.38,143.75,13.75%,79.71,159,11,125,14.45,127.20,13.60%,73.15
+Deepak Hooda,All-Rounder,42000000,Sunrisers Hyderabad,2016,Indian,24,295,20,216,14.75,136.57,14.35%,75.14,115,8,80,14.38,143.75,13.75%,79.71,159,11,125,14.45,127.20,13.60%,73.15
+Deepak Hooda,All-Rounder,36000000,Sunrisers Hyderabad,2018,Indian,24,295,20,216,14.75,136.57,14.35%,75.14,115,8,80,14.38,143.75,13.75%,79.71,159,11,125,14.45,127.20,13.60%,73.15
+Deepak Hooda,All-Rounder,5000000,Kings XI Punjab,2020,Indian,24,295,20,216,14.75,136.57,14.35%,75.14,115,8,80,14.38,143.75,13.75%,79.71,159,11,125,14.45,127.20,13.60%,73.15
+Deepak Hooda,All-Rounder,57500000,Lucknow Super Giants,2022,Indian,24,295,20,216,14.75,136.57,14.35%,75.14,115,8,80,14.38,143.75,13.75%,79.71,159,11,125,14.45,127.20,13.60%,73.15
+Deepak Punia,All-Rounder,1000000,Mumbai Indians,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devdutt Padikkal,Batsman,2000000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devdutt Padikkal,Batsman,77500000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devon Conway,Batsman,10000000,Chennai Super Kings,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dewald Brevis,Batsman,30000000,Mumbai Indians,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dhawal Kulkarni,Bowler,11000000,Rajasthan Royals,2014,Indian,10,67,4,53,16.75,126.42,11.32%,82.98,26,1,20,26.00,130.00,10.00%,77.78,36,3,29,12.00,124.14,13.79%,80.00
+Dhawal Kulkarni,Bowler,20000000,Gujarat Lions,2016,Indian,10,67,4,53,16.75,126.42,11.32%,82.98,26,1,20,26.00,130.00,10.00%,77.78,36,3,29,12.00,124.14,13.79%,80.00
+Dhawal Kulkarni,Bowler,7500000,Rajasthan Royals,2018,Indian,10,67,4,53,16.75,126.42,11.32%,82.98,26,1,20,26.00,130.00,10.00%,77.78,36,3,29,12.00,124.14,13.79%,80.00
+Dhruv Jurel,Wicket Keeper,2000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dhruv Shorey,All-Rounder,2000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Digvijay Deshmukh,All-Rounder,2000000,Mumbai Indians,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dinesh Karthik,Wicket Keeper,125000000,Delhi Daredevils,2014,Indian,59,1311,53,1052,24.74,124.62,15.87%,65.42,417,17,334,24.53,124.85,14.67%,71.93,674,30,550,22.47,122.55,16.36%,60.43
+Dinesh Karthik,Wicket Keeper,105000000,Royal Challengers Bangalore,2015,Indian,59,1311,53,1052,24.74,124.62,15.87%,65.42,417,17,334,24.53,124.85,14.67%,71.93,674,30,550,22.47,122.55,16.36%,60.43
+Dinesh Karthik,Wicket Keeper,23000000,Gujarat Lions,2016,Indian,59,1311,53,1052,24.74,124.62,15.87%,65.42,417,17,334,24.53,124.85,14.67%,71.93,674,30,550,22.47,122.55,16.36%,60.43
+Dinesh Karthik,Wicket Keeper,74000000,Kolkata Knight Riders,2018,Indian,59,1311,53,1052,24.74,124.62,15.87%,65.42,417,17,334,24.53,124.85,14.67%,71.93,674,30,550,22.47,122.55,16.36%,60.43
+Dinesh Karthik,Wicket Keeper,55000000,Royal Challengers Bangalore,2022,Indian,59,1311,53,1052,24.74,124.62,15.87%,65.42,417,17,334,24.53,124.85,14.67%,71.93,674,30,550,22.47,122.55,16.36%,60.43
+Dinesh Salunkhe,All-Rounder,1000000,Rajasthan Royals,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dirk Nannes,Bowler,45000000,Chennai Super Kings,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dishant Yagnik,Wicket Keeper,3000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dominic Drakes,All-Rounder,11000000,Gujarat Titans,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Domnic Joseph Muthuswamy,Bowler,7500000,Delhi Daredevils,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dushmanta Chameera,Bowler,20000000,Lucknow Super Giants,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dushmantha Chameera,Bowler,5000000,Rajasthan Royals,2018,Overseas,6,16,1,20,16.00,80.00,5.00%,63.16,8,0,8,NA,100.00,12.50%,57.14,6,1,10,6.00,60.00,0.00%,60.00
+Dwaine Pretorius,All-Rounder,5000000,Chennai Super Kings,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dwayne Bravo,All-Rounder,64000000,Chennai Super Kings,2018,Overseas,89,1427,66,1181,21.62,120.83,13.21%,66.83,331,14,335,23.64,98.81,7.76%,65.05,671,35,501,19.17,133.93,16.17%,68.81
+Dwayne Bravo,All-Rounder,44000000,Chennai Super Kings,2022,Overseas,89,1427,66,1181,21.62,120.83,13.21%,66.83,331,14,335,23.64,98.81,7.76%,65.05,671,35,501,19.17,133.93,16.17%,68.81
+Dwayne Smith,Batsman,45000000,Chennai Super Kings,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dwayne Smith,All-Rounder,23000000,Gujarat Lions,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eklavya Dwivedi,Wicket Keeper,1000000,Chennai Super Kings,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eklavya Dwivedi,Wicket Keeper,10000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eklavya Dwivedi,Wicket Keeper,7500000,Sunrisers Hyderabad,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eoin Morgan,Batsman,15000000,Sunrisers Hyderabad,2015,Overseas,97,2261,82,1814,27.57,124.64,14.66%,64.66,579,22,477,26.32,121.38,13.84%,64.96,954,33,768,28.91,124.22,14.32%,63.83
+Eoin Morgan,Batsman,20000000,Kings XI Punjab,2017,Overseas,97,2261,82,1814,27.57,124.64,14.66%,64.66,579,22,477,26.32,121.38,13.84%,64.96,954,33,768,28.91,124.22,14.32%,63.83
+Eoin Morgan,Batsman,52500000,Kolkata Knight Riders,2020,Overseas,97,2261,82,1814,27.57,124.64,14.66%,64.66,579,22,477,26.32,121.38,13.84%,64.96,954,33,768,28.91,124.22,14.32%,63.83
+Evin Lewis,Batsman,38000000,Mumbai Indians,2018,Overseas,5,111,5,71,22.20,156.34,21.13%,58.93,31,2,27,15.50,114.81,11.11%,54.17,80,2,37,40.00,216.22,32.43%,80.00
+Evin Lewis,Batsman,20000000,Lucknow Super Giants,2022,Overseas,5,111,5,71,22.20,156.34,21.13%,58.93,31,2,27,15.50,114.81,11.11%,54.17,80,2,37,40.00,216.22,32.43%,80.00
+Fabian Allen,All-Rounder,5000000,Sunrisers Hyderabad,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fabian Allen,All-Rounder,7500000,Punjab Kings,2021,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fabian Allen,All-Rounder,7500000,Mumbai Indians,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Faf Du Plessis,Batsman,47500000,Chennai Super Kings,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Faf Du Plessis,Batsman,16000000,Chennai Super Kings,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Faf Du Plessis,Batsman,70000000,Royal Challengers Bangalore,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Farhaan Behardien,All-Rounder,3000000,Kings XI Punjab,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fazalhaq Farooqi,Bowler,5000000,Sunrisers Hyderabad,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fidel Edwards,Bowler,15750000,Rajasthan Royals,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finn Allen,Batsman,8000000,Royal Challengers Bangalore,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gautam Gambhir,Batsman,28000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+George Bailey,Batsman,32500000,Kings XI Punjab,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Glenn Maxwell,All-Rounder,75000000,Mumbai Indians,2013,Overseas,109,2540,98,1565,25.92,162.30,22.75%,69.81,922,43,559,21.44,164.94,21.11%,75.28,968,32,595,30.25,162.69,24.87%,63.98
+Glenn Maxwell,All-Rounder,60000000,Kings XI Punjab,2014,Overseas,109,2540,98,1565,25.92,162.30,22.75%,69.81,922,43,559,21.44,164.94,21.11%,75.28,968,32,595,30.25,162.69,24.87%,63.98
+Glenn Maxwell,All-Rounder,90000000,Delhi Daredevils,2018,Overseas,109,2540,98,1565,25.92,162.30,22.75%,69.81,922,43,559,21.44,164.94,21.11%,75.28,968,32,595,30.25,162.69,24.87%,63.98
+Glenn Maxwell,All-Rounder,107500000,Kings XI Punjab,2020,Overseas,109,2540,98,1565,25.92,162.30,22.75%,69.81,922,43,559,21.44,164.94,21.11%,75.28,968,32,595,30.25,162.69,24.87%,63.98
+Glenn Maxwell,All-Rounder,142500000,Royal Challengers Bangalore,2021,Overseas,109,2540,98,1565,25.92,162.30,22.75%,69.81,922,43,559,21.44,164.94,21.11%,75.28,968,32,595,30.25,162.69,24.87%,63.98
+Glenn Phillips,Wicket Keeper,15000000,Sunrisers Hyderabad,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gurinder Sandhu,Bowler,17000000,Delhi Daredevils,2015,Indian,7,26,3,33,8.67,78.79,6.06%,58.06,4,1,7,4.00,57.14,0.00%,57.14,10,1,9,10.00,111.11,11.11%,75.00
+Gurkeerat Singh Mann,All-Rounder,5000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gurkeerat Singh Mann,All-Rounder,7500000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gurkeerat Singh Mann,All-Rounder,5000000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gurkeerat Singh Mann,Batsman,13000000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hanuma Vihari,Batsman,1000000,Sunrisers Hyderabad,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hanuma Vihari,Batsman,20000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harbhajan Singh,Bowler,20000000,Chennai Super Kings,2018,Indian,38,361,20,265,18.05,136.23,20.00%,53.30,42,2,52,21.00,80.77,9.62%,38.30,297,16,196,18.56,151.53,23.47%,55.33
+Harbhajan Singh,Bowler,20000000,Kolkata Knight Riders,2021,Indian,38,361,20,265,18.05,136.23,20.00%,53.30,42,2,52,21.00,80.77,9.62%,38.30,297,16,196,18.56,151.53,23.47%,55.33
+Hardik Pandya,All-Rounder,1000000,Mumbai Indians,2015,Indian,24,234,19,181,12.32,129.28,17.68%,55.03,57,4,42,14.25,135.71,16.67%,54.29,117,11,107,10.64,109.35,15.89%,50.00
+Hardus Viljoen,Bowler,7500000,Kings XI Punjab,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harpreet Brar,All-Rounder,2000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harpreet Brar,All-Rounder,38000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harry Gurney,Bowler,7500000,Kolkata Knight Riders,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harshal Patel,Bowler,4000000,Royal Challengers Bangalore,2014,Indian,9,32,6,19,5.33,168.42,21.05%,66.67,6,0,2,NA,300.00,50.00%,0.00,24,6,16,4.00,150.00,18.75%,61.54
+Harshal Patel,All-Rounder,2000000,Delhi Daredevils,2018,Indian,9,32,6,19,5.33,168.42,21.05%,66.67,6,0,2,NA,300.00,50.00%,0.00,24,6,16,4.00,150.00,18.75%,61.54
+Harshal Patel,All-Rounder,107500000,Royal Challengers Bangalore,2022,Indian,9,32,6,19,5.33,168.42,21.05%,66.67,6,0,2,NA,300.00,50.00%,0.00,24,6,16,4.00,150.00,18.75%,61.54
+Heinrich Klaasen,Wicket Keeper,5000000,Royal Challengers Bangalore,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Himmat Singh,Batsman,6500000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hrithik Shokeen,All-Rounder,2000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+HS Sharath,Bowler,1000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Imran Tahir,Bowler,10000000,Chennai Super Kings,2018,Overseas,7,35,4,34,8.75,102.94,14.71%,44.83,4,1,4,4.00,100.00,25.00%,0.00,30,3,28,10.00,107.14,14.29%,50.00
+Iqbal Abdullah,All-Rounder,6500000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iqbal Abdullah,All-Rounder,1000000,Royal Challengers Bangalore,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irfan Pathan,All-Rounder,24000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irfan Pathan,All-Rounder,15000000,Chennai Super Kings,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irfan Pathan,All-Rounder,10000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishan Kishan,Wicket Keeper,3500000,Gujarat Lions,2016,Indian,5,42,4,41,10.50,102.44,12.20%,61.11,26,1,24,26.00,108.33,12.50%,66.67,16,3,17,5.33,94.12,11.76%,53.33
+Ishan Kishan,Wicket Keeper,62000000,Mumbai Indians,2018,Indian,5,42,4,41,10.50,102.44,12.20%,61.11,26,1,24,26.00,108.33,12.50%,66.67,16,3,17,5.33,94.12,11.76%,53.33
+Ishan Kishan,Wicket Keeper,152500000,Mumbai Indians,2022,Indian,5,42,4,41,10.50,102.44,12.20%,61.11,26,1,24,26.00,108.33,12.50%,66.67,16,3,17,5.33,94.12,11.76%,53.33
+Ishan Porel,Bowler,2500000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishan Porel,Bowler,2000000,Kings XI Punjab,NA,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishank Jaggi,Batsman,1000000,Kolkata Knight Riders,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishank Jaggi,Batsman,2000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishant Sharma,Bowler,26000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishant Sharma,Bowler,38000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishant Sharma,Bowler,11000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishwar Chandra Pandey,Bowler,15000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ishwar Chandra Pandey,Bowler,2000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Isuru Udana,All-Rounder,5000000,Royal Challengers Bangalore,2020,Overseas,1,0,1,2,0.00,0.00,0.00%,0.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+J Suchith,Bowler,3000000,Sunrisers Hyderabad,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+J Suchith,All-Rounder,1000000,Mumbai Indians,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jacob Oram,All-Rounder,3750000,Mumbai Indians,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jacques Kallis,All-Rounder,55000000,Kolkata Knight Riders,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jagadeesha Suchith,Bowler,2000000,Sunrisers Hyderabad,2022,Indian,5,48,1,32,48.00,150.00,18.75%,76.92,19,1,10,19.00,190.00,30.00%,71.43,29,0,22,NA,131.82,13.64%,78.95
+Jalaj Saxena,All-Rounder,9000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jalaj Saxena,All-Rounder,1000000,Royal Challengers Bangalore,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jalaj Saxena,All-Rounder,2000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jalaj Saxena,All-Rounder,3000000,Punjab Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+James Faulkner,All-Rounder,30000000,Rajasthan Royals,2013,Overseas,77,1060,44,800,24.09,132.50,12.38%,80.46,181,6,177,30.17,102.26,6.21%,74.10,536,27,381,19.85,140.68,14.70%,82.46
+James Neesham,All-Rounder,10000000,Delhi Daredevils,2014,Overseas,21,321,16,252,20.06,127.38,15.48%,69.01,50,3,48,16.67,104.17,10.42%,60.47,98,8,86,12.25,113.95,11.63%,71.05
+James Neesham,All-Rounder,5000000,Kolkata Knight Riders,2015,Overseas,21,321,16,252,20.06,127.38,15.48%,69.01,50,3,48,16.67,104.17,10.42%,60.47,98,8,86,12.25,113.95,11.63%,71.05
+James Neesham,All-Rounder,5000000,Kings XI Punjab,2020,Overseas,21,321,16,252,20.06,127.38,15.48%,69.01,50,3,48,16.67,104.17,10.42%,60.47,98,8,86,12.25,113.95,11.63%,71.05
+James Neesham,All-Rounder,5000000,Mumbai Indians,2021,Overseas,21,321,16,252,20.06,127.38,15.48%,69.01,50,3,48,16.67,104.17,10.42%,60.47,98,8,86,12.25,113.95,11.63%,71.05
+James Neesham,All-Rounder,15000000,Rajasthan Royals,2022,Overseas,21,321,16,252,20.06,127.38,15.48%,69.01,50,3,48,16.67,104.17,10.42%,60.47,98,8,86,12.25,113.95,11.63%,71.05
+Jaskaran Singh,Bowler,1000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jason Behrendorff,Bowler,15000000,Mumbai Indians,2018,Overseas,6,55,2,44,27.50,125.00,13.64%,76.32,1,0,1,NA,100.00,0.00%,100.00,28,1,18,28.00,155.56,16.67%,93.33
+Jason Behrendorff,Bowler,7500000,Royal Challengers Bangalore,2022,Overseas,6,55,2,44,27.50,125.00,13.64%,76.32,1,0,1,NA,100.00,0.00%,100.00,28,1,18,28.00,155.56,16.67%,93.33
+Jason Holder,Bowler,1500000,Chennai Super Kings,2013,Overseas,7,45,7,40,6.43,112.50,17.50%,39.39,2,0,8,NA,25.00,0.00%,25.00,41,6,28,6.83,146.43,25.00%,42.86
+Jason Holder,Bowler,7500000,Sunrisers Hyderabad,2014,Overseas,7,45,7,40,6.43,112.50,17.50%,39.39,2,0,8,NA,25.00,0.00%,25.00,41,6,28,6.83,146.43,25.00%,42.86
+Jason Holder,All-Rounder,7000000,Kolkata Knight Riders,2016,Overseas,7,45,7,40,6.43,112.50,17.50%,39.39,2,0,8,NA,25.00,0.00%,25.00,41,6,28,6.83,146.43,25.00%,42.86
+Jason Holder,All-Rounder,87500000,Lucknow Super Giants,2022,Overseas,7,45,7,40,6.43,112.50,17.50%,39.39,2,0,8,NA,25.00,0.00%,25.00,41,6,28,6.83,146.43,25.00%,42.86
+Jason Roy,Batsman,10000000,Gujarat Lions,2017,Overseas,57,1795,52,1168,34.52,153.68,23.29%,64.40,208,7,165,29.71,126.06,12.73%,76.39,910,28,577,32.50,157.71,25.48%,58.60
+Jason Roy,Batsman,15000000,Delhi Daredevils,2018,Overseas,57,1795,52,1168,34.52,153.68,23.29%,64.40,208,7,165,29.71,126.06,12.73%,76.39,910,28,577,32.50,157.71,25.48%,58.60
+Jason Roy,Batsman,15000000,Delhi Capitals,2020,Overseas,57,1795,52,1168,34.52,153.68,23.29%,64.40,208,7,165,29.71,126.06,12.73%,76.39,910,28,577,32.50,157.71,25.48%,58.60
+Jason Roy,Batsman,20000000,Gujarat Titans,2022,Overseas,57,1795,52,1168,34.52,153.68,23.29%,64.40,208,7,165,29.71,126.06,12.73%,76.39,910,28,577,32.50,157.71,25.48%,58.60
+Jasprit Bumrah,Bowler,12000000,Mumbai Indians,2014,Indian,5,9,1,16,9.00,56.25,6.25%,33.33,0,0,2,NA,0.00,0.00%,0.00,9,1,14,9.00,64.29,7.14%,38.46
+Jatin Saxena,All-Rounder,2000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Javon Searless,All-Rounder,3000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jayant Yadav,All-Rounder,1000000,Delhi Daredevils,2014,Indian,2,6,0,10,NA,60.00,0.00%,60.00,4,0,6,NA,66.67,0.00%,66.67,2,0,4,NA,50.00,0.00%,50.00
+Jayant Yadav,All-Rounder,5000000,Delhi Daredevils,2018,Indian,2,6,0,10,NA,60.00,0.00%,60.00,4,0,6,NA,66.67,0.00%,66.67,2,0,4,NA,50.00,0.00%,50.00
+Jayant Yadav,All-Rounder,17000000,Gujarat Titans,2022,Indian,2,6,0,10,NA,60.00,0.00%,60.00,4,0,6,NA,66.67,0.00%,66.67,2,0,4,NA,50.00,0.00%,50.00
+Jaydev Shah,All-Rounder,2000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jaydev Unadkat,Bowler,39375000,Royal Challengers Bangalore,2013,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,28000000,Delhi Daredevils,2014,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,11000000,Delhi Daredevils,2015,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,16000000,Kolkata Knight Riders,2016,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,3000000,Rising Pune Supergiant,2017,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,115000000,Rajasthan Royals,2018,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,84000000,Rajasthan Royals,2019,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,30000000,Rajasthan Royals,2020,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jaydev Unadkat,Bowler,13000000,Mumbai Indians,2022,Indian,4,3,1,8,3.00,37.50,0.00%,37.50,1,0,5,NA,20.00,0.00%,20.00,1,1,2,1.00,50.00,0.00%,50.00
+Jean-Paul Duminy,Batsman,22000000,Delhi Daredevils,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jean-Paul Duminy,All-Rounder,10000000,Mumbai Indians,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jeevan Mendis,All-Rounder,3750000,Delhi Daredevils,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jesse Ryder,All-Rounder,19500000,Delhi Daredevils,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jhye Richardson,Bowler,140000000,Punjab Kings,2021,Overseas,1,6,0,8,NA,75.00,12.50%,28.57,NA,NA,NA,NA,NA,NA,NA,6,0,8,NA,75.00,12.50%,28.57
+Jitesh Sharma,Wicket Keeper,1000000,Mumbai Indians,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jitesh Sharma,Wicket Keeper,2000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Joe Denly,Batsman,10000000,Kolkata Knight Riders,2019,Overseas,38,868,35,650,24.80,133.54,18.62%,60.87,137,3,113,45.67,121.24,12.39%,71.72,326,15,247,21.73,131.98,19.84%,51.52
+Joel Paris,Bowler,3000000,Delhi Daredevils,2016,Overseas,2,14,1,17,14.00,82.35,5.88%,62.50,2,0,4,NA,50.00,0.00%,50.00,12,1,13,12.00,92.31,7.69%,66.67
+Jofra Archer,All-Rounder,72000000,Rajasthan Royals,2018,Overseas,2,21,0,13,NA,161.54,23.08%,90.00,NA,NA,NA,NA,NA,NA,NA,19,0,11,NA,172.73,27.27%,87.50
+Jofra Archer,All-Rounder,80000000,Mumbai Indians,2022,Overseas,2,21,0,13,NA,161.54,23.08%,90.00,NA,NA,NA,NA,NA,NA,NA,19,0,11,NA,172.73,27.27%,87.50
+Johan Botha,All-Rounder,33750000,Delhi Daredevils,2013,Overseas,32,388,26,315,14.92,123.17,13.02%,72.99,82,7,90,11.71,91.11,3.33%,78.16,219,10,140,21.90,156.43,22.14%,70.64
+John Hastings,All-Rounder,5000000,Chennai Super Kings,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+John Hastings,Bowler,13000000,Kolkata Knight Riders,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jonny Bairstow,Wicket Keeper,22000000,Sunrisers Hyderabad,2019,Overseas,28,746,22,545,33.91,136.88,15.23%,76.62,105,6,85,17.50,123.53,8.24%,85.90,148,6,120,24.67,123.33,15.00%,62.75
+Jonny Bairstow,Wicket Keeper,67500000,Punjab Kings,2022,Overseas,28,746,22,545,33.91,136.88,15.23%,76.62,105,6,85,17.50,123.53,8.24%,85.90,148,6,120,24.67,123.33,15.00%,62.75
+Jos Buttler,Wicket Keeper,38000000,Mumbai Indians,2016,Overseas,69,1736,55,1141,31.56,152.15,19.28%,74.92,330,9,236,36.67,139.83,13.98%,78.82,844,30,539,28.13,156.59,21.52%,70.45
+Jos Buttler,Wicket Keeper,44000000,Rajasthan Royals,2018,Overseas,69,1736,55,1141,31.56,152.15,19.28%,74.92,330,9,236,36.67,139.83,13.98%,78.82,844,30,539,28.13,156.59,21.52%,70.45
+Josh Hazlewood,Bowler,5000000,Mumbai Indians,2014,Overseas,2,3,0,6,NA,50.00,0.00%,50.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Josh Hazlewood,Bowler,20000000,Chennai Super Kings,2020,Overseas,2,3,0,6,NA,50.00,0.00%,50.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Josh Hazlewood,Bowler,77500000,Royal Challengers Bangalore,2022,Overseas,2,3,0,6,NA,50.00,0.00%,50.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Joshua Philippe,Wicket Keeper,2000000,Royal Challengers Bangalore,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Juan Theron,Bowler,3000000,Rajasthan Royals,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Krishnappa Gowtham,All-Rounder,9000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.C Cariappa,Bowler,2000000,Rajasthan Royals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.C Cariappa,Bowler,3000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.C. Cariappa,Bowler,24000000,Kolkata Knight Riders,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.C. Cariappa,Bowler,8000000,Kings XI Punjab,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.K. Jiyaz,Bowler,1000000,Delhi Daredevils,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.M. Asif,Bowler,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K.S. Bharat,Wicket Keeper,20000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kagiso Rabada,Bowler,50000000,Delhi Daredevils,2017,Overseas,5,8,2,14,4.00,57.14,0.00%,57.14,NA,NA,NA,NA,NA,NA,NA,8,1,13,8.00,61.54,0.00%,61.54
+Kagiso Rabada,Bowler,42000000,Delhi Daredevils,2018,Overseas,5,8,2,14,4.00,57.14,0.00%,57.14,NA,NA,NA,NA,NA,NA,NA,8,1,13,8.00,61.54,0.00%,61.54
+Kagiso Rabada,Bowler,92500000,Punjab Kings,2022,Overseas,5,8,2,14,4.00,57.14,0.00%,57.14,NA,NA,NA,NA,NA,NA,NA,8,1,13,8.00,61.54,0.00%,61.54
+Kamlesh Nagarkoti,All-Rounder,32000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kamlesh Nagarkoti,All-Rounder,11000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kane Richardson,Bowler,52500000,Pune Warriors India,2013,Overseas,18,192,11,167,17.45,114.97,11.38%,67.57,57,1,42,57.00,135.71,16.67%,60.00,93,7,100,13.29,93.00,7.00%,67.74
+Kane Richardson,Bowler,10000000,Rajasthan Royals,2014,Overseas,18,192,11,167,17.45,114.97,11.38%,67.57,57,1,42,57.00,135.71,16.67%,60.00,93,7,100,13.29,93.00,7.00%,67.74
+Kane Richardson,Bowler,20000000,Royal Challengers Bangalore,2016,Overseas,18,192,11,167,17.45,114.97,11.38%,67.57,57,1,42,57.00,135.71,16.67%,60.00,93,7,100,13.29,93.00,7.00%,67.74
+Kane Richardson,Bowler,40000000,Royal Challengers Bangalore,2020,Overseas,18,192,11,167,17.45,114.97,11.38%,67.57,57,1,42,57.00,135.71,16.67%,60.00,93,7,100,13.29,93.00,7.00%,67.74
+Kane Williamson,All-Rounder,6000000,Sunrisers Hyderabad,2015,Overseas,42,1297,34,1062,38.15,122.13,15.63%,67.08,358,9,315,39.78,113.65,12.06%,70.04,574,16,456,35.88,125.88,17.54%,63.83
+Kane Williamson,Batsman,30000000,Sunrisers Hyderabad,2018,Overseas,42,1297,34,1062,38.15,122.13,15.63%,67.08,358,9,315,39.78,113.65,12.06%,70.04,574,16,456,35.88,125.88,17.54%,63.83
+Kanishk Seth,All-Rounder,2000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Karan Sharma,All-Rounder,2000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Karanveer Singh,All-Rounder,1000000,Kings XI Punjab,2014,Indian,4,12,1,17,12.00,70.59,5.88%,50.00,NA,NA,NA,NA,NA,NA,NA,12,1,17,12.00,70.59,5.88%,50.00
+Karn Sharma,Bowler,37500000,Sunrisers Hyderabad,2014,Indian,27,267,13,230,20.54,116.09,10.87%,69.76,104,1,70,104.00,148.57,17.14%,72.41,130,9,136,14.44,95.59,6.62%,69.29
+Karn Sharma,All-Rounder,32000000,Mumbai Indians,2017,Indian,27,267,13,230,20.54,116.09,10.87%,69.76,104,1,70,104.00,148.57,17.14%,72.41,130,9,136,14.44,95.59,6.62%,69.29
+Karn Sharma,Bowler,50000000,Chennai Super Kings,2018,Indian,27,267,13,230,20.54,116.09,10.87%,69.76,104,1,70,104.00,148.57,17.14%,72.41,130,9,136,14.44,95.59,6.62%,69.29
+Karn Sharma,Bowler,5000000,Royal Challengers Bangalore,2022,Indian,27,267,13,230,20.54,116.09,10.87%,69.76,104,1,70,104.00,148.57,17.14%,72.41,130,9,136,14.44,95.59,6.62%,69.29
+Kartik Tyagi,Bowler,13000000,Rajasthan Royals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kartik Tyagi,Bowler,40000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Karun Nair,Batsman,7500000,Rajasthan Royals,2014,Indian,37,877,32,686,27.41,127.84,16.91%,65.44,279,14,224,19.93,124.55,14.29%,75.52,507,17,416,29.82,121.88,16.83%,57.51
+Karun Nair,Batsman,40000000,Delhi Daredevils,2016,Indian,37,877,32,686,27.41,127.84,16.91%,65.44,279,14,224,19.93,124.55,14.29%,75.52,507,17,416,29.82,121.88,16.83%,57.51
+Karun Nair,Batsman,56000000,Kings XI Punjab,2018,Indian,37,877,32,686,27.41,127.84,16.91%,65.44,279,14,224,19.93,124.55,14.29%,75.52,507,17,416,29.82,121.88,16.83%,57.51
+Karun Nair,Batsman,5000000,Kolkata Knight Riders,2021,Indian,37,877,32,686,27.41,127.84,16.91%,65.44,279,14,224,19.93,124.55,14.29%,75.52,507,17,416,29.82,121.88,16.83%,57.51
+Karun Nair,Batsman,14000000,Rajasthan Royals,2022,Indian,37,877,32,686,27.41,127.84,16.91%,65.44,279,14,224,19.93,124.55,14.29%,75.52,507,17,416,29.82,121.88,16.83%,57.51
+Kedar Jadhav,Batsman,20000000,Delhi Daredevils,2014,Indian,39,623,21,465,29.67,133.98,15.27%,74.37,134,5,116,26.80,115.52,9.48%,78.10,365,12,248,30.42,147.18,17.74%,75.98
+Kedar Jadhav,All-Rounder,78000000,Chennai Super Kings,2018,Indian,39,623,21,465,29.67,133.98,15.27%,74.37,134,5,116,26.80,115.52,9.48%,78.10,365,12,248,30.42,147.18,17.74%,75.98
+Kedar Jadhav,All-Rounder,20000000,Sunrisers Hyderabad,2021,Indian,39,623,21,465,29.67,133.98,15.27%,74.37,134,5,116,26.80,115.52,9.48%,78.10,365,12,248,30.42,147.18,17.74%,75.98
+Keemo Paul,All-Rounder,5000000,Delhi Capitals,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kevin Pietersen,Batsman,90000000,Delhi Daredevils,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kevin Pietersen,Batsman,20000000,Sunrisers Hyderabad,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kevin Pietersen,Batsman,35000000,Rising Pune Supergiant,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kevon Cooper,All-Rounder,3000000,Rajasthan Royals,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kieron Pollard,All-Rounder,54000000,Mumbai Indians,2018,Overseas,82,1697,53,1180,32.02,143.81,17.71%,66.84,462,9,328,51.33,140.85,15.55%,67.87,981,37,686,26.51,143.00,18.22%,66.13
+Kishore Pramod Kamath,All-Rounder,14000000,Mumbai Indians,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KL Rahul,Batsman,10000000,Sunrisers Hyderabad,2014,Indian,34,904,26,689,34.77,131.20,15.97%,69.08,252,6,213,42.00,118.31,12.68%,66.67,539,16,378,33.69,142.59,18.52%,71.75
+KL Rahul,Batsman,110000000,Kings XI Punjab,2018,Indian,34,904,26,689,34.77,131.20,15.97%,69.08,252,6,213,42.00,118.31,12.68%,66.67,539,16,378,33.69,142.59,18.52%,71.75
+Kona Srikar Bharat,Wicket Keeper,1000000,Delhi Daredevils,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kona Srikar Bharat,Wicket Keeper,2000000,Royal Challengers Bangalore,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Krishnappa Gowtham,All-Rounder,20000000,Mumbai Indians,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Krishnappa Gowtham,Bowler,62000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Krishnappa Gowtham,All-Rounder,92500000,Chennai Super Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Krismar Santokie,Bowler,3000000,Mumbai Indians,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Krunal Pandya,All-Rounder,20000000,Mumbai Indians,2016,Indian,8,237,5,124,47.40,191.13,28.23%,79.78,129,1,51,129.00,252.94,37.25%,96.88,108,4,73,27.00,147.95,21.92%,70.18
+Krunal Pandya,All-Rounder,88000000,Mumbai Indians,2018,Indian,8,237,5,124,47.40,191.13,28.23%,79.78,129,1,51,129.00,252.94,37.25%,96.88,108,4,73,27.00,147.95,21.92%,70.18
+Krunal Pandya,All-Rounder,82500000,Lucknow Super Giants,2022,Indian,8,237,5,124,47.40,191.13,28.23%,79.78,129,1,51,129.00,252.94,37.25%,96.88,108,4,73,27.00,147.95,21.92%,70.18
+Kshitiz Sharma,All-Rounder,2000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuldeep Sen,Bowler,2000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuldeep Yadav,Bowler,4000000,Kolkata Knight Riders,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuldeep Yadav,Bowler,58000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuldeep Yadav,Bowler,20000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kulwant Khejroliya,Bowler,1000000,Mumbai Indians,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kulwant Khejroliya,Bowler,8500000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kusal Janith Perera,Wicket Keeper,1500000,Rajasthan Royals,2013,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kyle Abbott,Bowler,3000000,Chennai Super Kings,2015,Overseas,14,80,6,60,13.33,133.33,11.67%,86.79,1,1,3,1.00,33.33,0.00%,33.33,52,2,41,26.00,126.83,12.20%,77.78
+Kyle Abbott,Bowler,21000000,Kings XI Punjab,2016,Overseas,14,80,6,60,13.33,133.33,11.67%,86.79,1,1,3,1.00,33.33,0.00%,33.33,52,2,41,26.00,126.83,12.20%,77.78
+Kyle Jamieson,All-Rounder,150000000,Royal Challengers Bangalore,2021,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kyle Mayers,All-Rounder,5000000,Lucknow Super Giants,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lakshmipathy Balaji,Bowler,18000000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lalit Yadav,All-Rounder,2000000,Delhi Capitals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lalit Yadav,All-Rounder,6500000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lasith Malinga,Bowler,20000000,Mumbai Indians,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laxmi Ratan Shukla,All-Rounder,15000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laxmi Ratan Shukla,All-Rounder,3000000,Sunrisers Hyderabad,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liam Livingstone,All-Rounder,5000000,Rajasthan Royals,2019,Overseas,23,384,19,291,20.21,131.96,15.46%,68.29,39,4,35,9.75,111.43,11.43%,61.29,175,5,127,35.00,137.80,17.32%,67.62
+Liam Livingstone,All-Rounder,7500000,Rajasthan Royals,2021,Overseas,23,384,19,291,20.21,131.96,15.46%,68.29,39,4,35,9.75,111.43,11.43%,61.29,175,5,127,35.00,137.80,17.32%,67.62
+Liam Livingstone,All-Rounder,115000000,Punjab Kings,2022,Overseas,23,384,19,291,20.21,131.96,15.46%,68.29,39,4,35,9.75,111.43,11.43%,61.29,175,5,127,35.00,137.80,17.32%,67.62
+Lockie Ferguson,Bowler,5000000,Rising Pune Supergiant,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lockie Ferguson,Bowler,16000000,Kolkata Knight Riders,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lockie Ferguson,Bowler,100000000,Gujarat Titans,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luke Pomersbach,Batsman,22500000,Kings XI Punjab,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lukman Hussain Meriwala,Bowler,2000000,Delhi Capitals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lungisani Ngidi,Bowler,5000000,Chennai Super Kings,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lungisani Ngidi,Bowler,5000000,Delhi Capitals,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luvnith Sisodia,Wicket Keeper,2000000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M Siddharth,Bowler,2000000,Kolkata Knight Riders,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M Siddharth,Bowler,2000000,Delhi Capitals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M. Ashwin,Bowler,45000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M. Ashwin,Bowler,10000000,Delhi Daredevils,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M. Ashwin,Bowler,22000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M. Ashwin,Bowler,2000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M. Harisankar Reddy,Bowler,2000000,Chennai Super Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Washington Sundar,All-Rounder,32000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Maheesh Theekshana,Bowler,7000000,Chennai Super Kings,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mahipal Lomror,All-Rounder,1000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mahipal Lomror,All-Rounder,2000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mahipal Lomror,All-Rounder,9500000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manan Ajay Sharma,All-Rounder,1000000,Kolkata Knight Riders,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manan Vohra,Batsman,11000000,Royal Challengers Bangalore,2018,Indian,32,728,28,562,26.00,129.54,17.44%,61.21,208,14,189,14.86,110.05,11.64%,62.28,423,10,300,42.30,141.00,21.33%,58.90
+Manan Vohra,Batsman,2000000,Rajasthan Royals,2019,Indian,32,728,28,562,26.00,129.54,17.44%,61.21,208,14,189,14.86,110.05,11.64%,62.28,423,10,300,42.30,141.00,21.33%,58.90
+Manan Vohra,Batsman,2000000,Lucknow Super Giants,2022,Indian,32,728,28,562,26.00,129.54,17.44%,61.21,208,14,189,14.86,110.05,11.64%,62.28,423,10,300,42.30,141.00,21.33%,58.90
+Mandeep Hardev Singh,All-Rounder,8000000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mandeep Singh,All-Rounder,14000000,Royal Challengers Bangalore,2018,Indian,28,528,23,422,22.96,125.12,17.30%,63.61,74,3,59,24.67,125.42,16.95%,61.22,275,12,205,22.92,134.15,19.02%,66.87
+Mandeep Singh,Batsman,11000000,Delhi Capitals,2022,Indian,28,528,23,422,22.96,125.12,17.30%,63.61,74,3,59,24.67,125.42,16.95%,61.22,275,12,205,22.92,134.15,19.02%,66.87
+Manish Pandey,Batsman,17000000,Kolkata Knight Riders,2014,Indian,50,1085,41,905,26.46,119.89,13.37%,67.98,294,18,283,16.33,103.89,8.83%,66.67,520,16,424,32.50,122.64,14.86%,68.14
+Manish Pandey,Batsman,110000000,Sunrisers Hyderabad,2018,Indian,50,1085,41,905,26.46,119.89,13.37%,67.98,294,18,283,16.33,103.89,8.83%,66.67,520,16,424,32.50,122.64,14.86%,68.14
+Manish Pandey,Batsman,46000000,Lucknow Super Giants,2022,Indian,50,1085,41,905,26.46,119.89,13.37%,67.98,294,18,283,16.33,103.89,8.83%,66.67,520,16,424,32.50,122.64,14.86%,68.14
+Manjot Kalra,Batsman,2000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manoj Tiwary,Batsman,28000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manoj Tiwary,Batsman,5000000,Rising Pune Supergiant,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manoj Tiwary,Batsman,10000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manpreet Gony,Bowler,37500000,Kings XI Punjab,2013,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manpreet Gony,Bowler,6000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manprit Juneja,Batsman,1000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manvinder Bisla,Wicket Keeper,6000000,Kolkata Knight Riders,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manzoor Dar,All-Rounder,2000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marchant De Lange,Bowler,3000000,Mumbai Indians,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marco Jansen,All-Rounder,2000000,Mumbai Indians,2021,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marco Jansen,All-Rounder,42000000,Sunrisers Hyderabad,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marcus Stoinis,All-Rounder,2500000,Delhi Daredevils,2015,Overseas,20,363,17,311,21.35,116.72,12.54%,70.22,99,4,85,24.75,116.47,10.59%,77.63,220,10,178,22.00,123.60,15.17%,68.87
+Marcus Stoinis,All-Rounder,5500000,Kings XI Punjab,2016,Overseas,20,363,17,311,21.35,116.72,12.54%,70.22,99,4,85,24.75,116.47,10.59%,77.63,220,10,178,22.00,123.60,15.17%,68.87
+Marcus Stoinis,All-Rounder,62000000,Kings XI Punjab,2018,Overseas,20,363,17,311,21.35,116.72,12.54%,70.22,99,4,85,24.75,116.47,10.59%,77.63,220,10,178,22.00,123.60,15.17%,68.87
+Marcus Stoinis,All-Rounder,48000000,Delhi Capitals,2020,Overseas,20,363,17,311,21.35,116.72,12.54%,70.22,99,4,85,24.75,116.47,10.59%,77.63,220,10,178,22.00,123.60,15.17%,68.87
+Mark Wood,Bowler,15000000,Chennai Super Kings,2018,Overseas,3,26,1,25,26.00,104.00,8.00%,78.26,3,0,4,NA,75.00,0.00%,75.00,4,0,4,NA,100.00,0.00%,100.00
+Mark Wood,Bowler,75000000,Lucknow Super Giants,2022,Overseas,3,26,1,25,26.00,104.00,8.00%,78.26,3,0,4,NA,75.00,0.00%,75.00,4,0,4,NA,100.00,0.00%,100.00
+Martin Guptill,Batsman,5000000,Kings XI Punjab,2017,Overseas,31,970,27,703,35.93,137.98,19.20%,62.32,253,4,179,63.25,141.34,16.20%,75.33,439,15,323,29.27,135.91,21.67%,50.20
+Martin Guptill,Batsman,10000000,Sunrisers Hyderabad,2019,Overseas,31,970,27,703,35.93,137.98,19.20%,62.32,253,4,179,63.25,141.34,16.20%,75.33,439,15,323,29.27,135.91,21.67%,50.20
+Matt Henry,Bowler,3000000,Chennai Super Kings,2014,Overseas,6,49,3,29,16.33,168.97,24.14%,77.27,NA,NA,NA,NA,NA,NA,NA,32,2,17,16.00,188.24,23.53%,92.31
+Matt Henry,Bowler,5000000,Kings XI Punjab,2017,Overseas,6,49,3,29,16.33,168.97,24.14%,77.27,NA,NA,NA,NA,NA,NA,NA,32,2,17,16.00,188.24,23.53%,92.31
+Matthew Wade,Wicket Keeper,24000000,Gujarat Titans,2022,Overseas,32,556,26,455,21.38,122.20,12.09%,74.50,114,4,116,28.50,98.28,6.03%,69.72,278,14,192,19.86,144.79,16.67%,80.00
+Mayank Agarwal,Batsman,16000000,Delhi Daredevils,2014,Indian,26,422,25,355,16.88,118.87,16.34%,54.55,81,4,66,20.25,122.73,13.64%,61.40,316,18,254,17.56,124.41,18.11%,55.77
+Mayank Agarwal,Batsman,10000000,Kings XI Punjab,2018,Indian,26,422,25,355,16.88,118.87,16.34%,54.55,81,4,66,20.25,122.73,13.64%,61.40,316,18,254,17.56,124.41,18.11%,55.77
+Mayank Dagar,All-Rounder,2000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mayank Markande,Bowler,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mayank Markande,Bowler,6500000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mayank Yadav,Bowler,2000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Michael Clarke,Batsman,30000000,Pune Warriors India,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Michael Hussey,Batsman,50000000,Mumbai Indians,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Michael Hussey,Batsman,15000000,Chennai Super Kings,2015,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Midhun S,All-Rounder,2000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Milind Kumar,Batsman,1000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Milind Kumar,All-Rounder,2000000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Milind Tandon,All-Rounder,1000000,Rising Pune Supergiant,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mitchell Johnson,All-Rounder,65000000,Kings XI Punjab,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mitchell Johnson,Bowler,20000000,Mumbai Indians,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mitchell Johnson,Bowler,20000000,Kolkata Knight Riders,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mitchell Marsh,All-Rounder,48000000,Rising Pune Supergiant,2016,Overseas,28,530,20,420,26.50,126.19,13.10%,72.33,97,3,96,32.33,101.04,6.25%,67.78,249,13,191,19.15,130.37,14.66%,73.01
+Mitchell Marsh,All-Rounder,20000000,Sunrisers Hyderabad,2020,Overseas,28,530,20,420,26.50,126.19,13.10%,72.33,97,3,96,32.33,101.04,6.25%,67.78,249,13,191,19.15,130.37,14.66%,73.01
+Mitchell Marsh,All-Rounder,65000000,Delhi Capitals,2022,Overseas,28,530,20,420,26.50,126.19,13.10%,72.33,97,3,96,32.33,101.04,6.25%,67.78,249,13,191,19.15,130.37,14.66%,73.01
+Mitchell McClenaghan,Bowler,3000000,Mumbai Indians,2015,Overseas,16,72,8,50,9.00,144.00,22.00%,41.03,32,2,13,16.00,246.15,38.46%,25.00,28,5,30,5.60,93.33,13.33%,38.46
+Mitchell Santner,All-Rounder,5000000,Chennai Super Kings,2018,Overseas,8,41,7,50,5.86,82.00,6.00%,61.70,16,2,23,8.00,69.57,4.35%,54.55,25,4,24,6.25,104.17,8.33%,77.27
+Mitchell Santner,All-Rounder,19000000,Chennai Super Kings,2022,Overseas,8,41,7,50,5.86,82.00,6.00%,61.70,16,2,23,8.00,69.57,4.35%,54.55,25,4,24,6.25,104.17,8.33%,77.27
+Mitchell Starc,Bowler,50000000,Royal Challengers Bangalore,2014,Overseas,16,108,8,112,13.50,96.43,8.93%,66.67,11,1,23,11.00,47.83,0.00%,47.83,72,6,68,12.00,105.88,11.76%,66.67
+Mitchell Starc,Bowler,94000000,Kolkata Knight Riders,2018,Overseas,16,108,8,112,13.50,96.43,8.93%,66.67,11,1,23,11.00,47.83,0.00%,47.83,72,6,68,12.00,105.88,11.76%,66.67
+Mithun Manhas,All-Rounder,3000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moeen Ali,All-Rounder,17000000,Royal Challengers Bangalore,2018,Overseas,30,597,26,424,22.96,140.80,21.70%,56.33,114,5,66,22.80,172.73,27.27%,62.50,215,11,186,19.55,115.59,16.67%,54.84
+Moeen Ali,All-Rounder,70000000,Chennai Super Kings,2021,Overseas,30,597,26,424,22.96,140.80,21.70%,56.33,114,5,66,22.80,172.73,27.27%,62.50,215,11,186,19.55,115.59,16.67%,54.84
+Mohammad Nabi,All-Rounder,3000000,Sunrisers Hyderabad,2017,Overseas,33,531,26,417,20.42,127.34,13.19%,72.10,91,4,70,22.75,130.00,15.71%,66.10,55,3,51,18.33,107.84,11.76%,64.44
+Mohammad Nabi,All-Rounder,10000000,Sunrisers Hyderabad,2018,Overseas,33,531,26,417,20.42,127.34,13.19%,72.10,91,4,70,22.75,130.00,15.71%,66.10,55,3,51,18.33,107.84,11.76%,64.44
+Mohammad Nabi,All-Rounder,10000000,Kolkata Knight Riders,2022,Overseas,33,531,26,417,20.42,127.34,13.19%,72.10,91,4,70,22.75,130.00,15.71%,66.10,55,3,51,18.33,107.84,11.76%,64.44
+Mohammad Shami,Bowler,42500000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohammad Shami,Bowler,30000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohammad Shami,Bowler,48000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohammad Shami,Bowler,62500000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohammed Azharudeen,Wicket Keeper,2000000,Royal Challengers Bangalore,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohammed Siraj,Bowler,26000000,Sunrisers Hyderabad,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohammed Siraj,Bowler,26000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohd. Arshad Khan,All-Rounder,2000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohit Sharma,Bowler,20000000,Chennai Super Kings,2014,Indian,15,64,7,59,9.14,108.47,11.86%,57.69,25,1,18,25.00,138.89,22.22%,50.00,35,6,37,5.83,94.59,8.11%,55.88
+Mohit Sharma,Bowler,65000000,Kings XI Punjab,2016,Indian,15,64,7,59,9.14,108.47,11.86%,57.69,25,1,18,25.00,138.89,22.22%,50.00,35,6,37,5.83,94.59,8.11%,55.88
+Mohit Sharma,Bowler,24000000,Kings XI Punjab,2018,Indian,15,64,7,59,9.14,108.47,11.86%,57.69,25,1,18,25.00,138.89,22.22%,50.00,35,6,37,5.83,94.59,8.11%,55.88
+Mohit Sharma,Bowler,50000000,Chennai Super Kings,2019,Indian,15,64,7,59,9.14,108.47,11.86%,57.69,25,1,18,25.00,138.89,22.22%,50.00,35,6,37,5.83,94.59,8.11%,55.88
+Mohit Sharma,Bowler,5000000,Delhi Capitals,2020,Indian,15,64,7,59,9.14,108.47,11.86%,57.69,25,1,18,25.00,138.89,22.22%,50.00,35,6,37,5.83,94.59,8.11%,55.88
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohsin Khan,Bowler,2000000,Lucknow Super Giants,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moises Henriques,All-Rounder,22500000,Royal Challengers Bangalore,2013,Overseas,64,1422,49,1131,29.02,125.73,13.97%,72.15,471,13,374,36.23,125.94,12.03%,78.72,631,24,494,26.29,127.73,15.99%,67.23
+Moises Henriques,All-Rounder,10000000,Sunrisers Hyderabad,2014,Overseas,64,1422,49,1131,29.02,125.73,13.97%,72.15,471,13,374,36.23,125.94,12.03%,78.72,631,24,494,26.29,127.73,15.99%,67.23
+Moises Henriques,All-Rounder,10000000,Kings XI Punjab,2019,Overseas,64,1422,49,1131,29.02,125.73,13.97%,72.15,471,13,374,36.23,125.94,12.03%,78.72,631,24,494,26.29,127.73,15.99%,67.23
+Moises Henriques,All-Rounder,42000000,Punjab Kings,2021,Overseas,64,1422,49,1131,29.02,125.73,13.97%,72.15,471,13,374,36.23,125.94,12.03%,78.72,631,24,494,26.29,127.73,15.99%,67.23
+Monu Singh,Bowler,2000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morne Morkel,Bowler,28000000,Kolkata Knight Riders,2014,Overseas,10,74,5,41,14.80,180.49,26.83%,80.00,15,2,8,7.50,187.50,25.00%,50.00,57,3,31,19.00,183.87,29.03%,86.36
+Mujeeb Zadran,Bowler,40000000,Kings XI Punjab,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mujeeb Zadran,Bowler,15000000,Sunrisers Hyderabad,2021,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mukesh Choudhary,Bowler,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Munaf Patel,Bowler,3000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Murali Kartik,Bowler,10000000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Murali Vijay,Batsman,50000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Murali Vijay,Batsman,30000000,Kings XI Punjab,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Murali Vijay,Batsman,20000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Murugan Ashwin,Bowler,16000000,Mumbai Indians,2022,Indian,1,0,1,1,0.00,0.00,0.00%,0.00,NA,NA,NA,NA,NA,NA,NA,0,1,1,0.00,0.00,0.00%,0.00
+Mustafizur Rahman,Bowler,14000000,Sunrisers Hyderabad,2016,Overseas,4,8,3,11,2.67,72.73,9.09%,20.00,NA,NA,NA,NA,NA,NA,NA,1,2,7,0.50,14.29,0.00%,14.29
+Mustafizur Rahman,Bowler,22000000,Mumbai Indians,2018,Overseas,4,8,3,11,2.67,72.73,9.09%,20.00,NA,NA,NA,NA,NA,NA,NA,1,2,7,0.50,14.29,0.00%,14.29
+Mustafizur Rahman,Bowler,10000000,Rajasthan Royals,2021,Overseas,4,8,3,11,2.67,72.73,9.09%,20.00,NA,NA,NA,NA,NA,NA,NA,1,2,7,0.50,14.29,0.00%,14.29
+Mustafizur Rahman,Bowler,20000000,Delhi Capitals,2022,Overseas,4,8,3,11,2.67,72.73,9.09%,20.00,NA,NA,NA,NA,NA,NA,NA,1,2,7,0.50,14.29,0.00%,14.29
+Muttiah Muralitharan,Bowler,10000000,Royal Challengers Bangalore,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N. Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N. Tilak Varma,All-Rounder,17000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Naman Ojha,Wicket Keeper,5000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Naman Ojha,Wicket Keeper,14000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nathan Coulter-Nile,Bowler,33750000,Mumbai Indians,2013,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Coulter-Nile,Bowler,42500000,Delhi Daredevils,2014,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Coulter-Nile,Bowler,35000000,Kolkata Knight Riders,2017,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Coulter-Nile,Bowler,22000000,Royal Challengers Bangalore,2018,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Coulter-Nile,Bowler,80000000,Mumbai Indians,2020,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Coulter-Nile,Bowler,50000000,Mumbai Indians,2021,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Coulter-Nile,Bowler,20000000,Rajasthan Royals,2022,Overseas,25,165,15,133,11.00,124.06,15.04%,52.21,16,1,22,16.00,72.73,9.09%,30.00,109,9,71,12.11,153.52,19.72%,57.89
+Nathan Ellis,Bowler,7500000,Punjab Kings,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nathan McCullum,Bowler,7500000,Sunrisers Hyderabad,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nathu Singh,Bowler,32000000,Mumbai Indians,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nathu Singh,Bowler,5000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nathu Singh,Bowler,2000000,Delhi Capitals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Navdeep Saini,Bowler,1000000,Delhi Daredevils,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Navdeep Saini,Bowler,30000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Navdeep Saini,Bowler,26000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nic Maddinson,Batsman,5000000,Royal Challengers Bangalore,2014,Overseas,32,709,31,517,22.87,137.14,20.50%,53.28,165,6,108,27.50,152.78,17.59%,73.03,316,15,242,21.07,130.58,19.42%,51.28
+Nicolas Pooran,Wicket Keeper,107500000,Sunrisers Hyderabad,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nicolas Pooran,Wicket Keeper,3000000,Mumbai Indians,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nicolas Pooran,Wicket Keeper,42000000,Kings XI Punjab,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nidheesh M D Dinesan,Bowler,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nikhil Shankar Naik,Wicket Keeper,3000000,Kings XI Punjab,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nikhil Shankar Naik,Wicket Keeper,2000000,Kolkata Knight Riders,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nikhil Shankar Naik,Wicket Keeper,2000000,Kolkata Knight Riders,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nitish Rana,All-Rounder,1000000,Mumbai Indians,2015,Indian,3,104,3,75,34.67,138.67,20.00%,46.67,49,1,30,49.00,163.33,23.33%,56.52,55,2,45,27.50,122.22,17.78%,40.54
+Nitish Rana,All-Rounder,34000000,Kolkata Knight Riders,2018,Indian,3,104,3,75,34.67,138.67,20.00%,46.67,49,1,30,49.00,163.33,23.33%,56.52,55,2,45,27.50,122.22,17.78%,40.54
+Nitish Rana,All-Rounder,80000000,Kolkata Knight Riders,2022,Indian,3,104,3,75,34.67,138.67,20.00%,46.67,49,1,30,49.00,163.33,23.33%,56.52,55,2,45,27.50,122.22,17.78%,40.54
+Noor Ahmad,Bowler,3000000,Gujarat Titans,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Obed Mccoy,Bowler,7500000,Rajasthan Royals,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Odean Smith,All-Rounder,60000000,Punjab Kings,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oshane Thomas,Bowler,11000000,Rajasthan Royals,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oshane Thomas,Bowler,5000000,Rajasthan Royals,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pankaj Jaswal,All-Rounder,2000000,Mumbai Indians,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pankaj Singh,Bowler,11250000,Royal Challengers Bangalore,2013,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Paras Dogra,Batsman,1000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pardeep Sahu,All-Rounder,1000000,Rajasthan Royals,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pardeep Sahu,All-Rounder,1000000,Kings XI Punjab,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pardeep Sahu,Bowler,2000000,Kings XI Punjab,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parthiv Patel,Wicket Keeper,14000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parthiv Patel,Wicket Keeper,17000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parveez Rasool,All-Rounder,9500000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parvinder Awana,Bowler,6500000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pat Cummins,Bowler,54000000,Mumbai Indians,2018,Overseas,8,92,7,74,13.14,124.32,12.16%,64.62,35,0,19,NA,184.21,21.05%,73.33,49,6,46,8.17,106.52,10.87%,56.10
+Pat Cummins,All-Rounder,155000000,Kolkata Knight Riders,2020,Overseas,8,92,7,74,13.14,124.32,12.16%,64.62,35,0,19,NA,184.21,21.05%,73.33,49,6,46,8.17,106.52,10.87%,56.10
+Pat Cummins,All-Rounder,72500000,Kolkata Knight Riders,2022,Overseas,8,92,7,74,13.14,124.32,12.16%,64.62,35,0,19,NA,184.21,21.05%,73.33,49,6,46,8.17,106.52,10.87%,56.10
+Pat Cummins,Bowler,10000000,Kolkata Knight Riders,2014,Overseas,8,92,7,74,13.14,124.32,12.16%,64.62,35,0,19,NA,184.21,21.05%,73.33,49,6,46,8.17,106.52,10.87%,56.10
+Pat Cummins,Bowler,45000000,Delhi Daredevils,2017,Overseas,8,92,7,74,13.14,124.32,12.16%,64.62,35,0,19,NA,184.21,21.05%,73.33,49,6,46,8.17,106.52,10.87%,56.10
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Negi,Bowler,1000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Negi,All-Rounder,85000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Negi,All-Rounder,5000000,Kolkata Knight Riders,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Suyal,Bowler,1000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pawan Suyal,Bowler,1000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peter Handscomb,Wicket Keeper,3000000,Rising Pune Supergiant,2016,Overseas,24,431,16,385,26.94,111.95,9.61%,75.00,104,6,96,17.33,108.33,7.29%,80.90,194,6,167,32.33,116.17,11.38%,70.27
+Philip Hughes,Batsman,7500000,Mumbai Indians,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Piyush Chawla,Bowler,42500000,Kolkata Knight Riders,2014,Indian,25,176,15,149,11.73,118.12,16.11%,54.40,38,1,29,38.00,131.03,13.79%,72.00,109,13,100,8.38,109.00,15.00%,48.24
+Piyush Chawla,Bowler,42000000,Kolkata Knight Riders,2018,Indian,25,176,15,149,11.73,118.12,16.11%,54.40,38,1,29,38.00,131.03,13.79%,72.00,109,13,100,8.38,109.00,15.00%,48.24
+Piyush Chawla,Bowler,67500000,Chennai Super Kings,2020,Indian,25,176,15,149,11.73,118.12,16.11%,54.40,38,1,29,38.00,131.03,13.79%,72.00,109,13,100,8.38,109.00,15.00%,48.24
+Piyush Chawla,Bowler,24000000,Mumbai Indians,2021,Indian,25,176,15,149,11.73,118.12,16.11%,54.40,38,1,29,38.00,131.03,13.79%,72.00,109,13,100,8.38,109.00,15.00%,48.24
+Prabhsimran Singh,Wicket Keeper,48000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prabhsimran Singh,Wicket Keeper,5500000,Kings XI Punjab,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prabhsimran Singh,Wicket Keeper,6000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Lions,2016,Indian,1,4,0,2,NA,200.00,50.00%,0.00,NA,NA,NA,NA,NA,NA,NA,4,0,2,NA,200.00,50.00%,0.00
+Pradeep Sangwan,Bowler,15000000,Mumbai Indians,2018,Indian,1,4,0,2,NA,200.00,50.00%,0.00,NA,NA,NA,NA,NA,NA,NA,4,0,2,NA,200.00,50.00%,0.00
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Titans,2022,Indian,1,4,0,2,NA,200.00,50.00%,0.00,NA,NA,NA,NA,NA,NA,NA,4,0,2,NA,200.00,50.00%,0.00
+Pragyan Ojha,Bowler,32500000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pragyan Ojha,Bowler,5000000,Mumbai Indians,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prasanth Padmanabhan,All-Rounder,1000000,Sunrisers Hyderabad,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prasanth Parameswaran,Bowler,3000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prashant Chopra,Wicket Keeper,2000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prashant Solanki,Bowler,12000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prasidh Krishna,Bowler,100000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pratham Singh,All-Rounder,1000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pratham Singh,Batsman,2000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pratyush Singh,All-Rounder,1000000,Chennai Super Kings,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pratyush Singh,All-Rounder,1000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Praveen Dubey,All-Rounder,3500000,Royal Challengers Bangalore,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Praveen Dubey,All-Rounder,1000000,Royal Challengers Bangalore,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Praveen Kumar,Bowler,22000000,Sunrisers Hyderabad,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Praveen Kumar,Bowler,35000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pravin Dubey,All-Rounder,5000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pravin Tambe,Bowler,1000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pravin Tambe,Bowler,2000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pravin Tambe,Bowler,1000000,Sunrisers Hyderabad,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pravin Tambe,Bowler,2000000,Kolkata Knight Riders,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prayas Ray Barman,All-Rounder,15000000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prerak Mankad,All-Rounder,2000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prince Balwant Rai Singh,All-Rounder,2000000,Mumbai Indians,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prithvi Raj Yarra,Bowler,2000000,Kolkata Knight Riders,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prithvi Shaw,Batsman,12000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priyam Garg,Batsman,19000000,Sunrisers Hyderabad,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priyam Garg,Batsman,2000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Quinton De Kock,Wicket Keeper,1500000,Sunrisers Hyderabad,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Quinton De Kock,Wicket Keeper,35000000,Delhi Daredevils,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Quinton De Kock,Wicket Keeper,28000000,Royal Challengers Bangalore,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Quinton De Kock,Wicket Keeper,67500000,Lucknow Super Giants,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R Samarth,Batsman,2000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R. Ashwin,All-Rounder,50000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R. Sai Kishore,Bowler,2000000,Chennai Super Kings,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R. Sai Kishore,Bowler,30000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+R. Sanjay Yadav,All-Rounder,1000000,Kolkata Knight Riders,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Ajay Tripathi,All-Rounder,1000000,Rising Pune Supergiant,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Buddhi,Batsman,2000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Chahar,Bowler,1000000,Rising Pune Supergiant,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Chahar,Bowler,19000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Chahar,Bowler,52500000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Sharma,Bowler,19000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Sharma,Bowler,3000000,Chennai Super Kings,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Shukla,Bowler,4000000,Delhi Daredevils,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Tewatia,All-Rounder,1000000,Rajasthan Royals,2014,Indian,1,16,1,13,16.00,123.08,7.69%,83.33,8,1,6,8.00,133.33,16.67%,40.00,NA,NA,NA,NA,NA,NA,NA
+Rahul Tewatia,All-Rounder,2500000,Kings XI Punjab,2017,Indian,1,16,1,13,16.00,123.08,7.69%,83.33,8,1,6,8.00,133.33,16.67%,40.00,NA,NA,NA,NA,NA,NA,NA
+Rahul Tewatia,All-Rounder,30000000,Delhi Daredevils,2018,Indian,1,16,1,13,16.00,123.08,7.69%,83.33,8,1,6,8.00,133.33,16.67%,40.00,NA,NA,NA,NA,NA,NA,NA
+Rahul Tewatia,All-Rounder,90000000,Gujarat Titans,2022,Indian,1,16,1,13,16.00,123.08,7.69%,83.33,8,1,6,8.00,133.33,16.67%,40.00,NA,NA,NA,NA,NA,NA,NA
+Rahul Tripathi,Batsman,34000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Tripathi,Batsman,6000000,Kolkata Knight Riders,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rahul Tripathi,Batsman,85000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Raj Angad Bawa,All-Rounder,20000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rajagopal Sathish,All-Rounder,2000000,Kolkata Knight Riders,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rajat Bhatia,All-Rounder,17000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rajat Bhatia,All-Rounder,6000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rajat Patidar,Batsman,2000000,Royal Challengers Bangalore,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rajvardhan Hangargekar,All-Rounder,15000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ramandeep Singh,All-Rounder,2000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ramesh Kumar,Batsman,2000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ranganath Vinay Kumar,Bowler,28000000,Kolkata Knight Riders,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ranganath Vinay Kumar,Bowler,10000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rashid Khan Arman,Bowler,40000000,Sunrisers Hyderabad,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rashid Khan Arman,Bowler,90000000,Sunrisers Hyderabad,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rasikh Dar,Bowler,2000000,Mumbai Indians,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rasikh Dar,Bowler,2000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rassie Van Der Dussen,Batsman,10000000,Rajasthan Royals,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ravi Bishnoi,Bowler,20000000,Kings XI Punjab,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ravi Bopara,All-Rounder,10000000,Sunrisers Hyderabad,2015,Indian,66,1543,41,1173,37.63,131.54,13.81%,76.85,278,9,243,30.89,114.40,9.88%,73.06,704,24,488,29.33,144.26,18.03%,70.50
+Ravi Rampaul,Bowler,21750000,Royal Challengers Bangalore,2013,Overseas,8,57,6,56,9.50,101.79,10.71%,58.00,10,2,7,5.00,142.86,14.29%,66.67,47,3,45,15.67,104.44,11.11%,62.50
+Ravi Rampaul,Bowler,9000000,Royal Challengers Bangalore,2014,Overseas,8,57,6,56,9.50,101.79,10.71%,58.00,10,2,7,5.00,142.86,14.29%,66.67,47,3,45,15.67,104.44,11.11%,62.50
+Ravichandran Ashwin,All-Rounder,76000000,Kings XI Punjab,2018,Overseas,27,232,13,228,17.85,101.75,11.40%,61.39,31,5,48,6.20,64.58,2.08%,57.45,165,8,142,20.62,116.20,14.08%,66.39
+Ricky Bhui,Batsman,1000000,Sunrisers Hyderabad,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ricky Bhui,Batsman,2000000,Sunrisers Hyderabad,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ricky Ponting,Batsman,30000000,Mumbai Indians,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Riley Meredith,Bowler,80000000,Punjab Kings,2021,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Riley Meredith,Bowler,10000000,Mumbai Indians,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rinku Singh,Batsman,1000000,Kings XI Punjab,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rinku Singh,Batsman,8000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rinku Singh,Batsman,5500000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rishabh Pant,Wicket Keeper,19000000,Delhi Daredevils,2016,Indian,10,198,7,152,28.29,130.26,16.45%,67.72,87,2,59,43.50,147.46,18.64%,81.25,111,5,93,22.20,119.35,15.05%,59.49
+Rishi Dhawan,All-Rounder,30000000,Kings XI Punjab,2014,Indian,17,154,7,137,22.00,112.41,12.41%,65.00,37,2,49,18.50,75.51,6.12%,50.00,93,4,69,23.25,134.78,14.49%,79.66
+Rishi Dhawan,All-Rounder,5500000,Kolkata Knight Riders,2017,Indian,17,154,7,137,22.00,112.41,12.41%,65.00,37,2,49,18.50,75.51,6.12%,50.00,93,4,69,23.25,134.78,14.49%,79.66
+Rishi Dhawan,All-Rounder,5500000,Punjab Kings,2022,Indian,17,154,7,137,22.00,112.41,12.41%,65.00,37,2,49,18.50,75.51,6.12%,50.00,93,4,69,23.25,134.78,14.49%,79.66
+Riyan Parag,All-Rounder,2000000,Rajasthan Royals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Riyan Parag,All-Rounder,38000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Robin Uthappa,Batsman,50000000,Kolkata Knight Riders,2014,Indian,62,1933,57,1476,33.91,130.96,17.55%,66.31,415,18,344,23.06,120.64,13.37%,68.79,1079,31,815,34.81,132.39,19.26%,61.85
+Robin Uthappa,Batsman,64000000,Kolkata Knight Riders,2018,Indian,62,1933,57,1476,33.91,130.96,17.55%,66.31,415,18,344,23.06,120.64,13.37%,68.79,1079,31,815,34.81,132.39,19.26%,61.85
+Robin Uthappa,Batsman,30000000,Rajasthan Royals,2020,Indian,62,1933,57,1476,33.91,130.96,17.55%,66.31,415,18,344,23.06,120.64,13.37%,68.79,1079,31,815,34.81,132.39,19.26%,61.85
+Robin Uthappa,Batsman,20000000,Chennai Super Kings,2022,Indian,62,1933,57,1476,33.91,130.96,17.55%,66.31,415,18,344,23.06,120.64,13.37%,68.79,1079,31,815,34.81,132.39,19.26%,61.85
+Romario Shepherd,All-Rounder,77500000,Sunrisers Hyderabad,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ronit More,Bowler,1000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ross Taylor,Batsman,20000000,Delhi Daredevils,2014,Overseas,41,919,29,767,31.69,119.82,12.65%,70.30,204,5,208,40.80,98.08,8.17%,65.97,423,12,315,35.25,134.29,15.87%,72.08
+Rovman Powell,All-Rounder,3000000,Kolkata Knight Riders,2017,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rovman Powell,Batsman,28000000,Delhi Capitals,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rudra Pratap Singh,Bowler,30000000,Royal Challengers Bangalore,2013,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rudra Pratap Singh,Bowler,3000000,Rising Pune Supergiant,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ruturaj Gaikwad,Batsman,2000000,Chennai Super Kings,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ryan McLaren,Bowler,3750000,Kolkata Knight Riders,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ryan Ten Doeschate,All-Rounder,10000000,Kolkata Knight Riders,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sachin Baby,Batsman,1000000,Royal Challengers Bangalore,2016,Indian,7,122,5,86,24.40,141.86,16.28%,77.78,20,1,22,20.00,90.91,4.55%,76.19,102,4,64,25.50,159.38,20.31%,78.43
+Sachin Baby,Batsman,2000000,Sunrisers Hyderabad,2018,Indian,7,122,5,86,24.40,141.86,16.28%,77.78,20,1,22,20.00,90.91,4.55%,76.19,102,4,64,25.50,159.38,20.31%,78.43
+Sachin Baby,Batsman,2000000,Royal Challengers Bangalore,2021,Indian,7,122,5,86,24.40,141.86,16.28%,77.78,20,1,22,20.00,90.91,4.55%,76.19,102,4,64,25.50,159.38,20.31%,78.43
+Sachin Rana,Bowler,2000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sachithra Senanayaka,All-Rounder,46875000,Kolkata Knight Riders,2013,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sagar Trivedi,All-Rounder,1000000,Rajasthan Royals,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sam Billings,Wicket Keeper,3000000,Delhi Daredevils,2016,Overseas,51,911,42,689,21.69,132.22,14.08%,78.89,271,7,199,38.71,136.18,11.56%,91.48,304,21,258,14.48,117.83,13.18%,66.07
+Sam Billings,Wicket Keeper,10000000,Chennai Super Kings,2018,Overseas,51,911,42,689,21.69,132.22,14.08%,78.89,271,7,199,38.71,136.18,11.56%,91.48,304,21,258,14.48,117.83,13.18%,66.07
+Sam Billings,Wicket Keeper,20000000,Delhi Capitals,2021,Overseas,51,911,42,689,21.69,132.22,14.08%,78.89,271,7,199,38.71,136.18,11.56%,91.48,304,21,258,14.48,117.83,13.18%,66.07
+Sam Billings,Wicket Keeper,20000000,Kolkata Knight Riders,2022,Overseas,51,911,42,689,21.69,132.22,14.08%,78.89,271,7,199,38.71,136.18,11.56%,91.48,304,21,258,14.48,117.83,13.18%,66.07
+Sam Curran,All-Rounder,72000000,Kings XI Punjab,2019,Overseas,14,170,9,175,18.89,97.14,9.71%,59.49,19,0,24,NA,79.17,4.17%,65.22,78,8,81,9.75,96.30,9.88%,57.53
+Sam Curran,All-Rounder,55000000,Chennai Super Kings,2020,Overseas,14,170,9,175,18.89,97.14,9.71%,59.49,19,0,24,NA,79.17,4.17%,65.22,78,8,81,9.75,96.30,9.88%,57.53
+Samuel Badree,Bowler,3000000,Chennai Super Kings,2014,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Samuel Badree,Bowler,5000000,Royal Challengers Bangalore,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sandeep Bavanaka,All-Rounder,2000000,Sunrisers Hyderabad,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sandeep Lamichhane,Bowler,2000000,Delhi Daredevils,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sandeep Sharma,Bowler,8500000,Kings XI Punjab,2014,Indian,10,20,1,30,20.00,66.67,3.33%,55.17,11,1,10,11.00,110.00,10.00%,77.78,8,0,18,NA,44.44,0.00%,44.44
+Sandeep Sharma,Bowler,30000000,Sunrisers Hyderabad,2018,Indian,10,20,1,30,20.00,66.67,3.33%,55.17,11,1,10,11.00,110.00,10.00%,77.78,8,0,18,NA,44.44,0.00%,44.44
+Sandeep Sharma,Bowler,5000000,Punjab Kings,2022,Indian,10,20,1,30,20.00,66.67,3.33%,55.17,11,1,10,11.00,110.00,10.00%,77.78,8,0,18,NA,44.44,0.00%,44.44
+Sandeep Warrier,Bowler,1000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sanjay Yadav,All-Rounder,2000000,Sunrisers Hyderabad,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sanjay Yadav,All-Rounder,5000000,Mumbai Indians,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sanju Samson,Wicket Keeper,42000000,Delhi Daredevils,2016,Indian,49,1059,42,897,25.21,118.06,13.27%,65.17,334,15,307,22.27,108.79,9.77%,67.87,539,23,449,23.43,120.04,15.14%,62.20
+Sanju Samson,Wicket Keeper,80000000,Rajasthan Royals,2018,Indian,49,1059,42,897,25.21,118.06,13.27%,65.17,334,15,307,22.27,108.79,9.77%,67.87,539,23,449,23.43,120.04,15.14%,62.20
+Sarabjit Ladda,Bowler,1000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sarfaraz Khan,All-Rounder,2000000,Delhi Capitals,2022,Indian,11,177,6,102,29.50,173.53,24.51%,84.42,52,1,30,52.00,173.33,20.00%,100.00,123,5,70,24.60,175.71,27.14%,76.47
+Sarfaraz Naushad Khan,Batsman,5000000,Royal Challengers Bangalore,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sarfaraz Naushad Khan,All-Rounder,2500000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saurabh Dubey,Bowler,2000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saurabh Kumar,Bowler,1000000,Rising Pune Supergiant,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saurabh Kumar,All-Rounder,2000000,Punjab Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saurabh Tiwary,Batsman,7000000,Delhi Daredevils,2014,Indian,19,388,10,325,38.80,119.38,13.23%,67.38,131,4,94,32.75,139.36,18.09%,63.64,191,6,173,31.83,110.40,11.56%,68.63
+Saurabh Tiwary,Batsman,3000000,Mumbai Indians,2017,Indian,19,388,10,325,38.80,119.38,13.23%,67.38,131,4,94,32.75,139.36,18.09%,63.64,191,6,173,31.83,110.40,11.56%,68.63
+Saurabh Tiwary,Batsman,8000000,Mumbai Indians,2018,Indian,19,388,10,325,38.80,119.38,13.23%,67.38,131,4,94,32.75,139.36,18.09%,63.64,191,6,173,31.83,110.40,11.56%,68.63
+Saurabh Tiwary,Batsman,5000000,Mumbai Indians,2020,Indian,19,388,10,325,38.80,119.38,13.23%,67.38,131,4,94,32.75,139.36,18.09%,63.64,191,6,173,31.83,110.40,11.56%,68.63
+Sayan Ghosh,Bowler,1000000,Kolkata Knight Riders,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sayan Ghosh,Bowler,2000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sayan Sekhar Mandal,All-Rounder,1000000,Kolkata Knight Riders,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scott Boland,Bowler,5000000,Rising Pune Supergiant,2016,Overseas,3,17,1,15,17.00,113.33,6.67%,92.86,NA,NA,NA,NA,NA,NA,NA,7,0,5,NA,140.00,20.00%,75.00
+Sean Abbott,Bowler,10000000,Royal Challengers Bangalore,2015,Overseas,18,84,14,98,6.00,85.71,6.12%,60.87,10,3,24,3.33,41.67,0.00%,41.67,61,8,60,7.62,101.67,10.00%,61.11
+Sean Abbott,Bowler,24000000,Sunrisers Hyderabad,2022,Overseas,18,84,14,98,6.00,85.71,6.12%,60.87,10,3,24,3.33,41.67,0.00%,41.67,61,8,60,7.62,101.67,10.00%,61.11
+Shadab Jakati,Bowler,2000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shadab Jakati,All-Rounder,2000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shahbaz Ahamad,Wicket Keeper,2000000,Royal Challengers Bangalore,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shahbaz Ahamad,All-Rounder,24000000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shahbaz Nadeem,Bowler,8500000,Delhi Daredevils,2014,Indian,11,24,8,58,3.00,41.38,1.72%,35.09,12,2,24,6.00,50.00,0.00%,50.00,9,4,27,2.25,33.33,3.70%,19.23
+Shahbaz Nadeem,Bowler,32000000,Delhi Daredevils,2018,Indian,11,24,8,58,3.00,41.38,1.72%,35.09,12,2,24,6.00,50.00,0.00%,50.00,9,4,27,2.25,33.33,3.70%,19.23
+Shahbaz Nadeem,Bowler,5000000,Lucknow Super Giants,2022,Indian,11,24,8,58,3.00,41.38,1.72%,35.09,12,2,24,6.00,50.00,0.00%,50.00,9,4,27,2.25,33.33,3.70%,19.23
+Shahrukh Khan,All-Rounder,52500000,Punjab Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shahrukh Khan,All-Rounder,90000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shakib Al Hasan,All-Rounder,28000000,Kolkata Knight Riders,2014,Overseas,56,1146,44,910,26.05,125.93,15.49%,66.58,283,11,254,25.73,111.42,11.42%,64.44,407,17,331,23.94,122.96,14.50%,68.20
+Shakib Al Hasan,All-Rounder,20000000,Sunrisers Hyderabad,2018,Overseas,56,1146,44,910,26.05,125.93,15.49%,66.58,283,11,254,25.73,111.42,11.42%,64.44,407,17,331,23.94,122.96,14.50%,68.20
+Shakib Al Hasan,All-Rounder,32000000,Kolkata Knight Riders,2021,Overseas,56,1146,44,910,26.05,125.93,15.49%,66.58,283,11,254,25.73,111.42,11.42%,64.44,407,17,331,23.94,122.96,14.50%,68.20
+Shane Watson,All-Rounder,95000000,Royal Challengers Bangalore,2016,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shane Watson,All-Rounder,40000000,Chennai Super Kings,2018,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sharad Lumba,Batsman,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shardul Thakur,Bowler,2000000,Kings XI Punjab,2014,Indian,1,7,0,6,NA,116.67,16.67%,60.00,2,0,3,NA,66.67,0.00%,66.67,5,0,3,NA,166.67,33.33%,50.00
+Shardul Thakur,Bowler,26000000,Chennai Super Kings,2018,Indian,1,7,0,6,NA,116.67,16.67%,60.00,2,0,3,NA,66.67,0.00%,66.67,5,0,3,NA,166.67,33.33%,50.00
+Shardul Thakur,Bowler,107500000,Delhi Capitals,2022,Indian,1,7,0,6,NA,116.67,16.67%,60.00,2,0,3,NA,66.67,0.00%,66.67,5,0,3,NA,166.67,33.33%,50.00
+Shashank Singh,All-Rounder,1000000,Delhi Daredevils,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shashank Singh,All-Rounder,3000000,Rajasthan Royals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shashank Singh,All-Rounder,2000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shaun Marsh,Batsman,22000000,Kings XI Punjab,2014,Overseas,46,1599,40,1306,39.98,122.43,14.78%,66.04,461,12,315,38.42,146.35,16.83%,77.48,670,17,594,39.41,112.79,14.81%,61.26
+Sheldon Cottrell,Bowler,85000000,Kings XI Punjab,2020,Overseas,1,0,1,1,0.00,0.00,0.00%,0.00,NA,NA,NA,NA,NA,NA,NA,0,1,1,0.00,0.00,0.00%,0.00
+Sheldon Jackson,Batsman,1500000,Kolkata Knight Riders,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheldon Jackson,Wicket Keeper,2000000,Kolkata Knight Riders,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheldon Jackson,Wicket Keeper,6000000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shelley Shaurya,Bowler,1000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sherfane Rutherford,All-Rounder,20000000,Delhi Capitals,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sherfane Rutherford,All-Rounder,10000000,Royal Challengers Bangalore,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shikhar Dhawan,Batsman,52000000,Sunrisers Hyderabad,2018,Indian,76,1953,63,1643,31.00,118.87,16.37%,58.30,475,18,420,26.39,113.10,11.19%,70.51,1148,35,929,32.80,123.57,18.62%,55.56
+Shikhar Dhawan,Batsman,82500000,Punjab Kings,2022,Indian,76,1953,63,1643,31.00,118.87,16.37%,58.30,475,18,420,26.39,113.10,11.19%,70.51,1148,35,929,32.80,123.57,18.62%,55.56
+Shimron Hetmyer,Batsman,42000000,Royal Challengers Bangalore,2019,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shimron Hetmyer,Batsman,77500000,Delhi Capitals,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shimron Hetmyer,Batsman,85000000,Rajasthan Royals,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shishir Bhavane,Batsman,1000000,Royal Challengers Bangalore,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shivam Dube,All-Rounder,50000000,Royal Challengers Bangalore,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shivam Dube,All-Rounder,44000000,Rajasthan Royals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shivam Dube,All-Rounder,40000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shivam Mavi,All-Rounder,30000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shivam Mavi,All-Rounder,72500000,Kolkata Knight Riders,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shivam Sharma,Bowler,1000000,Kings XI Punjab,2014,Indian,2,5,1,3,5.00,166.67,33.33%,50.00,NA,NA,NA,NA,NA,NA,NA,5,1,3,5.00,166.67,33.33%,50.00
+Shivil Kaushik,Bowler,1000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shreevats Goswami,Wicket Keeper,10000000,Sunrisers Hyderabad,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shreyas Gopal,Bowler,1000000,Mumbai Indians,2014,Indian,3,14,1,27,14.00,51.85,3.70%,38.46,5,1,9,5.00,55.56,0.00%,55.56,9,0,18,NA,50.00,5.56%,29.41
+Shreyas Gopal,All-Rounder,2000000,Rajasthan Royals,2018,Indian,3,14,1,27,14.00,51.85,3.70%,38.46,5,1,9,5.00,55.56,0.00%,55.56,9,0,18,NA,50.00,5.56%,29.41
+Shreyas Gopal,Bowler,7500000,Sunrisers Hyderabad,2022,Indian,3,14,1,27,14.00,51.85,3.70%,38.46,5,1,9,5.00,55.56,0.00%,55.56,9,0,18,NA,50.00,5.56%,29.41
+Shreyas Iyer,Batsman,26000000,Delhi Daredevils,2015,Indian,20,469,19,385,24.68,121.82,16.88%,51.56,145,3,105,48.33,138.10,17.14%,65.52,308,16,273,19.25,112.82,16.12%,46.29
+Shreyas Iyer,Batsman,122500000,Kolkata Knight Riders,2022,Indian,20,469,19,385,24.68,121.82,16.88%,51.56,145,3,105,48.33,138.10,17.14%,65.52,308,16,273,19.25,112.82,16.12%,46.29
+Shrikant Mundhe,All-Rounder,2000000,Kolkata Knight Riders,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shubam Agrawal,All-Rounder,1000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shubham Garhwal,All-Rounder,2000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shubham Ranjane,All-Rounder,2000000,Rajasthan Royals,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shubman Gill,Batsman,18000000,Kolkata Knight Riders,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Siddarth Kaul,Bowler,4500000,Delhi Daredevils,2014,Indian,2,9,0,11,NA,81.82,0.00%,81.82,NA,NA,NA,NA,NA,NA,NA,8,0,10,NA,80.00,0.00%,80.00
+Siddarth Kaul,Bowler,1000000,Sunrisers Hyderabad,2015,Indian,2,9,0,11,NA,81.82,0.00%,81.82,NA,NA,NA,NA,NA,NA,NA,8,0,10,NA,80.00,0.00%,80.00
+Siddarth Kaul,Bowler,38000000,Sunrisers Hyderabad,2018,Indian,2,9,0,11,NA,81.82,0.00%,81.82,NA,NA,NA,NA,NA,NA,NA,8,0,10,NA,80.00,0.00%,80.00
+Siddharth Kaul,Bowler,7500000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Siddhesh Dinesh Lad,All-Rounder,1000000,Mumbai Indians,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Siddhesh Dinesh Lad,Batsman,2000000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Simarjeet Singh,Bowler,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Srikkanth Anirudha,Batsman,2000000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Steven Smith,All-Rounder,40000000,Rajasthan Royals,2014,Overseas,48,1318,39,978,33.79,134.76,15.85%,77.28,382,10,312,38.20,122.44,9.94%,83.99,726,23,525,31.57,138.29,18.67%,70.73
+Steven Smith,Batsman,22000000,Delhi Capitals,2021,Overseas,48,1318,39,978,33.79,134.76,15.85%,77.28,382,10,312,38.20,122.44,9.94%,83.99,726,23,525,31.57,138.29,18.67%,70.73
+Stuart Binny,All-Rounder,20000000,Royal Challengers Bangalore,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stuart Binny,All-Rounder,5000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Subhranshu Senapati,Batsman,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Subramaniam Badrinath,Batsman,3000000,Royal Challengers Bangalore,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sudeep Tyagi,Bowler,7500000,Sunrisers Hyderabad,2013,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sumit Narwal,All-Rounder,1000000,Kolkata Knight Riders,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suryakumar Yadav,Batsman,7000000,Kolkata Knight Riders,2014,Indian,34,503,22,374,22.86,134.49,17.11%,68.06,168,4,156,42.00,107.69,9.62%,70.92,316,16,203,19.75,155.67,22.66%,66.24
+Suryakumar Yadav,Batsman,32000000,Mumbai Indians,2018,Indian,34,503,22,374,22.86,134.49,17.11%,68.06,168,4,156,42.00,107.69,9.62%,70.92,316,16,203,19.75,155.67,22.66%,66.24
+Sushant Marathe,Wicket Keeper,1000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suyash Prabhudesai,All-Rounder,2000000,Royal Challengers Bangalore,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suyash Prabhudessai,All-Rounder,3000000,Royal Challengers Bangalore,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Swapnil Singh,All-Rounder,1000000,Kings XI Punjab,2016,Indian,1,0,1,1,0.00,0.00,0.00%,0.00,NA,NA,NA,NA,NA,NA,NA,0,1,1,0.00,0.00,0.00%,0.00
+Syed Khaleel Ahmed,All-Rounder,1000000,Delhi Daredevils,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Syed Khaleel Ahmed,Bowler,30000000,Sunrisers Hyderabad,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Syed Khaleel Ahmed,Bowler,52500000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Syed Mehdi Hasan,All-Rounder,2000000,Sunrisers Hyderabad,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+T Natarajan,Bowler,30000000,Kings XI Punjab,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+T Natarajan,Bowler,4000000,Sunrisers Hyderabad,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+T. Natarajan,Bowler,40000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tajinder Dhillon,All-Rounder,5500000,Mumbai Indians,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tajinder Dhillon,All-Rounder,2000000,Kings XI Punjab,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tanmay Agarwal,Batsman,1000000,Sunrisers Hyderabad,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tanmay Agarwal,Batsman,2000000,Sunrisers Hyderabad,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tanmay Mishra,Batsman,1000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tejas Baroka,Bowler,2000000,Rajasthan Royals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tejas Singh Baroka,Bowler,1000000,Gujarat Lions,2017,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thisara Perera,All-Rounder,50625000,Sunrisers Hyderabad,2013,Overseas,54,852,36,585,23.67,145.64,17.78%,71.93,179,7,139,25.57,128.78,12.23%,69.67,492,25,319,19.68,154.23,20.69%,71.94
+Thisara Perera,All-Rounder,16000000,Kings XI Punjab,2014,Overseas,54,852,36,585,23.67,145.64,17.78%,71.93,179,7,139,25.57,128.78,12.23%,69.67,492,25,319,19.68,154.23,20.69%,71.94
+Thisara Perera,All-Rounder,10000000,Rising Pune Supergiant,2016,Overseas,54,852,36,585,23.67,145.64,17.78%,71.93,179,7,139,25.57,128.78,12.23%,69.67,492,25,319,19.68,154.23,20.69%,71.94
+Tim David,All-Rounder,82500000,Mumbai Indians,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tim Seifert,Wicket Keeper,5000000,Delhi Capitals,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tim Southee,Bowler,12000000,Rajasthan Royals,2014,Overseas,9,49,6,36,8.17,136.11,13.89%,80.65,0,1,2,0.00,0.00,0.00%,0.00,45,5,31,9.00,145.16,12.90%,92.59
+Tim Southee,Bowler,25000000,Mumbai Indians,2016,Overseas,9,49,6,36,8.17,136.11,13.89%,80.65,0,1,2,0.00,0.00,0.00%,0.00,45,5,31,9.00,145.16,12.90%,92.59
+Tim Southee,Bowler,10000000,Royal Challengers Bangalore,2018,Overseas,9,49,6,36,8.17,136.11,13.89%,80.65,0,1,2,0.00,0.00,0.00%,0.00,45,5,31,9.00,145.16,12.90%,92.59
+Tim Southee,Bowler,15000000,Kolkata Knight Riders,2022,Overseas,9,49,6,36,8.17,136.11,13.89%,80.65,0,1,2,0.00,0.00,0.00%,0.00,45,5,31,9.00,145.16,12.90%,92.59
+Tirumalasetti Suman,Batsman,1000000,Sunrisers Hyderabad,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tom Banton,Batsman,10000000,Kolkata Knight Riders,2020,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tom Curran,All-Rounder,10000000,Rajasthan Royals,2020,Overseas,17,235,12,186,19.58,126.34,16.67%,65.16,2,1,4,2.00,50.00,0.00%,50.00,131,3,104,43.67,125.96,16.35%,70.11
+Tom Curran,All-Rounder,52500000,Delhi Capitals,2021,Overseas,17,235,12,186,19.58,126.34,16.67%,65.16,2,1,4,2.00,50.00,0.00%,50.00,131,3,104,43.67,125.96,16.35%,70.11
+Travis Head,Batsman,3000000,Delhi Daredevils,2015,Overseas,34,830,29,576,28.62,144.10,17.53%,69.89,173,9,158,19.22,109.49,10.13%,66.90,398,13,253,30.62,157.31,20.55%,69.65
+Travis Head,Batsman,5000000,Royal Challengers Bangalore,2016,Overseas,34,830,29,576,28.62,144.10,17.53%,69.89,173,9,158,19.22,109.49,10.13%,66.90,398,13,253,30.62,157.31,20.55%,69.65
+Trent Boult,Bowler,38000000,Sunrisers Hyderabad,2015,Overseas,4,12,4,22,3.00,54.55,0.00%,54.55,NA,NA,NA,NA,NA,NA,NA,11,2,15,5.50,73.33,0.00%,73.33
+Trent Boult,Bowler,50000000,Kolkata Knight Riders,2017,Overseas,4,12,4,22,3.00,54.55,0.00%,54.55,NA,NA,NA,NA,NA,NA,NA,11,2,15,5.50,73.33,0.00%,73.33
+Trent Boult,Bowler,22000000,Delhi Daredevils,2018,Overseas,4,12,4,22,3.00,54.55,0.00%,54.55,NA,NA,NA,NA,NA,NA,NA,11,2,15,5.50,73.33,0.00%,73.33
+Trent Boult,Bowler,80000000,Rajasthan Royals,2022,Overseas,4,12,4,22,3.00,54.55,0.00%,54.55,NA,NA,NA,NA,NA,NA,NA,11,2,15,5.50,73.33,0.00%,73.33
+Tushar Deshpande,Bowler,2000000,Delhi Capitals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tushar Deshpande,Bowler,2000000,Chennai Super Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tymal Mills,Bowler,120000000,Royal Challengers Bangalore,2017,Overseas,5,9,2,8,4.50,112.50,12.50%,42.86,NA,NA,NA,NA,NA,NA,NA,8,1,5,8.00,160.00,20.00%,50.00
+Tymal Mills,Bowler,15000000,Mumbai Indians,2022,Overseas,5,9,2,8,4.50,112.50,12.50%,42.86,NA,NA,NA,NA,NA,NA,NA,8,1,5,8.00,160.00,20.00%,50.00
+Umang Sharma,Batsman,1000000,Gujarat Lions,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Umesh Yadav,Bowler,26000000,Kolkata Knight Riders,2014,Indian,13,78,4,61,19.50,127.87,18.03%,56.00,NA,NA,NA,NA,NA,NA,NA,77,4,59,19.25,130.51,18.64%,56.25
+Umesh Yadav,Bowler,42000000,Royal Challengers Bangalore,2018,Indian,13,78,4,61,19.50,127.87,18.03%,56.00,NA,NA,NA,NA,NA,NA,NA,77,4,59,19.25,130.51,18.64%,56.25
+Umesh Yadav,Bowler,10000000,Delhi Capitals,2021,Indian,13,78,4,61,19.50,127.87,18.03%,56.00,NA,NA,NA,NA,NA,NA,NA,77,4,59,19.25,130.51,18.64%,56.25
+Umesh Yadav,Bowler,20000000,Kolkata Knight Riders,2022,Indian,13,78,4,61,19.50,127.87,18.03%,56.00,NA,NA,NA,NA,NA,NA,NA,77,4,59,19.25,130.51,18.64%,56.25
+Unmukt Chand,Batsman,6500000,Rajasthan Royals,2014,Indian,16,262,16,254,16.38,103.15,14.17%,48.62,87,4,74,21.75,117.57,13.51%,64.06,107,7,110,15.29,97.27,16.36%,31.52
+Utkarsh Singh,All-Rounder,2000000,Punjab Kings,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vaibhav Arora,Bowler,2000000,Kolkata Knight Riders,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vaibhav Arora,Bowler,20000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vaibhav Rawal,All-Rounder,1000000,Kolkata Knight Riders,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Varun Aaron,Bowler,20000000,Royal Challengers Bangalore,2014,Indian,4,41,1,37,41.00,110.81,10.81%,63.64,5,0,6,NA,83.33,0.00%,83.33,21,1,20,21.00,105.00,10.00%,61.11
+Varun Aaron,Bowler,28000000,Kings XI Punjab,2017,Indian,4,41,1,37,41.00,110.81,10.81%,63.64,5,0,6,NA,83.33,0.00%,83.33,21,1,20,21.00,105.00,10.00%,61.11
+Varun Aaron,Bowler,24000000,Rajasthan Royals,2019,Indian,4,41,1,37,41.00,110.81,10.81%,63.64,5,0,6,NA,83.33,0.00%,83.33,21,1,20,21.00,105.00,10.00%,61.11
+Varun Aaron,Bowler,5000000,Gujarat Titans,2022,Indian,4,41,1,37,41.00,110.81,10.81%,63.64,5,0,6,NA,83.33,0.00%,83.33,21,1,20,21.00,105.00,10.00%,61.11
+Varun Chakaravarthy,All-Rounder,84000000,Kings XI Punjab,2019,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Varun Chakaravarthy,All-Rounder,40000000,Kolkata Knight Riders,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Veer Pratap Singh,Bowler,4000000,Kolkata Knight Riders,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venkatesh Iyer,All-Rounder,2000000,Kolkata Knight Riders,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venugopal Rao,Batsman,5500000,Sunrisers Hyderabad,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vicky Ostwal,All-Rounder,2000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vijay Shankar,All-Rounder,1000000,Chennai Super Kings,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vijay Shankar,All-Rounder,3500000,Sunrisers Hyderabad,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vijay Shankar,All-Rounder,32000000,Delhi Daredevils,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vijay Shankar,All-Rounder,14000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vijay Zol,Batsman,3000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vikas Tokas,Bowler,1000000,Royal Challengers Bangalore,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vikramjeet Malik,Bowler,2000000,Rajasthan Royals,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vikramjeet Malik,Bowler,2000000,Royal Challengers Bangalore,2016,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Virat Singh,Batsman,19000000,Sunrisers Hyderabad,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Virender Sehwag,Batsman,32000000,Kings XI Punjab,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vishnu Vinod,Wicket Keeper,2000000,Delhi Capitals,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vishnu Vinod,Wicket Keeper,5000000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wanindu Hasaranga,All-Rounder,107500000,Royal Challengers Bangalore,2022,Overseas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Washington Sundar,All-Rounder,87500000,Sunrisers Hyderabad,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wayne Parnell,Bowler,10000000,Delhi Daredevils,2014,Overseas,11,108,7,106,15.43,101.89,6.60%,78.79,10,1,17,10.00,58.82,0.00%,58.82,60,5,63,12.00,95.24,6.35%,74.58
+Wriddhiman Saha,Wicket Keeper,22000000,Kings XI Punjab,2014,Indian,41,951,37,714,25.70,133.19,16.39%,69.85,344,10,280,34.40,122.86,12.50%,74.29,565,24,400,23.54,141.25,19.25%,67.80
+Wriddhiman Saha,Wicket Keeper,50000000,Sunrisers Hyderabad,2018,Indian,41,951,37,714,25.70,133.19,16.39%,69.85,344,10,280,34.40,122.86,12.50%,74.29,565,24,400,23.54,141.25,19.25%,67.80
+Wriddhiman Saha,Wicket Keeper,12000000,Sunrisers Hyderabad,2019,Indian,41,951,37,714,25.70,133.19,16.39%,69.85,344,10,280,34.40,122.86,12.50%,74.29,565,24,400,23.54,141.25,19.25%,67.80
+Wriddhiman Saha,Wicket Keeper,19000000,Gujarat Titans,2022,Indian,41,951,37,714,25.70,133.19,16.39%,69.85,344,10,280,34.40,122.86,12.50%,74.29,565,24,400,23.54,141.25,19.25%,67.80
+Writtick Chatterjee,All-Rounder,2000000,Punjab Kings,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yash Dayal,Bowler,32000000,Gujarat Titans,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yash Dhull,All-Rounder,5000000,Delhi Capitals,2022,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yashasvi Jaiswal,All-Rounder,24000000,Rajasthan Royals,2020,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yogesh Gowalkar,All-Rounder,1000000,Kings XI Punjab,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yogesh Takawale,Wicket Keeper,1000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yudhvir Charak,All-Rounder,2000000,Mumbai Indians,2021,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yusuf Pathan,All-Rounder,32500000,Kolkata Knight Riders,2014,Indian,53,1273,32,884,39.78,144.00,18.89%,67.64,428,5,278,85.60,153.96,19.78%,67.26,672,21,492,32.00,136.59,18.09%,69.48
+Yusuf Pathan,All-Rounder,19000000,Sunrisers Hyderabad,2018,Indian,53,1273,32,884,39.78,144.00,18.89%,67.64,428,5,278,85.60,153.96,19.78%,67.26,672,21,492,32.00,136.59,18.09%,69.48
+Yuvraj Singh,All-Rounder,140000000,Royal Challengers Bangalore,2014,Indian,67,1441,57,1153,25.28,124.98,16.83%,52.03,412,18,380,22.89,108.42,12.89%,52.57,743,30,562,24.77,132.21,18.68%,53.61
+Yuvraj Singh,Batsman,160000000,Delhi Daredevils,2015,Indian,67,1441,57,1153,25.28,124.98,16.83%,52.03,412,18,380,22.89,108.42,12.89%,52.57,743,30,562,24.77,132.21,18.68%,53.61
+Yuvraj Singh,All-Rounder,70000000,Sunrisers Hyderabad,2016,Indian,67,1441,57,1153,25.28,124.98,16.83%,52.03,412,18,380,22.89,108.42,12.89%,52.57,743,30,562,24.77,132.21,18.68%,53.61
+Yuvraj Singh,All-Rounder,20000000,Kings XI Punjab,2018,Indian,67,1441,57,1153,25.28,124.98,16.83%,52.03,412,18,380,22.89,108.42,12.89%,52.57,743,30,562,24.77,132.21,18.68%,53.61
+Yuvraj Singh,All-Rounder,10000000,Mumbai Indians,2019,Indian,67,1441,57,1153,25.28,124.98,16.83%,52.03,412,18,380,22.89,108.42,12.89%,52.57,743,30,562,24.77,132.21,18.68%,53.61
+Yuzvendra Chahal,Bowler,65000000,Rajasthan Royals,2022,Indian,2,2,0,2,NA,100.00,0.00%,100.00,NA,NA,NA,NA,NA,NA,NA,1,0,1,NA,100.00,0.00%,100.00
+Yuzvendra Singh Chahal,Bowler,1000000,Royal Challengers Bangalore,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yuzvendra Singh Chahal,Bowler,60000000,Royal Challengers Bangalore,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zaheer Khan,Bowler,26000000,Mumbai Indians,2014,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zaheer Khan,Bowler,40000000,Delhi Daredevils,2015,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zahir Khan Pakteen,Bowler,6000000,Rajasthan Royals,2018,Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

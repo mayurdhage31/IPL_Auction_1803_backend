@@ -1,0 +1,971 @@
+"","bowler_name","Role","Amount","Team","Year","Player Origin","bowler_type","bowler_category","matches","balls_bowled","overs_bowled","runs_conceded","wickets","economy","bowling_sr"
+"1","Aaron Finch","Batsman",4e+07,"Sunrisers Hyderabad",2014,"Overseas","SLA","Spinner",18,136,"22.4",226,5,"9.97","27.20"
+"2","Aaron Finch","Batsman",3.2e+07,"Mumbai Indians",2015,"Overseas","SLA","Spinner",18,136,"22.4",226,5,"9.97","27.20"
+"3","Aaron Finch","Batsman",1e+07,"Gujarat Lions",2016,"Overseas","SLA","Spinner",18,136,"22.4",226,5,"9.97","27.20"
+"4","Aaron Finch","Batsman",6.2e+07,"Kings XI Punjab",2018,"Overseas","SLA","Spinner",18,136,"22.4",226,5,"9.97","27.20"
+"5","Aaron Finch","Batsman",4.4e+07,"Royal Challengers Bangalore",2020,"Overseas","SLA","Spinner",18,136,"22.4",226,5,"9.97","27.20"
+"6","Abdul Samad","All-Rounder",2e+06,"Sunrisers Hyderabad",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Abhijeet Tomar","Batsman",4e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Abhimanyu Mithun","Bowler",3e+06,"Mumbai Indians",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Abhimanyu Mithun","Bowler",3e+06,"Sunrisers Hyderabad",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Abhinav Sadarangani","Batsman",2.6e+07,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","Abhishek Nayar","All-Rounder",50625000,"Pune Warriors India",2013,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","Abhishek Nayar","All-Rounder",1e+07,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Abhishek Sharma","All-Rounder",5500000,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","Abhishek Sharma","All-Rounder",6.5e+07,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Abu Nechim Ahmed","Bowler",3e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","Adam Milne","Bowler",7e+06,"Royal Challengers Bangalore",2015,"Overseas","RFM","Pacer",15,325,"54.1",359,21,"6.63","15.48"
+"17","Adam Milne","Bowler",3.2e+07,"Mumbai Indians",2021,"Overseas","RFM","Pacer",15,325,"54.1",359,21,"6.63","15.48"
+"18","Adam Milne","Bowler",1.9e+07,"Chennai Super Kings",2022,"Overseas","RFM","Pacer",15,325,"54.1",359,21,"6.63","15.48"
+"19","Adam Zampa","Bowler",3e+06,"Rising Pune Supergiant",2016,"Overseas","LS","Spinner",34,728,"121.2",852,39,"7.02","18.67"
+"20","Aditya Garhwal","All-Rounder",2500000,"Kolkata Knight Riders",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Aditya Tare","Wicket Keeper",1.6e+07,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Aditya Tare","Wicket Keeper",1.2e+07,"Sunrisers Hyderabad",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","Aditya Tare","Wicket Keeper",2500000,"Delhi Daredevils",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Aditya Tare","Wicket Keeper",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Agnivesh Ayachi","All-Rounder",2e+06,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Aiden Blizzard","Batsman",3e+06,"Mumbai Indians",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Aiden Markram","Batsman",2.6e+07,"Sunrisers Hyderabad",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Ajantha Mendis","Bowler",54375000,"Pune Warriors India",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Ajinkya Rahane","Batsman",4e+07,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Ajinkya Rahane","Batsman",1e+07,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Akash Deep","Bowler",2e+06,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","Akash Singh","Bowler",2e+06,"Rajasthan Royals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Akash Singh","Bowler",2e+06,"Rajasthan Royals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Akhil Arvind Herwadkar","All-Rounder",1e+06,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Akila Dananjaya","All-Rounder",1500000,"Chennai Super Kings",2013,"Overseas","OS","Spinner",1,6,"1.0",12,0,"12.00",NA
+"36","Akila Dhananjaya","Bowler",5e+06,"Mumbai Indians",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Akshar Rajesh Patel","All-Rounder",7500000,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Akshay Karnewar","All-Rounder",1e+06,"Royal Challengers Bangalore",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Akshay Wakhare","Bowler",1e+06,"Mumbai Indians",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Akshdeep Nath","All-Rounder",1e+06,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Akshdeep Nath","All-Rounder",1e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Akshdeep Nath","All-Rounder",1e+07,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","Akshdeep Nath","All-Rounder",3.6e+07,"Royal Challengers Bangalore",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","Albie Morkel","All-Rounder",2.4e+07,"Royal Challengers Bangalore",2014,"Overseas","RFM","Pacer",26,438,"73.0",590,20,"8.08","21.90"
+"45","Albie Morkel","All-Rounder",3e+06,"Delhi Daredevils",2015,"Overseas","RFM","Pacer",26,438,"73.0",590,20,"8.08","21.90"
+"46","Alex Carey","Wicket Keeper",2.4e+07,"Delhi Capitals",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Alex Hales","Batsman",1.5e+07,"Kolkata Knight Riders",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Alzarri Joseph","Bowler",2.4e+07,"Gujarat Titans",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","Aman Khan","All-Rounder",2e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Ambati Rayudu","Wicket Keeper",2.2e+07,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","Ambati Rayudu","Wicket Keeper",67500000,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Amit Mishra","Bowler",1e+06,"Rajasthan Royals",2014,"Indian","LS","Spinner",60,1270,"211.4",1559,63,"7.37","20.16"
+"53","Amit Mishra","Bowler",47500000,"Sunrisers Hyderabad",2014,"Indian","LS","Spinner",60,1270,"211.4",1559,63,"7.37","20.16"
+"54","Amit Mishra","Bowler",3.5e+07,"Delhi Daredevils",2015,"Indian","LS","Spinner",60,1270,"211.4",1559,63,"7.37","20.16"
+"55","Amit Mishra","Bowler",1e+06,"Gujarat Lions",2016,"Indian","LS","Spinner",60,1270,"211.4",1559,63,"7.37","20.16"
+"56","Amit Mishra","Bowler",4e+07,"Delhi Daredevils",2018,"Indian","LS","Spinner",60,1270,"211.4",1559,63,"7.37","20.16"
+"57","Amit Paunikar","Wicket Keeper",2e+06,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Andre Russell","All-Rounder",6e+06,"Kolkata Knight Riders",2014,"Overseas","RFM","Pacer",75,1343,"223.5",1875,75,"8.38","17.91"
+"59","Andrew Tye","Bowler",2e+06,"Chennai Super Kings",2015,"Overseas","RFM","Pacer",40,901,"150.1",1158,51,"7.71","17.67"
+"60","Andrew Tye","All-Rounder",5e+06,"Gujarat Lions",2016,"Overseas","RFM","Pacer",40,901,"150.1",1158,51,"7.71","17.67"
+"61","Andrew Tye","Bowler",7.2e+07,"Kings XI Punjab",2018,"Overseas","RFM","Pacer",40,901,"150.1",1158,51,"7.71","17.67"
+"62","Andrew Tye","Bowler",1e+07,"Rajasthan Royals",2020,"Overseas","RFM","Pacer",40,901,"150.1",1158,51,"7.71","17.67"
+"63","Aneeshwar Gautam","All-Rounder",2e+06,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Angelo Mathews","All-Rounder",7.5e+07,"Delhi Daredevils",2015,"Overseas","RFM","Pacer",44,786,"131.0",970,27,"7.40","29.11"
+"65","Angelo Mathews","All-Rounder",2e+07,"Delhi Daredevils",2017,"Overseas","RFM","Pacer",44,786,"131.0",970,27,"7.40","29.11"
+"66","Aniket Choudhary","Bowler",2e+07,"Royal Challengers Bangalore",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Aniket Choudhary","Bowler",3e+06,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","Anirudha Ashok Joshi","All-Rounder",2e+06,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Anirudha Ashok Joshi","All-Rounder",2e+06,"Rajasthan Royals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Ankeet Bawane","Batsman",1e+06,"Delhi Daredevils",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","Ankit Nagendra Sharma","Bowler",1e+06,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Ankit Sharma","All-Rounder",1e+06,"Rising Pune Supergiant",2016,"Indian","SLA","Spinner",10,210,"35.0",258,8,"7.37","26.25"
+"73","Ankit Sharma","All-Rounder",2e+06,"Rajasthan Royals",2018,"Indian","SLA","Spinner",10,210,"35.0",258,8,"7.37","26.25"
+"74","Ankit Singh Rajpoot","Bowler",1.5e+07,"Kolkata Knight Riders",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Ankit Singh Rajpoot","Bowler",3e+07,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","Ankit Singh Rajpoot","Bowler",5e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Ankush Bains","Wicket Keeper",1e+06,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Ankush Bains","Wicket Keeper",1e+06,"Chennai Super Kings",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","Ankush Bains","Wicket Keeper",1e+06,"Rising Pune Supergiant",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Ankush Bains","Wicket Keeper",2e+06,"Delhi Capitals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","Anmolpreet Singh","Batsman",8e+06,"Mumbai Indians",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Anmolpreet Singh","Batsman",2e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Anrich Nortje","Bowler",2e+06,"Kolkata Knight Riders",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Ansh Patel","All-Rounder",2e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","Anuj Rawat","Wicket Keeper",8e+06,"Rajasthan Royals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","Anuj Rawat","Wicket Keeper",3.4e+07,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","Anukul Roy","All-Rounder",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","Anukul Roy","All-Rounder",2e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","Anunay Singh","All-Rounder",2e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Anureet Singh","Bowler",2e+06,"Kings XI Punjab",2014,"Indian","RFM","Pacer",16,346,"57.4",508,15,"8.81","23.07"
+"91","Anureet Singh","Bowler",3e+06,"Rajasthan Royals",2018,"Indian","RFM","Pacer",16,346,"57.4",508,15,"8.81","23.07"
+"92","Apoorv Vijay Wankhade","Batsman",1e+06,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Apoorv Vijay Wankhade","Batsman",2e+06,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Arjun Tendulkar","All-Rounder",2e+06,"Mumbai Indians",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","Arjun Tendulkar","All-Rounder",3e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","Armaan Jaffer","Batsman",1e+06,"Kings XI Punjab",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","Arshdeep Singh","Bowler",2e+06,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","Aryaman Vikram Birla","All-Rounder",3e+06,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","Aryan Juyal","Wicket Keeper",2e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","Asela Gunarathna","Batsman",3e+06,"Mumbai Indians",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","Ashish Nehra","Bowler",2e+07,"Chennai Super Kings",2014,"Indian","LFM","Pacer",53,1152,"192.0",1478,68,"7.70","16.94"
+"102","Ashish Nehra","Bowler",5.5e+07,"Sunrisers Hyderabad",2016,"Indian","LFM","Pacer",53,1152,"192.0",1478,68,"7.70","16.94"
+"103","Ashish Reddy","Bowler",2e+06,"Sunrisers Hyderabad",2014,"Indian","RFM","Pacer",11,99,"16.3",159,7,"9.64","14.14"
+"104","Ashok Dinda","Bowler",1.5e+07,"Royal Challengers Bangalore",2014,"Indian","RFM","Pacer",33,693,"115.3",1028,32,"8.90","21.66"
+"105","Ashok Dinda","Bowler",5e+06,"Rising Pune Supergiant",2016,"Indian","RFM","Pacer",33,693,"115.3",1028,32,"8.90","21.66"
+"106","Ashok Sharma","Bowler",5500000,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","Ashton Turner","All-Rounder",5e+06,"Rajasthan Royals",2019,"Indian","OS","Spinner",12,114,"19.0",126,7,"6.63","16.29"
+"108","Ashwin Hebbar","Batsman",2e+06,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","Asif K M","Bowler",4e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Atharva Taide","All-Rounder",2e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","Avesh Khan","Bowler",7e+06,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Avesh Khan","Bowler",1e+08,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","Axar Rajesh Patel","All-Rounder",5e+07,"Delhi Capitals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Ayush Badoni","All-Rounder",2e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","B. Sai Sudharsan","All-Rounder",2e+06,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Baba Aparajith","Batsman",1e+06,"Chennai Super Kings",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","Baba Aparajith","All-Rounder",1e+06,"Rising Pune Supergiant",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Baba Indrajith","Wicket Keeper",2e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Baltej Dhanda","Bowler",2e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Bandaru Ayyappa","Bowler",2e+06,"Delhi Capitals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Barinder Singh Saran","Bowler",1e+06,"Rajasthan Royals",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Barinder Singh Sran","Bowler",1.2e+07,"Sunrisers Hyderabad",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","Barinder Singh Sran","Bowler",2.2e+07,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","Barinder Singh Sran","Bowler",3.4e+07,"Mumbai Indians",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Basil Thampi","Bowler",8500000,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","Basil Thampi","Bowler",9500000,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Basil Thampi","Bowler",3e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","Ben Cutting","Bowler",8e+06,"Rajasthan Royals",2014,"Overseas","RFM","Pacer",38,700,"116.4",994,31,"8.52","22.58"
+"129","Ben Cutting","All-Rounder",5e+06,"Sunrisers Hyderabad",2016,"Overseas","RFM","Pacer",38,700,"116.4",994,31,"8.52","22.58"
+"130","Ben Cutting","All-Rounder",2.2e+07,"Mumbai Indians",2018,"Overseas","RFM","Pacer",38,700,"116.4",994,31,"8.52","22.58"
+"131","Ben Cutting","All-Rounder",7500000,"Kolkata Knight Riders",2021,"Overseas","RFM","Pacer",38,700,"116.4",994,31,"8.52","22.58"
+"132","Ben Dunk","Wicket Keeper",2e+06,"Mumbai Indians",2014,"Overseas",NA,NA,2,12,"2.0",21,0,"10.50",NA
+"133","Ben Dwarshuis","Bowler",1.4e+07,"Kings XI Punjab",2018,"Overseas","LFM","Pacer",11,231,"38.3",336,15,"8.73","15.40"
+"134","Ben Hilfenhaus","Bowler",1e+07,"Chennai Super Kings",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","Ben Laughlin","Bowler",1500000,"Chennai Super Kings",2013,"Overseas","RFM","Pacer",32,663,"110.3",932,43,"8.43","15.42"
+"136","Ben Laughlin","Bowler",3e+06,"Sunrisers Hyderabad",2017,"Overseas","RFM","Pacer",32,663,"110.3",932,43,"8.43","15.42"
+"137","Ben Laughlin","Bowler",5e+06,"Rajasthan Royals",2018,"Overseas","RFM","Pacer",32,663,"110.3",932,43,"8.43","15.42"
+"138","Benjamin Stokes","All-Rounder",1.45e+08,"Rising Pune Supergiant",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Benjamin Stokes","All-Rounder",1.25e+08,"Rajasthan Royals",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Benny Howell","All-Rounder",4e+06,"Punjab Kings",2022,"Overseas","RFM","Pacer",39,870,"145.0",1023,56,"7.06","15.54"
+"141","Beuran Hendricks","Bowler",1.8e+07,"Kings XI Punjab",2014,"Overseas","LFM","Pacer",12,250,"41.4",384,14,"9.22","17.86"
+"142","Bhanuka Rajapaksa","Batsman",5e+06,"Punjab Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","Bhuvneshwar Kumar","Bowler",42500000,"Sunrisers Hyderabad",2014,"Overseas","RFM","Pacer",75,1661,"276.5",1948,86,"7.04","19.31"
+"144","Bhuvneshwar Kumar","Bowler",4.2e+07,"Sunrisers Hyderabad",2022,"Indian","RFM","Pacer",75,1661,"276.5",1948,86,"7.04","19.31"
+"145","Billy Stanlake","Bowler",3e+06,"Royal Challengers Bangalore",2017,"Overseas","RFM","Pacer",5,104,"17.2",127,5,"7.33","20.80"
+"146","Billy Stanlake","Batsman",5e+06,"Sunrisers Hyderabad",2018,"Overseas","RFM","Pacer",5,104,"17.2",127,5,"7.33","20.80"
+"147","Bipul Sharma","All-Rounder",2e+06,"Sunrisers Hyderabad",2018,"Indian","SLA","Spinner",10,150,"25.0",192,7,"7.68","21.43"
+"148","Brad Hodge","Batsman",2.4e+07,"Rajasthan Royals",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","Brad Hogg","Bowler",5e+06,"Kolkata Knight Riders",2015,"Overseas","LAW","Spinner",44,944,"157.2",1077,44,"6.85","21.45"
+"150","Brendan Taylor","Wicket Keeper",3e+06,"Sunrisers Hyderabad",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Brendon McCullum","Wicket Keeper",32500000,"Chennai Super Kings",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","Brendon McCullum","Batsman",3.6e+07,"Royal Challengers Bangalore",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","C Hari Nishaanth","Batsman",2e+06,"Chennai Super Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","C.Hari Nishaanth","Batsman",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","C.M. Gautam","Wicket Keeper",2e+06,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","C.M. Gautam","Wicket Keeper",2e+06,"Delhi Daredevils",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","Cameron Delport","All-Rounder",3e+06,"Kolkata Knight Riders",2018,"Overseas","RFM","Pacer",5,53,"8.5",81,4,"9.17","13.25"
+"158","Carlos Brathwaite","All-Rounder",4.2e+07,"Delhi Daredevils",2016,"Overseas","RFM","Pacer",19,334,"55.4",494,12,"8.87","27.83"
+"159","Carlos Brathwaite","All-Rounder",2e+07,"Sunrisers Hyderabad",2018,"Overseas","RFM","Pacer",19,334,"55.4",494,12,"8.87","27.83"
+"160","Carlos Brathwaite","All-Rounder",5e+07,"Kolkata Knight Riders",2019,"Overseas","RFM","Pacer",19,334,"55.4",494,12,"8.87","27.83"
+"161","Chaitanya Bishnoi","All-Rounder",2e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","Chama Milind","Bowler",1e+06,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","Chama Milind","Bowler",1e+06,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Chama Milind","Bowler",2500000,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","Chamika Karunaratne","All-Rounder",5e+06,"Kolkata Knight Riders",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","Chetan Sakariya","Bowler",1.2e+07,"Rajasthan Royals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","Chetan Sakariya","Bowler",4.2e+07,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","Cheteshwar Pujara","Batsman",1.9e+07,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","Cheteshwar Pujara","Batsman",5e+06,"Chennai Super Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","Chirag Suri","Batsman",1e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","Chris Green","All-Rounder",2e+06,"Kolkata Knight Riders",2020,"Overseas","OS","Spinner",11,192,"32.0",228,10,"7.12","19.20"
+"172","Chris Jordan","All-Rounder",5e+06,"Sunrisers Hyderabad",2017,"Overseas","RFM","Pacer",44,890,"148.2",1284,53,"8.66","16.79"
+"173","Chris Jordan","All-Rounder",1e+07,"Sunrisers Hyderabad",2018,"Overseas","RFM","Pacer",44,890,"148.2",1284,53,"8.66","16.79"
+"174","Chris Jordan","All-Rounder",3e+07,"Kings XI Punjab",2020,"Overseas","RFM","Pacer",44,890,"148.2",1284,53,"8.66","16.79"
+"175","Chris Jordan","All-Rounder",3.6e+07,"Chennai Super Kings",2022,"Overseas","RFM","Pacer",44,890,"148.2",1284,53,"8.66","16.79"
+"176","Chris Lynn","Batsman",1.3e+07,"Kolkata Knight Riders",2014,"Overseas",NA,NA,2,30,"5.0",38,3,"7.60","10.00"
+"177","Chris Lynn","Batsman",9.6e+07,"Kolkata Knight Riders",2018,"Overseas",NA,NA,2,30,"5.0",38,3,"7.60","10.00"
+"178","Chris Lynn","Batsman",2e+07,"Mumbai Indians",2020,"Overseas",NA,NA,2,30,"5.0",38,3,"7.60","10.00"
+"179","Chris Woakes","All-Rounder",4.2e+07,"Kolkata Knight Riders",2017,"Overseas","RFM","Pacer",18,384,"64.0",533,19,"8.33","20.21"
+"180","Chris Woakes","All-Rounder",7.4e+07,"Royal Challengers Bangalore",2018,"Overseas","RFM","Pacer",18,384,"64.0",533,19,"8.33","20.21"
+"181","Chris Woakes","All-Rounder",1.5e+07,"Delhi Capitals",2020,"Overseas","RFM","Pacer",18,384,"64.0",533,19,"8.33","20.21"
+"182","Christopher Barnwell","All-Rounder",3750000,"Royal Challengers Bangalore",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Christopher Gayle","Batsman",2e+07,"Kings XI Punjab",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","Christopher Morris","All-Rounder",46875000,"Chennai Super Kings",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","Christopher Morris","All-Rounder",1.4e+07,"Rajasthan Royals",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","Christopher Morris","All-Rounder",7e+07,"Delhi Daredevils",2016,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","Christopher Morris","All-Rounder",1e+08,"Royal Challengers Bangalore",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","Christopher Morris","All-Rounder",162500000,"Rajasthan Royals",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","Clinton McKay","Bowler",7500000,"Sunrisers Hyderabad",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Colin De Grandhomme","All-Rounder",2.2e+07,"Royal Challengers Bangalore",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","Colin Ingram","Batsman",6.4e+07,"Delhi Capitals",2019,"Overseas","LS","Spinner",13,218,"36.2",269,12,"7.40","18.17"
+"192","Colin Munro","All-Rounder",3e+06,"Kolkata Knight Riders",2016,"Overseas","RFM","Pacer",15,162,"27.0",249,7,"9.22","23.14"
+"193","Colin Munro","All-Rounder",1.9e+07,"Delhi Daredevils",2018,"Overseas","RFM","Pacer",15,162,"27.0",249,7,"9.22","23.14"
+"194","Corey Anderson","All-Rounder",4.5e+07,"Mumbai Indians",2014,"Overseas","LFM","Pacer",30,474,"79.0",680,19,"8.61","24.95"
+"195","Corey Anderson","All-Rounder",1e+07,"Delhi Daredevils",2017,"Overseas","LFM","Pacer",30,474,"79.0",680,19,"8.61","24.95"
+"196","Dale Steyn","Bowler",2.3e+07,"Gujarat Lions",2016,"Overseas","RFM","Pacer",56,1269,"211.3",1490,63,"7.04","20.14"
+"197","Dale Steyn","Bowler",2e+07,"Royal Challengers Bangalore",2020,"Overseas","RFM","Pacer",56,1269,"211.3",1490,63,"7.04","20.14"
+"198","Dan Christian","All-Rounder",4.8e+07,"Royal Challengers Bangalore",2021,"Overseas","RFM","Pacer",56,855,"142.3",1264,31,"8.87","27.58"
+"199","Daniel Christian","All-Rounder",7500000,"Royal Challengers Bangalore",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","Daniel Christian","All-Rounder",1e+07,"Rising Pune Supergiant",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","Daniel Christian","All-Rounder",1.5e+07,"Delhi Daredevils",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","Daniel Sams","All-Rounder",2.6e+07,"Mumbai Indians",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","Darcy Short","All-Rounder",4e+07,"Rajasthan Royals",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","Darren Bravo","Batsman",5e+06,"Kolkata Knight Riders",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","Darren Sammy","All-Rounder",31875000,"Sunrisers Hyderabad",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","Darren Sammy","All-Rounder",3.5e+07,"Sunrisers Hyderabad",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Darren Sammy","All-Rounder",2.8e+07,"Royal Challengers Bangalore",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Darren Sammy","All-Rounder",3e+06,"Kings XI Punjab",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","Darshan Nalkande","All-Rounder",3e+06,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","Darshan Nalkande","All-Rounder",2e+06,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","Daryl Mitchell","All-Rounder",7500000,"Rajasthan Royals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","David Miller","Batsman",3e+07,"Kings XI Punjab",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","David Miller","Batsman",7500000,"Rajasthan Royals",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","David Miller","Batsman",3e+07,"Gujarat Titans",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","David Warner","Batsman",5.5e+07,"Sunrisers Hyderabad",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","David Warner","Batsman",62500000,"Delhi Capitals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","David Wiese","All-Rounder",2.8e+07,"Royal Challengers Bangalore",2015,"Overseas","RFM","Pacer",37,730,"121.4",1002,46,"8.24","15.87"
+"218","David Willey","All-Rounder",2e+07,"Royal Challengers Bangalore",2022,"Overseas","LFM","Pacer",49,1021,"170.1",1319,60,"7.75","17.02"
+"219","Dawid Malan","All-Rounder",1.5e+07,"Punjab Kings",2021,"Overseas",NA,NA,5,34,"5.4",49,2,"8.65","17.00"
+"220","Debabrata Das","Wicket Keeper",2e+06,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Deepak Chahar","All-Rounder",1e+06,"Rising Pune Supergiant",2016,"Indian","RFM","Pacer",2,30,"5.0",41,0,"8.20",NA
+"222","Deepak Chahar","All-Rounder",8e+06,"Chennai Super Kings",2018,"Indian","RFM","Pacer",2,30,"5.0",41,0,"8.20",NA
+"223","Deepak Chahar","Bowler",1.4e+08,"Chennai Super Kings",2022,"Indian","RFM","Pacer",2,30,"5.0",41,0,"8.20",NA
+"224","Deepak Hooda","Bowler",4e+06,"Rajasthan Royals",2014,"Indian","OS","Spinner",13,169,"28.1",226,4,"8.02","42.25"
+"225","Deepak Hooda","All-Rounder",4.2e+07,"Sunrisers Hyderabad",2016,"Indian","OS","Spinner",13,169,"28.1",226,4,"8.02","42.25"
+"226","Deepak Hooda","All-Rounder",3.6e+07,"Sunrisers Hyderabad",2018,"Indian","OS","Spinner",13,169,"28.1",226,4,"8.02","42.25"
+"227","Deepak Hooda","All-Rounder",5e+06,"Kings XI Punjab",2020,"Indian","OS","Spinner",13,169,"28.1",226,4,"8.02","42.25"
+"228","Deepak Hooda","All-Rounder",57500000,"Lucknow Super Giants",2022,"Indian","OS","Spinner",13,169,"28.1",226,4,"8.02","42.25"
+"229","Deepak Punia","All-Rounder",1e+06,"Mumbai Indians",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","Devdutt Padikkal","Batsman",2e+06,"Royal Challengers Bangalore",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","Devdutt Padikkal","Batsman",77500000,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","Devon Conway","Batsman",1e+07,"Chennai Super Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","Dewald Brevis","Batsman",3e+07,"Mumbai Indians",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","Dhawal Kulkarni","Bowler",1.1e+07,"Rajasthan Royals",2014,"Indian","RFM","Pacer",41,826,"137.4",1068,48,"7.76","17.21"
+"235","Dhawal Kulkarni","Bowler",2e+07,"Gujarat Lions",2016,"Indian","RFM","Pacer",41,826,"137.4",1068,48,"7.76","17.21"
+"236","Dhawal Kulkarni","Bowler",7500000,"Rajasthan Royals",2018,"Indian","RFM","Pacer",41,826,"137.4",1068,48,"7.76","17.21"
+"237","Dhruv Jurel","Wicket Keeper",2e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","Dhruv Shorey","All-Rounder",2e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","Digvijay Deshmukh","All-Rounder",2e+06,"Mumbai Indians",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","Dinesh Karthik","Wicket Keeper",1.25e+08,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","Dinesh Karthik","Wicket Keeper",1.05e+08,"Royal Challengers Bangalore",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242","Dinesh Karthik","Wicket Keeper",2.3e+07,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","Dinesh Karthik","Wicket Keeper",7.4e+07,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","Dinesh Karthik","Wicket Keeper",5.5e+07,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","Dinesh Salunkhe","All-Rounder",1e+06,"Rajasthan Royals",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","Dirk Nannes","Bowler",4.5e+07,"Chennai Super Kings",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","Dishant Yagnik","Wicket Keeper",3e+06,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","Dominic Drakes","All-Rounder",1.1e+07,"Gujarat Titans",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","Domnic Joseph Muthuswamy","Bowler",7500000,"Delhi Daredevils",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250","Dushmanta Chameera","Bowler",2e+07,"Lucknow Super Giants",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","Dushmantha Chameera","Bowler",5e+06,"Rajasthan Royals",2018,"Overseas","RFM","Pacer",13,271,"45.1",359,10,"7.95","27.10"
+"252","Dwaine Pretorius","All-Rounder",5e+06,"Chennai Super Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","Dwayne Bravo","All-Rounder",6.4e+07,"Chennai Super Kings",2018,"Overseas","RFM","Pacer",101,2101,"350.1",2876,123,"8.21","17.08"
+"254","Dwayne Bravo","All-Rounder",4.4e+07,"Chennai Super Kings",2022,"Overseas","RFM","Pacer",101,2101,"350.1",2876,123,"8.21","17.08"
+"255","Dwayne Smith","Batsman",4.5e+07,"Chennai Super Kings",2014,"Overseas","RFM","Pacer",18,216,"36.0",335,15,"9.31","14.40"
+"256","Dwayne Smith","All-Rounder",2.3e+07,"Gujarat Lions",2016,"Overseas","RFM","Pacer",18,216,"36.0",335,15,"9.31","14.40"
+"257","Eklavya Dwivedi","Wicket Keeper",1e+06,"Chennai Super Kings",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","Eklavya Dwivedi","Wicket Keeper",1e+07,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259","Eklavya Dwivedi","Wicket Keeper",7500000,"Sunrisers Hyderabad",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","Eoin Morgan","Batsman",1.5e+07,"Sunrisers Hyderabad",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","Eoin Morgan","Batsman",2e+07,"Kings XI Punjab",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","Eoin Morgan","Batsman",52500000,"Kolkata Knight Riders",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263","Evin Lewis","Batsman",3.8e+07,"Mumbai Indians",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264","Evin Lewis","Batsman",2e+07,"Lucknow Super Giants",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","Fabian Allen","All-Rounder",5e+06,"Sunrisers Hyderabad",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266","Fabian Allen","All-Rounder",7500000,"Punjab Kings",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","Fabian Allen","All-Rounder",7500000,"Mumbai Indians",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","Faf Du Plessis","Batsman",47500000,"Chennai Super Kings",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","Faf Du Plessis","Batsman",1.6e+07,"Chennai Super Kings",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","Faf Du Plessis","Batsman",7e+07,"Royal Challengers Bangalore",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","Farhaan Behardien","All-Rounder",3e+06,"Kings XI Punjab",2016,"Overseas",NA,NA,7,90,"15.0",131,5,"8.73","18.00"
+"272","Fazalhaq Farooqi","Bowler",5e+06,"Sunrisers Hyderabad",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273","Fidel Edwards","Bowler",15750000,"Rajasthan Royals",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Finn Allen","Batsman",8e+06,"Royal Challengers Bangalore",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","Gautam Gambhir","Batsman",2.8e+07,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","George Bailey","Batsman",32500000,"Kings XI Punjab",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","Glenn Maxwell","All-Rounder",7.5e+07,"Mumbai Indians",2013,"Overseas","OS","Spinner",75,972,"162.0",1327,39,"8.19","24.92"
+"278","Glenn Maxwell","All-Rounder",6e+07,"Kings XI Punjab",2014,"Overseas","OS","Spinner",75,972,"162.0",1327,39,"8.19","24.92"
+"279","Glenn Maxwell","All-Rounder",9e+07,"Delhi Daredevils",2018,"Overseas","OS","Spinner",75,972,"162.0",1327,39,"8.19","24.92"
+"280","Glenn Maxwell","All-Rounder",107500000,"Kings XI Punjab",2020,"Overseas","OS","Spinner",75,972,"162.0",1327,39,"8.19","24.92"
+"281","Glenn Maxwell","All-Rounder",142500000,"Royal Challengers Bangalore",2021,"Overseas","OS","Spinner",75,972,"162.0",1327,39,"8.19","24.92"
+"282","Glenn Phillips","Wicket Keeper",1.5e+07,"Sunrisers Hyderabad",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","Gurinder Sandhu","Bowler",1.7e+07,"Delhi Daredevils",2015,"Indian","RFM","Pacer",22,480,"80.0",614,21,"7.67","22.86"
+"284","Gurkeerat Singh Mann","All-Rounder",5e+06,"Gujarat Titans",2022,"Indian","OS","Spinner",6,78,"13.0",97,5,"7.46","15.60"
+"285","Gurkeerat Singh Mann","All-Rounder",7500000,"Delhi Daredevils",2018,"Indian","OS","Spinner",6,78,"13.0",97,5,"7.46","15.60"
+"286","Gurkeerat Singh Mann","All-Rounder",5e+06,"Royal Challengers Bangalore",2019,"Indian","OS","Spinner",6,78,"13.0",97,5,"7.46","15.60"
+"287","Gurkeerat Singh Mann","Batsman",1.3e+07,"Kings XI Punjab",2014,"Indian","OS","Spinner",6,78,"13.0",97,5,"7.46","15.60"
+"288","Hanuma Vihari","Batsman",1e+06,"Sunrisers Hyderabad",2015,"Indian","OS","Spinner",5,36,"6.0",38,1,"6.33","36.00"
+"289","Hanuma Vihari","Batsman",2e+07,"Delhi Capitals",2019,"Indian","OS","Spinner",5,36,"6.0",38,1,"6.33","36.00"
+"290","Harbhajan Singh","Bowler",2e+07,"Chennai Super Kings",2018,"Indian","OS","Spinner",65,1458,"243.0",1710,68,"7.04","21.44"
+"291","Harbhajan Singh","Bowler",2e+07,"Kolkata Knight Riders",2021,"Indian","OS","Spinner",65,1458,"243.0",1710,68,"7.04","21.44"
+"292","Hardik Pandya","All-Rounder",1e+06,"Mumbai Indians",2015,"Indian","RFM","Pacer",34,469,"78.1",689,19,"8.81","24.68"
+"293","Hardus Viljoen","Bowler",7500000,"Kings XI Punjab",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","Harpreet Brar","All-Rounder",2e+06,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"295","Harpreet Brar","All-Rounder",3.8e+07,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Harry Gurney","Bowler",7500000,"Kolkata Knight Riders",2019,"Overseas","LFM","Pacer",35,787,"131.1",1050,41,"8.01","19.20"
+"297","Harshal Patel","Bowler",4e+06,"Royal Challengers Bangalore",2014,"Indian","RFM","Pacer",22,413,"68.5",588,22,"8.54","18.77"
+"298","Harshal Patel","All-Rounder",2e+06,"Delhi Daredevils",2018,"Indian","RFM","Pacer",22,413,"68.5",588,22,"8.54","18.77"
+"299","Harshal Patel","All-Rounder",107500000,"Royal Challengers Bangalore",2022,"Indian","RFM","Pacer",22,413,"68.5",588,22,"8.54","18.77"
+"300","Heinrich Klaasen","Wicket Keeper",5e+06,"Royal Challengers Bangalore",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","Himmat Singh","Batsman",6500000,"Royal Challengers Bangalore",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","Hrithik Shokeen","All-Rounder",2e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","HS Sharath","Bowler",1e+06,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Imran Tahir","Bowler",1e+07,"Chennai Super Kings",2018,"Overseas","LS","Spinner",53,1184,"197.2",1444,78,"7.32","15.18"
+"305","Iqbal Abdullah","All-Rounder",6500000,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306","Iqbal Abdullah","All-Rounder",1e+06,"Royal Challengers Bangalore",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","Irfan Pathan","All-Rounder",2.4e+07,"Sunrisers Hyderabad",2014,"Indian","LFM","Pacer",28,498,"83.0",648,14,"7.81","35.57"
+"308","Irfan Pathan","All-Rounder",1.5e+07,"Chennai Super Kings",2015,"Indian","LFM","Pacer",28,498,"83.0",648,14,"7.81","35.57"
+"309","Irfan Pathan","All-Rounder",1e+07,"Rising Pune Supergiant",2016,"Indian","LFM","Pacer",28,498,"83.0",648,14,"7.81","35.57"
+"310","Ishan Kishan","Wicket Keeper",3500000,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","Ishan Kishan","Wicket Keeper",6.2e+07,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","Ishan Kishan","Wicket Keeper",152500000,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","Ishan Porel","Bowler",2500000,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314","Ishan Porel","Bowler",2e+06,"Kings XI Punjab",NA,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","Ishank Jaggi","Batsman",1e+06,"Kolkata Knight Riders",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","Ishank Jaggi","Batsman",2e+06,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","Ishant Sharma","Bowler",2.6e+07,"Sunrisers Hyderabad",2014,"Indian","RFM","Pacer",28,622,"103.4",926,22,"8.93","28.27"
+"318","Ishant Sharma","Bowler",3.8e+07,"Rising Pune Supergiant",2016,"Indian","RFM","Pacer",28,622,"103.4",926,22,"8.93","28.27"
+"319","Ishant Sharma","Bowler",1.1e+07,"Delhi Capitals",2019,"Indian","RFM","Pacer",28,622,"103.4",926,22,"8.93","28.27"
+"320","Ishwar Chandra Pandey","Bowler",1.5e+07,"Chennai Super Kings",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","Ishwar Chandra Pandey","Bowler",2e+06,"Rising Pune Supergiant",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","Isuru Udana","All-Rounder",5e+06,"Royal Challengers Bangalore",2020,"Overseas","LFM","Pacer",1,18,"3.0",34,0,"11.33",NA
+"323","J Suchith","Bowler",3e+06,"Sunrisers Hyderabad",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324","J Suchith","All-Rounder",1e+06,"Mumbai Indians",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325","Jacob Oram","All-Rounder",3750000,"Mumbai Indians",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326","Jacques Kallis","All-Rounder",5.5e+07,"Kolkata Knight Riders",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","Jagadeesha Suchith","Bowler",2e+06,"Sunrisers Hyderabad",2022,"Indian","SLA","Spinner",13,246,"41.0",368,10,"8.98","24.60"
+"328","Jalaj Saxena","All-Rounder",9e+06,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Jalaj Saxena","All-Rounder",1e+06,"Royal Challengers Bangalore",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","Jalaj Saxena","All-Rounder",2e+06,"Delhi Capitals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","Jalaj Saxena","All-Rounder",3e+06,"Punjab Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","James Faulkner","All-Rounder",3e+07,"Rajasthan Royals",2013,"Overseas","LFM","Pacer",99,2045,"340.5",2719,122,"7.98","16.76"
+"333","James Neesham","All-Rounder",1e+07,"Delhi Daredevils",2014,"Overseas","RFM","Pacer",26,468,"78.0",677,27,"8.68","17.33"
+"334","James Neesham","All-Rounder",5e+06,"Kolkata Knight Riders",2015,"Overseas","RFM","Pacer",26,468,"78.0",677,27,"8.68","17.33"
+"335","James Neesham","All-Rounder",5e+06,"Kings XI Punjab",2020,"Overseas","RFM","Pacer",26,468,"78.0",677,27,"8.68","17.33"
+"336","James Neesham","All-Rounder",5e+06,"Mumbai Indians",2021,"Overseas","RFM","Pacer",26,468,"78.0",677,27,"8.68","17.33"
+"337","James Neesham","All-Rounder",1.5e+07,"Rajasthan Royals",2022,"Overseas","RFM","Pacer",26,468,"78.0",677,27,"8.68","17.33"
+"338","Jaskaran Singh","Bowler",1e+06,"Rising Pune Supergiant",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","Jason Behrendorff","Bowler",1.5e+07,"Mumbai Indians",2018,"Overseas","LFM","Pacer",30,696,"116.0",778,42,"6.71","16.57"
+"340","Jason Behrendorff","Bowler",7500000,"Royal Challengers Bangalore",2022,"Overseas","LFM","Pacer",30,696,"116.0",778,42,"6.71","16.57"
+"341","Jason Holder","Bowler",1500000,"Chennai Super Kings",2013,"Overseas","RFM","Pacer",16,318,"53.0",465,12,"8.77","26.50"
+"342","Jason Holder","Bowler",7500000,"Sunrisers Hyderabad",2014,"Overseas","RFM","Pacer",16,318,"53.0",465,12,"8.77","26.50"
+"343","Jason Holder","All-Rounder",7e+06,"Kolkata Knight Riders",2016,"Overseas","RFM","Pacer",16,318,"53.0",465,12,"8.77","26.50"
+"344","Jason Holder","All-Rounder",87500000,"Lucknow Super Giants",2022,"Overseas","RFM","Pacer",16,318,"53.0",465,12,"8.77","26.50"
+"345","Jason Roy","Batsman",1e+07,"Gujarat Lions",2017,"Overseas",NA,NA,1,6,"1.0",16,0,"16.00",NA
+"346","Jason Roy","Batsman",1.5e+07,"Delhi Daredevils",2018,"Overseas",NA,NA,1,6,"1.0",16,0,"16.00",NA
+"347","Jason Roy","Batsman",1.5e+07,"Delhi Capitals",2020,"Overseas",NA,NA,1,6,"1.0",16,0,"16.00",NA
+"348","Jason Roy","Batsman",2e+07,"Gujarat Titans",2022,"Overseas",NA,NA,1,6,"1.0",16,0,"16.00",NA
+"349","Jasprit Bumrah","Bowler",1.2e+07,"Mumbai Indians",2014,"Indian","RFM","Pacer",52,1159,"193.1",1488,54,"7.70","21.46"
+"350","Jatin Saxena","All-Rounder",2e+06,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351","Javon Searless","All-Rounder",3e+06,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"352","Jayant Yadav","All-Rounder",1e+06,"Delhi Daredevils",2014,"Indian","OS","Spinner",8,144,"24.0",154,4,"6.42","36.00"
+"353","Jayant Yadav","All-Rounder",5e+06,"Delhi Daredevils",2018,"Indian","OS","Spinner",8,144,"24.0",154,4,"6.42","36.00"
+"354","Jayant Yadav","All-Rounder",1.7e+07,"Gujarat Titans",2022,"Indian","OS","Spinner",8,144,"24.0",154,4,"6.42","36.00"
+"355","Jaydev Shah","All-Rounder",2e+06,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","Jaydev Unadkat","Bowler",39375000,"Royal Challengers Bangalore",2013,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"357","Jaydev Unadkat","Bowler",2.8e+07,"Delhi Daredevils",2014,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"358","Jaydev Unadkat","Bowler",1.1e+07,"Delhi Daredevils",2015,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"359","Jaydev Unadkat","Bowler",1.6e+07,"Kolkata Knight Riders",2016,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"360","Jaydev Unadkat","Bowler",3e+06,"Rising Pune Supergiant",2017,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"361","Jaydev Unadkat","Bowler",1.15e+08,"Rajasthan Royals",2018,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"362","Jaydev Unadkat","Bowler",8.4e+07,"Rajasthan Royals",2019,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"363","Jaydev Unadkat","Bowler",3e+07,"Rajasthan Royals",2020,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"364","Jaydev Unadkat","Bowler",1.3e+07,"Mumbai Indians",2022,"Indian","LFM","Pacer",25,541,"90.1",762,22,"8.45","24.59"
+"365","Jean-Paul Duminy","Batsman",2.2e+07,"Delhi Daredevils",2014,"Overseas","OS","Spinner",45,589,"98.1",747,23,"7.61","25.61"
+"366","Jean-Paul Duminy","All-Rounder",1e+07,"Mumbai Indians",2018,"Overseas","OS","Spinner",45,589,"98.1",747,23,"7.61","25.61"
+"367","Jeevan Mendis","All-Rounder",3750000,"Delhi Daredevils",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","Jesse Ryder","All-Rounder",19500000,"Delhi Daredevils",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369","Jhye Richardson","Bowler",1.4e+08,"Punjab Kings",2021,"Overseas","RFM","Pacer",2,42,"7.0",68,2,"9.71","21.00"
+"370","Jitesh Sharma","Wicket Keeper",1e+06,"Mumbai Indians",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","Jitesh Sharma","Wicket Keeper",2e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","Joe Denly","Batsman",1e+07,"Kolkata Knight Riders",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","Joel Paris","Bowler",3e+06,"Delhi Daredevils",2016,"Overseas","LFM","Pacer",7,151,"25.1",209,5,"8.30","30.20"
+"374","Jofra Archer","All-Rounder",7.2e+07,"Rajasthan Royals",2018,"Overseas","RFM","Pacer",4,90,"15.0",139,5,"9.27","18.00"
+"375","Jofra Archer","All-Rounder",8e+07,"Mumbai Indians",2022,"Overseas","RFM","Pacer",4,90,"15.0",139,5,"9.27","18.00"
+"376","Johan Botha","All-Rounder",33750000,"Delhi Daredevils",2013,"Overseas","OS","Spinner",35,676,"112.4",813,22,"7.22","30.73"
+"377","John Hastings","All-Rounder",5e+06,"Chennai Super Kings",2014,"Overseas","RFM","Pacer",53,1145,"190.5",1428,73,"7.48","15.68"
+"378","John Hastings","Bowler",1.3e+07,"Kolkata Knight Riders",2016,"Overseas","RFM","Pacer",53,1145,"190.5",1428,73,"7.48","15.68"
+"379","Jonny Bairstow","Wicket Keeper",2.2e+07,"Sunrisers Hyderabad",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","Jonny Bairstow","Wicket Keeper",67500000,"Punjab Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"381","Jos Buttler","Wicket Keeper",3.8e+07,"Mumbai Indians",2016,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","Jos Buttler","Wicket Keeper",4.4e+07,"Rajasthan Royals",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","Josh Hazlewood","Bowler",5e+06,"Mumbai Indians",2014,"Overseas","RFM","Pacer",17,402,"67.0",577,25,"8.61","16.08"
+"384","Josh Hazlewood","Bowler",2e+07,"Chennai Super Kings",2020,"Overseas","RFM","Pacer",17,402,"67.0",577,25,"8.61","16.08"
+"385","Josh Hazlewood","Bowler",77500000,"Royal Challengers Bangalore",2022,"Overseas","RFM","Pacer",17,402,"67.0",577,25,"8.61","16.08"
+"386","Joshua Philippe","Wicket Keeper",2e+06,"Royal Challengers Bangalore",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","Juan Theron","Bowler",3e+06,"Rajasthan Royals",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","Krishnappa Gowtham","All-Rounder",9e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","K.Bhagath Varma","All-Rounder",2e+06,"Chennai Super Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","K.Bhagath Varma","All-Rounder",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","K.C Cariappa","Bowler",2e+06,"Rajasthan Royals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","K.C Cariappa","Bowler",3e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","K.C. Cariappa","Bowler",2.4e+07,"Kolkata Knight Riders",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","K.C. Cariappa","Bowler",8e+06,"Kings XI Punjab",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","K.K. Jiyaz","Bowler",1e+06,"Delhi Daredevils",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","K.M. Asif","Bowler",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","K.S. Bharat","Wicket Keeper",2e+07,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","Kagiso Rabada","Bowler",5e+07,"Delhi Daredevils",2017,"Overseas","RFM","Pacer",22,506,"84.2",660,28,"7.83","18.07"
+"399","Kagiso Rabada","Bowler",4.2e+07,"Delhi Daredevils",2018,"Overseas","RFM","Pacer",22,506,"84.2",660,28,"7.83","18.07"
+"400","Kagiso Rabada","Bowler",92500000,"Punjab Kings",2022,"Overseas","RFM","Pacer",22,506,"84.2",660,28,"7.83","18.07"
+"401","Kamlesh Nagarkoti","All-Rounder",3.2e+07,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","Kamlesh Nagarkoti","All-Rounder",1.1e+07,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","Kane Richardson","Bowler",52500000,"Pune Warriors India",2013,"Overseas","RFM","Pacer",41,861,"143.3",1205,44,"8.40","19.57"
+"404","Kane Richardson","Bowler",1e+07,"Rajasthan Royals",2014,"Overseas","RFM","Pacer",41,861,"143.3",1205,44,"8.40","19.57"
+"405","Kane Richardson","Bowler",2e+07,"Royal Challengers Bangalore",2016,"Overseas","RFM","Pacer",41,861,"143.3",1205,44,"8.40","19.57"
+"406","Kane Richardson","Bowler",4e+07,"Royal Challengers Bangalore",2020,"Overseas","RFM","Pacer",41,861,"143.3",1205,44,"8.40","19.57"
+"407","Kane Williamson","All-Rounder",6e+06,"Sunrisers Hyderabad",2015,"Overseas","OS","Spinner",10,102,"17.0",122,5,"7.18","20.40"
+"408","Kane Williamson","Batsman",3e+07,"Sunrisers Hyderabad",2018,"Overseas","OS","Spinner",10,102,"17.0",122,5,"7.18","20.40"
+"409","Kanishk Seth","All-Rounder",2e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","Karan Sharma","All-Rounder",2e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","Karanveer Singh","All-Rounder",1e+06,"Kings XI Punjab",2014,"Indian",NA,NA,9,204,"34.0",321,12,"9.44","17.00"
+"412","Karn Sharma","Bowler",37500000,"Sunrisers Hyderabad",2014,"Indian","LS","Spinner",47,874,"145.4",1137,37,"7.81","23.62"
+"413","Karn Sharma","All-Rounder",3.2e+07,"Mumbai Indians",2017,"Indian","LS","Spinner",47,874,"145.4",1137,37,"7.81","23.62"
+"414","Karn Sharma","Bowler",5e+07,"Chennai Super Kings",2018,"Indian","LS","Spinner",47,874,"145.4",1137,37,"7.81","23.62"
+"415","Karn Sharma","Bowler",5e+06,"Royal Challengers Bangalore",2022,"Indian","LS","Spinner",47,874,"145.4",1137,37,"7.81","23.62"
+"416","Kartik Tyagi","Bowler",1.3e+07,"Rajasthan Royals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","Kartik Tyagi","Bowler",4e+07,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Karun Nair","Batsman",7500000,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","Karun Nair","Batsman",4e+07,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","Karun Nair","Batsman",5.6e+07,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","Karun Nair","Batsman",5e+06,"Kolkata Knight Riders",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","Karun Nair","Batsman",1.4e+07,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","Kedar Jadhav","Batsman",2e+07,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","Kedar Jadhav","All-Rounder",7.8e+07,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","Kedar Jadhav","All-Rounder",2e+07,"Sunrisers Hyderabad",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","Keemo Paul","All-Rounder",5e+06,"Delhi Capitals",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","Kevin Pietersen","Batsman",9e+07,"Delhi Daredevils",2014,"Overseas",NA,NA,2,12,"2.0",20,0,"10.00",NA
+"428","Kevin Pietersen","Batsman",2e+07,"Sunrisers Hyderabad",2015,"Overseas",NA,NA,2,12,"2.0",20,0,"10.00",NA
+"429","Kevin Pietersen","Batsman",3.5e+07,"Rising Pune Supergiant",2016,"Overseas",NA,NA,2,12,"2.0",20,0,"10.00",NA
+"430","Kevon Cooper","All-Rounder",3e+06,"Rajasthan Royals",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","Kieron Pollard","All-Rounder",5.4e+07,"Mumbai Indians",2018,"Overseas","RFM","Pacer",57,694,"115.4",1086,29,"9.39","23.93"
+"432","Kishore Pramod Kamath","All-Rounder",1.4e+07,"Mumbai Indians",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","KL Rahul","Batsman",1e+07,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","KL Rahul","Batsman",1.1e+08,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","Kona Srikar Bharat","Wicket Keeper",1e+06,"Delhi Daredevils",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","Kona Srikar Bharat","Wicket Keeper",2e+06,"Royal Challengers Bangalore",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","Krishnappa Gowtham","All-Rounder",2e+07,"Mumbai Indians",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","Krishnappa Gowtham","Bowler",6.2e+07,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","Krishnappa Gowtham","All-Rounder",92500000,"Chennai Super Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","Krismar Santokie","Bowler",3e+06,"Mumbai Indians",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","Krunal Pandya","All-Rounder",2e+07,"Mumbai Indians",2016,"Indian","SLA","Spinner",11,187,"31.1",236,6,"7.57","31.17"
+"442","Krunal Pandya","All-Rounder",8.8e+07,"Mumbai Indians",2018,"Indian","SLA","Spinner",11,187,"31.1",236,6,"7.57","31.17"
+"443","Krunal Pandya","All-Rounder",82500000,"Lucknow Super Giants",2022,"Indian","SLA","Spinner",11,187,"31.1",236,6,"7.57","31.17"
+"444","Kshitiz Sharma","All-Rounder",2e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","Kuldeep Sen","Bowler",2e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","Kuldeep Yadav","Bowler",4e+06,"Kolkata Knight Riders",2014,"Indian","LAW","Spinner",3,72,"12.0",100,6,"8.33","12.00"
+"447","Kuldeep Yadav","Bowler",5.8e+07,"Kolkata Knight Riders",2018,"Indian","LAW","Spinner",3,72,"12.0",100,6,"8.33","12.00"
+"448","Kuldeep Yadav","Bowler",2e+07,"Delhi Capitals",2022,"Indian","LAW","Spinner",3,72,"12.0",100,6,"8.33","12.00"
+"449","Kuldip Yadav","Bowler",2e+06,"Rajasthan Royals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","Kuldip Yadav","Bowler",2e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","Kulwant Khejroliya","Bowler",1e+06,"Mumbai Indians",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","Kulwant Khejroliya","Bowler",8500000,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","Kusal Janith Perera","Wicket Keeper",1500000,"Rajasthan Royals",2013,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","Kyle Abbott","Bowler",3e+06,"Chennai Super Kings",2015,"Overseas","RFM","Pacer",46,981,"163.3",1425,43,"8.72","22.81"
+"455","Kyle Abbott","Bowler",2.1e+07,"Kings XI Punjab",2016,"Overseas","RFM","Pacer",46,981,"163.3",1425,43,"8.72","22.81"
+"456","Kyle Jamieson","All-Rounder",1.5e+08,"Royal Challengers Bangalore",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","Kyle Mayers","All-Rounder",5e+06,"Lucknow Super Giants",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","Lakshmipathy Balaji","Bowler",1.8e+07,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","Lalit Yadav","All-Rounder",2e+06,"Delhi Capitals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","Lalit Yadav","All-Rounder",6500000,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","Lasith Malinga","Bowler",2e+07,"Mumbai Indians",2019,"Overseas","RFM","Pacer",71,1628,"271.2",1873,95,"6.90","17.14"
+"462","Laxmi Ratan Shukla","All-Rounder",1.5e+07,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","Laxmi Ratan Shukla","All-Rounder",3e+06,"Sunrisers Hyderabad",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","Liam Livingstone","All-Rounder",5e+06,"Rajasthan Royals",2019,"Overseas","LS","Spinner",1,12,"2.0",9,1,"4.50","12.00"
+"465","Liam Livingstone","All-Rounder",7500000,"Rajasthan Royals",2021,"Overseas","LS","Spinner",1,12,"2.0",9,1,"4.50","12.00"
+"466","Liam Livingstone","All-Rounder",1.15e+08,"Punjab Kings",2022,"Overseas","LS","Spinner",1,12,"2.0",9,1,"4.50","12.00"
+"467","Lockie Ferguson","Bowler",5e+06,"Rising Pune Supergiant",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","Lockie Ferguson","Bowler",1.6e+07,"Kolkata Knight Riders",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","Lockie Ferguson","Bowler",1e+08,"Gujarat Titans",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","Luke Pomersbach","Batsman",22500000,"Kings XI Punjab",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","Lukman Hussain Meriwala","Bowler",2e+06,"Delhi Capitals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","Lungisani Ngidi","Bowler",5e+06,"Chennai Super Kings",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","Lungisani Ngidi","Bowler",5e+06,"Delhi Capitals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","Luvnith Sisodia","Wicket Keeper",2e+06,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","M Siddharth","Bowler",2e+06,"Kolkata Knight Riders",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","M Siddharth","Bowler",2e+06,"Delhi Capitals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","M. Ashwin","Bowler",4.5e+07,"Rising Pune Supergiant",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","M. Ashwin","Bowler",1e+07,"Delhi Daredevils",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","M. Ashwin","Bowler",2.2e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","M. Ashwin","Bowler",2e+06,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","M. Harisankar Reddy","Bowler",2e+06,"Chennai Super Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","Washington Sundar","All-Rounder",3.2e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","Maheesh Theekshana","Bowler",7e+06,"Chennai Super Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","Mahipal Lomror","All-Rounder",1e+06,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","Mahipal Lomror","All-Rounder",2e+06,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","Mahipal Lomror","All-Rounder",9500000,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","Manan Ajay Sharma","All-Rounder",1e+06,"Kolkata Knight Riders",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","Manan Vohra","Batsman",1.1e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","Manan Vohra","Batsman",2e+06,"Rajasthan Royals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","Manan Vohra","Batsman",2e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","Mandeep Hardev Singh","All-Rounder",8e+06,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","Mandeep Singh","All-Rounder",1.4e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","Mandeep Singh","Batsman",1.1e+07,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","Manish Pandey","Batsman",1.7e+07,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","Manish Pandey","Batsman",1.1e+08,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","Manish Pandey","Batsman",4.6e+07,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","Manjot Kalra","Batsman",2e+06,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","Manoj Tiwary","Batsman",2.8e+07,"Delhi Daredevils",2014,"Indian","OS","Spinner",1,12,"2.0",28,0,"14.00",NA
+"499","Manoj Tiwary","Batsman",5e+06,"Rising Pune Supergiant",2017,"Indian","OS","Spinner",1,12,"2.0",28,0,"14.00",NA
+"500","Manoj Tiwary","Batsman",1e+07,"Kings XI Punjab",2018,"Indian","OS","Spinner",1,12,"2.0",28,0,"14.00",NA
+"501","Manpreet Gony","Bowler",37500000,"Kings XI Punjab",2013,"Indian","RFM","Pacer",8,168,"28.0",256,7,"9.14","24.00"
+"502","Manpreet Gony","Bowler",6e+06,"Gujarat Lions",2017,"Indian","RFM","Pacer",8,168,"28.0",256,7,"9.14","24.00"
+"503","Manprit Juneja","Batsman",1e+06,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","Manvinder Bisla","Wicket Keeper",6e+06,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","Manzoor Dar","All-Rounder",2e+06,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","Marchant De Lange","Bowler",3e+06,"Mumbai Indians",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","Marco Jansen","All-Rounder",2e+06,"Mumbai Indians",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","Marco Jansen","All-Rounder",4.2e+07,"Sunrisers Hyderabad",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","Marcus Stoinis","All-Rounder",2500000,"Delhi Daredevils",2015,"Overseas","RFM","Pacer",18,258,"43.0",356,18,"8.28","14.33"
+"510","Marcus Stoinis","All-Rounder",5500000,"Kings XI Punjab",2016,"Overseas","RFM","Pacer",18,258,"43.0",356,18,"8.28","14.33"
+"511","Marcus Stoinis","All-Rounder",6.2e+07,"Kings XI Punjab",2018,"Overseas","RFM","Pacer",18,258,"43.0",356,18,"8.28","14.33"
+"512","Marcus Stoinis","All-Rounder",4.8e+07,"Delhi Capitals",2020,"Overseas","RFM","Pacer",18,258,"43.0",356,18,"8.28","14.33"
+"513","Mark Wood","Bowler",1.5e+07,"Chennai Super Kings",2018,"Overseas","RFM","Pacer",9,186,"31.0",210,14,"6.77","13.29"
+"514","Mark Wood","Bowler",7.5e+07,"Lucknow Super Giants",2022,"Overseas","RFM","Pacer",9,186,"31.0",210,14,"6.77","13.29"
+"515","Martin Guptill","Batsman",5e+06,"Kings XI Punjab",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","Martin Guptill","Batsman",1e+07,"Sunrisers Hyderabad",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","Matt Henry","Bowler",3e+06,"Chennai Super Kings",2014,"Overseas","RFM","Pacer",16,327,"54.3",499,14,"9.16","23.36"
+"518","Matt Henry","Bowler",5e+06,"Kings XI Punjab",2017,"Overseas","RFM","Pacer",16,327,"54.3",499,14,"9.16","23.36"
+"519","Matthew Wade","Wicket Keeper",2.4e+07,"Gujarat Titans",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"520","Mayank Agarwal","Batsman",1.6e+07,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","Mayank Agarwal","Batsman",1e+07,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","Mayank Dagar","All-Rounder",2e+06,"Kings XI Punjab",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","Mayank Markande","Bowler",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","Mayank Markande","Bowler",6500000,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","Mayank Yadav","Bowler",2e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","Michael Clarke","Batsman",3e+07,"Pune Warriors India",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","Michael Hussey","Batsman",5e+07,"Mumbai Indians",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","Michael Hussey","Batsman",1.5e+07,"Chennai Super Kings",2015,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","Midhun S","All-Rounder",2e+06,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","Milind Kumar","Batsman",1e+06,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","Milind Kumar","All-Rounder",2e+06,"Royal Challengers Bangalore",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","Milind Tandon","All-Rounder",1e+06,"Rising Pune Supergiant",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Mitchell Johnson","All-Rounder",6.5e+07,"Kings XI Punjab",2014,"Overseas","LFM","Pacer",47,1085,"180.5",1488,59,"8.23","18.39"
+"534","Mitchell Johnson","Bowler",2e+07,"Mumbai Indians",2017,"Overseas","LFM","Pacer",47,1085,"180.5",1488,59,"8.23","18.39"
+"535","Mitchell Johnson","Bowler",2e+07,"Kolkata Knight Riders",2018,"Overseas","LFM","Pacer",47,1085,"180.5",1488,59,"8.23","18.39"
+"536","Mitchell Marsh","All-Rounder",4.8e+07,"Rising Pune Supergiant",2016,"Overseas","RFM","Pacer",25,392,"65.2",556,20,"8.51","19.60"
+"537","Mitchell Marsh","All-Rounder",2e+07,"Sunrisers Hyderabad",2020,"Overseas","RFM","Pacer",25,392,"65.2",556,20,"8.51","19.60"
+"538","Mitchell Marsh","All-Rounder",6.5e+07,"Delhi Capitals",2022,"Overseas","RFM","Pacer",25,392,"65.2",556,20,"8.51","19.60"
+"539","Mitchell McClenaghan","Bowler",3e+06,"Mumbai Indians",2015,"Overseas","LFM","Pacer",60,1330,"221.4",1798,78,"8.11","17.05"
+"540","Mitchell Santner","All-Rounder",5e+06,"Chennai Super Kings",2018,"Overseas","SLA","Spinner",11,229,"38.1",245,19,"6.42","12.05"
+"541","Mitchell Santner","All-Rounder",1.9e+07,"Chennai Super Kings",2022,"Overseas","SLA","Spinner",11,229,"38.1",245,19,"6.42","12.05"
+"542","Mitchell Starc","Bowler",5e+07,"Royal Challengers Bangalore",2014,"Overseas","LFM","Pacer",43,966,"161.0",1161,55,"7.21","17.56"
+"543","Mitchell Starc","Bowler",9.4e+07,"Kolkata Knight Riders",2018,"Overseas","LFM","Pacer",43,966,"161.0",1161,55,"7.21","17.56"
+"544","Mithun Manhas","All-Rounder",3e+06,"Chennai Super Kings",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","Moeen Ali","All-Rounder",1.7e+07,"Royal Challengers Bangalore",2018,"Overseas","OS","Spinner",29,528,"88.0",683,23,"7.76","22.96"
+"546","Moeen Ali","All-Rounder",7e+07,"Chennai Super Kings",2021,"Overseas","OS","Spinner",29,528,"88.0",683,23,"7.76","22.96"
+"547","Mohammad Nabi","All-Rounder",3e+06,"Sunrisers Hyderabad",2017,"Overseas","OS","Spinner",35,774,"129.0",865,38,"6.71","20.37"
+"548","Mohammad Nabi","All-Rounder",1e+07,"Sunrisers Hyderabad",2018,"Overseas","OS","Spinner",35,774,"129.0",865,38,"6.71","20.37"
+"549","Mohammad Nabi","All-Rounder",1e+07,"Kolkata Knight Riders",2022,"Overseas","OS","Spinner",35,774,"129.0",865,38,"6.71","20.37"
+"550","Mohammad Shami","Bowler",42500000,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","Mohammad Shami","Bowler",3e+07,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","Mohammad Shami","Bowler",4.8e+07,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","Mohammad Shami","Bowler",62500000,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","Mohammed Azharudeen","Wicket Keeper",2e+06,"Royal Challengers Bangalore",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","Mohammed Siraj","Bowler",2.6e+07,"Sunrisers Hyderabad",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","Mohammed Siraj","Bowler",2.6e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","Mohd. Arshad Khan","All-Rounder",2e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","Mohit Sharma","Bowler",2e+07,"Chennai Super Kings",2014,"Indian","RFM","Pacer",69,1398,"233.0",1851,76,"7.94","18.39"
+"559","Mohit Sharma","Bowler",6.5e+07,"Kings XI Punjab",2016,"Indian","RFM","Pacer",69,1398,"233.0",1851,76,"7.94","18.39"
+"560","Mohit Sharma","Bowler",2.4e+07,"Kings XI Punjab",2018,"Indian","RFM","Pacer",69,1398,"233.0",1851,76,"7.94","18.39"
+"561","Mohit Sharma","Bowler",5e+07,"Chennai Super Kings",2019,"Indian","RFM","Pacer",69,1398,"233.0",1851,76,"7.94","18.39"
+"562","Mohit Sharma","Bowler",5e+06,"Delhi Capitals",2020,"Indian","RFM","Pacer",69,1398,"233.0",1851,76,"7.94","18.39"
+"563","Mohsin Khan","Bowler",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","Mohsin Khan","Bowler",2e+06,"Mumbai Indians",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565","Mohsin Khan","Bowler",2e+06,"Lucknow Super Giants",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","Moises Henriques","All-Rounder",22500000,"Royal Challengers Bangalore",2013,"Overseas","RFM","Pacer",63,1096,"182.4",1415,54,"7.75","20.30"
+"567","Moises Henriques","All-Rounder",1e+07,"Sunrisers Hyderabad",2014,"Overseas","RFM","Pacer",63,1096,"182.4",1415,54,"7.75","20.30"
+"568","Moises Henriques","All-Rounder",1e+07,"Kings XI Punjab",2019,"Overseas","RFM","Pacer",63,1096,"182.4",1415,54,"7.75","20.30"
+"569","Moises Henriques","All-Rounder",4.2e+07,"Punjab Kings",2021,"Overseas","RFM","Pacer",63,1096,"182.4",1415,54,"7.75","20.30"
+"570","Monu Singh","Bowler",2e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","Morne Morkel","Bowler",2.8e+07,"Kolkata Knight Riders",2014,"Overseas","RFM","Pacer",47,1072,"178.4",1465,45,"8.20","23.82"
+"572","Mujeeb Zadran","Bowler",4e+07,"Kings XI Punjab",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","Mujeeb Zadran","Bowler",1.5e+07,"Sunrisers Hyderabad",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","Mukesh Choudhary","Bowler",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","Munaf Patel","Bowler",3e+06,"Gujarat Lions",2017,"Indian","RFM","Pacer",4,90,"15.0",137,3,"9.13","30.00"
+"576","Murali Kartik","Bowler",1e+07,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","Murali Vijay","Batsman",5e+07,"Delhi Daredevils",2014,"Indian","OS","Spinner",5,48,"8.0",58,0,"7.25",NA
+"578","Murali Vijay","Batsman",3e+07,"Kings XI Punjab",2015,"Indian","OS","Spinner",5,48,"8.0",58,0,"7.25",NA
+"579","Murali Vijay","Batsman",2e+07,"Chennai Super Kings",2018,"Indian","OS","Spinner",5,48,"8.0",58,0,"7.25",NA
+"580","Murugan Ashwin","Bowler",1.6e+07,"Mumbai Indians",2022,"Indian","LS","Spinner",10,171,"28.3",241,7,"8.46","24.43"
+"581","Mustafizur Rahman","Bowler",1.4e+07,"Sunrisers Hyderabad",2016,"Overseas","LFM","Pacer",31,718,"119.4",782,43,"6.53","16.70"
+"582","Mustafizur Rahman","Bowler",2.2e+07,"Mumbai Indians",2018,"Overseas","LFM","Pacer",31,718,"119.4",782,43,"6.53","16.70"
+"583","Mustafizur Rahman","Bowler",1e+07,"Rajasthan Royals",2021,"Overseas","LFM","Pacer",31,718,"119.4",782,43,"6.53","16.70"
+"584","Mustafizur Rahman","Bowler",2e+07,"Delhi Capitals",2022,"Overseas","LFM","Pacer",31,718,"119.4",782,43,"6.53","16.70"
+"585","Muttiah Muralitharan","Bowler",1e+07,"Royal Challengers Bangalore",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","N Jagadeesan","Wicket Keeper",2e+06,"Chennai Super Kings",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","N. Jagadeesan","Wicket Keeper",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","N. Tilak Varma","All-Rounder",1.7e+07,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","Naman Ojha","Wicket Keeper",5e+06,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","Naman Ojha","Wicket Keeper",1.4e+07,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","Nathan Coulter-Nile","Bowler",33750000,"Mumbai Indians",2013,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"592","Nathan Coulter-Nile","Bowler",42500000,"Delhi Daredevils",2014,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"593","Nathan Coulter-Nile","Bowler",3.5e+07,"Kolkata Knight Riders",2017,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"594","Nathan Coulter-Nile","Bowler",2.2e+07,"Royal Challengers Bangalore",2018,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"595","Nathan Coulter-Nile","Bowler",8e+07,"Mumbai Indians",2020,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"596","Nathan Coulter-Nile","Bowler",5e+07,"Mumbai Indians",2021,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"597","Nathan Coulter-Nile","Bowler",2e+07,"Rajasthan Royals",2022,"Overseas","RFM","Pacer",45,1015,"169.1",1306,58,"7.72","17.50"
+"598","Nathan Ellis","Bowler",7500000,"Punjab Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","Nathan McCullum","Bowler",7500000,"Sunrisers Hyderabad",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","Nathu Singh","Bowler",3.2e+07,"Mumbai Indians",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","Nathu Singh","Bowler",5e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","Nathu Singh","Bowler",2e+06,"Delhi Capitals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","Navdeep Saini","Bowler",1e+06,"Delhi Daredevils",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","Navdeep Saini","Bowler",3e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","Navdeep Saini","Bowler",2.6e+07,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","Nic Maddinson","Batsman",5e+06,"Royal Challengers Bangalore",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"607","Nicolas Pooran","Wicket Keeper",107500000,"Sunrisers Hyderabad",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","Nicolas Pooran","Wicket Keeper",3e+06,"Mumbai Indians",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","Nicolas Pooran","Wicket Keeper",4.2e+07,"Kings XI Punjab",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","Nidheesh M D Dinesan","Bowler",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","Nikhil Shankar Naik","Wicket Keeper",3e+06,"Kings XI Punjab",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","Nikhil Shankar Naik","Wicket Keeper",2e+06,"Kolkata Knight Riders",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","Nikhil Shankar Naik","Wicket Keeper",2e+06,"Kolkata Knight Riders",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","Nitish Rana","All-Rounder",1e+06,"Mumbai Indians",2015,"Indian","OS","Spinner",1,6,"1.0",3,0,"3.00",NA
+"615","Nitish Rana","All-Rounder",3.4e+07,"Kolkata Knight Riders",2018,"Indian","OS","Spinner",1,6,"1.0",3,0,"3.00",NA
+"616","Nitish Rana","All-Rounder",8e+07,"Kolkata Knight Riders",2022,"Indian","OS","Spinner",1,6,"1.0",3,0,"3.00",NA
+"617","Noor Ahmad","Bowler",3e+06,"Gujarat Titans",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","Obed Mccoy","Bowler",7500000,"Rajasthan Royals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","Odean Smith","All-Rounder",6e+07,"Punjab Kings",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","Oshane Thomas","Bowler",1.1e+07,"Rajasthan Royals",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","Oshane Thomas","Bowler",5e+06,"Rajasthan Royals",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","Pankaj Jaswal","All-Rounder",2e+06,"Mumbai Indians",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","Pankaj Singh","Bowler",11250000,"Royal Challengers Bangalore",2013,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","Paras Dogra","Batsman",1e+06,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","Pardeep Sahu","All-Rounder",1e+06,"Rajasthan Royals",2015,"Indian","LS","Spinner",5,105,"17.3",146,3,"8.34","35.00"
+"626","Pardeep Sahu","All-Rounder",1e+06,"Kings XI Punjab",2016,"Indian","LS","Spinner",5,105,"17.3",146,3,"8.34","35.00"
+"627","Pardeep Sahu","Bowler",2e+06,"Kings XI Punjab",2018,"Indian","LS","Spinner",5,105,"17.3",146,3,"8.34","35.00"
+"628","Parthiv Patel","Wicket Keeper",1.4e+07,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","Parthiv Patel","Wicket Keeper",1.7e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","Parveez Rasool","All-Rounder",9500000,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","Parvinder Awana","Bowler",6500000,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","Pat Cummins","Bowler",5.4e+07,"Mumbai Indians",2018,"Overseas","RFM","Pacer",19,412,"68.4",561,17,"8.17","24.24"
+"633","Pat Cummins","All-Rounder",1.55e+08,"Kolkata Knight Riders",2020,"Overseas","RFM","Pacer",19,412,"68.4",561,17,"8.17","24.24"
+"634","Pat Cummins","All-Rounder",72500000,"Kolkata Knight Riders",2022,"Overseas","RFM","Pacer",19,412,"68.4",561,17,"8.17","24.24"
+"635","Pat Cummins","Bowler",1e+07,"Kolkata Knight Riders",2014,"Overseas","RFM","Pacer",19,412,"68.4",561,17,"8.17","24.24"
+"636","Pat Cummins","Bowler",4.5e+07,"Delhi Daredevils",2017,"Overseas","RFM","Pacer",19,412,"68.4",561,17,"8.17","24.24"
+"637","Pavan Deshpande","All-Rounder",2e+06,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","Pavan Deshpande","All-Rounder",2e+06,"Royal Challengers Bangalore",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","Pawan Negi","Bowler",1e+06,"Chennai Super Kings",2014,"Indian","SLA","Spinner",19,318,"53.0",455,8,"8.58","39.75"
+"640","Pawan Negi","All-Rounder",8.5e+07,"Delhi Daredevils",2016,"Indian","SLA","Spinner",19,318,"53.0",455,8,"8.58","39.75"
+"641","Pawan Negi","All-Rounder",1e+07,"Royal Challengers Bangalore",2017,"Indian","SLA","Spinner",19,318,"53.0",455,8,"8.58","39.75"
+"642","Pawan Negi","All-Rounder",1e+07,"Royal Challengers Bangalore",2018,"Indian","SLA","Spinner",19,318,"53.0",455,8,"8.58","39.75"
+"643","Pawan Negi","All-Rounder",5e+06,"Kolkata Knight Riders",2021,"Indian","SLA","Spinner",19,318,"53.0",455,8,"8.58","39.75"
+"644","Pawan Suyal","Bowler",1e+06,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","Pawan Suyal","Bowler",1e+06,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"646","Peter Handscomb","Wicket Keeper",3e+06,"Rising Pune Supergiant",2016,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","Philip Hughes","Batsman",7500000,"Mumbai Indians",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","Piyush Chawla","Bowler",42500000,"Kolkata Knight Riders",2014,"Indian","LS","Spinner",51,1009,"168.1",1263,47,"7.51","21.47"
+"649","Piyush Chawla","Bowler",4.2e+07,"Kolkata Knight Riders",2018,"Indian","LS","Spinner",51,1009,"168.1",1263,47,"7.51","21.47"
+"650","Piyush Chawla","Bowler",67500000,"Chennai Super Kings",2020,"Indian","LS","Spinner",51,1009,"168.1",1263,47,"7.51","21.47"
+"651","Piyush Chawla","Bowler",2.4e+07,"Mumbai Indians",2021,"Indian","LS","Spinner",51,1009,"168.1",1263,47,"7.51","21.47"
+"652","Prabhsimran Singh","Wicket Keeper",4.8e+07,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","Prabhsimran Singh","Wicket Keeper",5500000,"Kings XI Punjab",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","Prabhsimran Singh","Wicket Keeper",6e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","Pradeep Sangwan","All-Rounder",2e+06,"Gujarat Lions",2016,"Indian","LFM","Pacer",4,48,"8.0",100,0,"12.50",NA
+"656","Pradeep Sangwan","Bowler",1.5e+07,"Mumbai Indians",2018,"Indian","LFM","Pacer",4,48,"8.0",100,0,"12.50",NA
+"657","Pradeep Sangwan","All-Rounder",2e+06,"Gujarat Titans",2022,"Indian","LFM","Pacer",4,48,"8.0",100,0,"12.50",NA
+"658","Pragyan Ojha","Bowler",32500000,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","Pragyan Ojha","Bowler",5e+06,"Mumbai Indians",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","Prasanth Padmanabhan","All-Rounder",1e+06,"Sunrisers Hyderabad",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","Prasanth Parameswaran","Bowler",3e+06,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","Prashant Chopra","Wicket Keeper",2e+06,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"663","Prashant Solanki","Bowler",1.2e+07,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"664","Prasidh Krishna","Bowler",1e+08,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","Pratham Singh","All-Rounder",1e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","Pratham Singh","Batsman",2e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","Pratyush Singh","All-Rounder",1e+06,"Chennai Super Kings",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","Pratyush Singh","All-Rounder",1e+06,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","Praveen Dubey","All-Rounder",3500000,"Royal Challengers Bangalore",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","Praveen Dubey","All-Rounder",1e+06,"Royal Challengers Bangalore",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","Praveen Kumar","Bowler",2.2e+07,"Sunrisers Hyderabad",2015,"Indian","RFM","Pacer",46,935,"155.5",1181,31,"7.58","30.16"
+"672","Praveen Kumar","Bowler",3.5e+07,"Gujarat Lions",2016,"Indian","RFM","Pacer",46,935,"155.5",1181,31,"7.58","30.16"
+"673","Pravin Dubey","All-Rounder",5e+06,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","Pravin Tambe","Bowler",1e+06,"Rajasthan Royals",2014,"Indian","LS","Spinner",33,660,"110.0",853,28,"7.75","23.57"
+"675","Pravin Tambe","Bowler",2e+06,"Gujarat Lions",2016,"Indian","LS","Spinner",33,660,"110.0",853,28,"7.75","23.57"
+"676","Pravin Tambe","Bowler",1e+06,"Sunrisers Hyderabad",2017,"Indian","LS","Spinner",33,660,"110.0",853,28,"7.75","23.57"
+"677","Pravin Tambe","Bowler",2e+06,"Kolkata Knight Riders",2020,"Indian","LS","Spinner",33,660,"110.0",853,28,"7.75","23.57"
+"678","Prayas Ray Barman","All-Rounder",1.5e+07,"Royal Challengers Bangalore",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","Prerak Mankad","All-Rounder",2e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","Prince Balwant Rai Singh","All-Rounder",2e+06,"Mumbai Indians",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","Prithvi Raj Yarra","Bowler",2e+06,"Kolkata Knight Riders",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"682","Prithvi Shaw","Batsman",1.2e+07,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","Priyam Garg","Batsman",1.9e+07,"Sunrisers Hyderabad",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","Priyam Garg","Batsman",2e+06,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","Quinton De Kock","Wicket Keeper",1500000,"Sunrisers Hyderabad",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","Quinton De Kock","Wicket Keeper",3.5e+07,"Delhi Daredevils",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","Quinton De Kock","Wicket Keeper",2.8e+07,"Royal Challengers Bangalore",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","Quinton De Kock","Wicket Keeper",67500000,"Lucknow Super Giants",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","R Samarth","Batsman",2e+06,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","R. Ashwin","All-Rounder",5e+07,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","R. Sai Kishore","Bowler",2e+06,"Chennai Super Kings",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","R. Sai Kishore","Bowler",3e+07,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","R. Sanjay Yadav","All-Rounder",1e+06,"Kolkata Knight Riders",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","Rahul Ajay Tripathi","All-Rounder",1e+06,"Rising Pune Supergiant",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"695","Rahul Buddhi","Batsman",2e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"696","Rahul Chahar","Bowler",1e+06,"Rising Pune Supergiant",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","Rahul Chahar","Bowler",1.9e+07,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","Rahul Chahar","Bowler",52500000,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","Rahul Sharma","Bowler",1.9e+07,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","Rahul Sharma","Bowler",3e+06,"Chennai Super Kings",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","Rahul Shukla","Bowler",4e+06,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"702","Rahul Tewatia","All-Rounder",1e+06,"Rajasthan Royals",2014,"Indian","LS","Spinner",4,72,"12.0",90,3,"7.50","24.00"
+"703","Rahul Tewatia","All-Rounder",2500000,"Kings XI Punjab",2017,"Indian","LS","Spinner",4,72,"12.0",90,3,"7.50","24.00"
+"704","Rahul Tewatia","All-Rounder",3e+07,"Delhi Daredevils",2018,"Indian","LS","Spinner",4,72,"12.0",90,3,"7.50","24.00"
+"705","Rahul Tewatia","All-Rounder",9e+07,"Gujarat Titans",2022,"Indian","LS","Spinner",4,72,"12.0",90,3,"7.50","24.00"
+"706","Rahul Tripathi","Batsman",3.4e+07,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"707","Rahul Tripathi","Batsman",6e+06,"Kolkata Knight Riders",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"708","Rahul Tripathi","Batsman",8.5e+07,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"709","Raj Angad Bawa","All-Rounder",2e+07,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"710","Rajagopal Sathish","All-Rounder",2e+06,"Kolkata Knight Riders",2016,"Indian","RFM","Pacer",6,60,"10.0",110,1,"11.00","60.00"
+"711","Rajat Bhatia","All-Rounder",1.7e+07,"Rajasthan Royals",2014,"Indian","RFM","Pacer",39,725,"120.5",905,29,"7.49","25.00"
+"712","Rajat Bhatia","All-Rounder",6e+06,"Rising Pune Supergiant",2016,"Indian","RFM","Pacer",39,725,"120.5",905,29,"7.49","25.00"
+"713","Rajat Patidar","Batsman",2e+06,"Royal Challengers Bangalore",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"714","Rajvardhan Hangargekar","All-Rounder",1.5e+07,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"715","Ramandeep Singh","All-Rounder",2e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"716","Ramesh Kumar","Batsman",2e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"717","Ranganath Vinay Kumar","Bowler",2.8e+07,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"718","Ranganath Vinay Kumar","Bowler",1e+07,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"719","Rashid Khan Arman","Bowler",4e+07,"Sunrisers Hyderabad",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"720","Rashid Khan Arman","Bowler",9e+07,"Sunrisers Hyderabad",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"721","Rasikh Dar","Bowler",2e+06,"Mumbai Indians",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"722","Rasikh Dar","Bowler",2e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"723","Rassie Van Der Dussen","Batsman",1e+07,"Rajasthan Royals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"724","Ravi Bishnoi","Bowler",2e+07,"Kings XI Punjab",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"725","Ravi Bopara","All-Rounder",1e+07,"Sunrisers Hyderabad",2015,"Indian","RFM","Pacer",63,1231,"205.1",1541,55,"7.51","22.38"
+"726","Ravi Rampaul","Bowler",21750000,"Royal Challengers Bangalore",2013,"Overseas","RFM","Pacer",21,437,"72.5",541,27,"7.43","16.19"
+"727","Ravi Rampaul","Bowler",9e+06,"Royal Challengers Bangalore",2014,"Overseas","RFM","Pacer",21,437,"72.5",541,27,"7.43","16.19"
+"728","Ravichandran Ashwin","All-Rounder",7.6e+07,"Kings XI Punjab",2018,"Overseas","OS","Spinner",88,1782,"297.0",1998,89,"6.73","20.02"
+"729","Ricky Bhui","Batsman",1e+06,"Sunrisers Hyderabad",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"730","Ricky Bhui","Batsman",2e+06,"Sunrisers Hyderabad",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"731","Ricky Ponting","Batsman",3e+07,"Mumbai Indians",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"732","Riley Meredith","Bowler",8e+07,"Punjab Kings",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"733","Riley Meredith","Bowler",1e+07,"Mumbai Indians",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"734","Rinku Singh","Batsman",1e+06,"Kings XI Punjab",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"735","Rinku Singh","Batsman",8e+06,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"736","Rinku Singh","Batsman",5500000,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"737","Ripal Patel","All-Rounder",2e+06,"Delhi Capitals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"738","Ripal Patel","All-Rounder",2e+06,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"739","Rishabh Pant","Wicket Keeper",1.9e+07,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"740","Rishi Dhawan","All-Rounder",3e+07,"Kings XI Punjab",2014,"Indian","RFM","Pacer",26,512,"85.2",682,19,"7.99","26.95"
+"741","Rishi Dhawan","All-Rounder",5500000,"Kolkata Knight Riders",2017,"Indian","RFM","Pacer",26,512,"85.2",682,19,"7.99","26.95"
+"742","Rishi Dhawan","All-Rounder",5500000,"Punjab Kings",2022,"Indian","RFM","Pacer",26,512,"85.2",682,19,"7.99","26.95"
+"743","Riyan Parag","All-Rounder",2e+06,"Rajasthan Royals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"744","Riyan Parag","All-Rounder",3.8e+07,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"745","Robin Uthappa","Batsman",5e+07,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"746","Robin Uthappa","Batsman",6.4e+07,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"747","Robin Uthappa","Batsman",3e+07,"Rajasthan Royals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"748","Robin Uthappa","Batsman",2e+07,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"749","Romario Shepherd","All-Rounder",77500000,"Sunrisers Hyderabad",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"750","Ronit More","Bowler",1e+06,"Chennai Super Kings",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"751","Ross Taylor","Batsman",2e+07,"Delhi Daredevils",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"752","Rovman Powell","All-Rounder",3e+06,"Kolkata Knight Riders",2017,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"753","Rovman Powell","Batsman",2.8e+07,"Delhi Capitals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"754","Rudra Pratap Singh","Bowler",3e+07,"Royal Challengers Bangalore",2013,"Indian","LFM","Pacer",15,311,"51.5",446,16,"8.60","19.44"
+"755","Rudra Pratap Singh","Bowler",3e+06,"Rising Pune Supergiant",2016,"Indian","LFM","Pacer",15,311,"51.5",446,16,"8.60","19.44"
+"756","Ruturaj Gaikwad","Batsman",2e+06,"Chennai Super Kings",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"757","Ryan McLaren","Bowler",3750000,"Kolkata Knight Riders",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"758","Ryan Ten Doeschate","All-Rounder",1e+07,"Kolkata Knight Riders",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"759","Sachin Baby","Batsman",1e+06,"Royal Challengers Bangalore",2016,"Indian","OS","Spinner",2,10,"1.4",8,2,"4.80","5.00"
+"760","Sachin Baby","Batsman",2e+06,"Sunrisers Hyderabad",2018,"Indian","OS","Spinner",2,10,"1.4",8,2,"4.80","5.00"
+"761","Sachin Baby","Batsman",2e+06,"Royal Challengers Bangalore",2021,"Indian","OS","Spinner",2,10,"1.4",8,2,"4.80","5.00"
+"762","Sachin Rana","Bowler",2e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"763","Sachithra Senanayaka","All-Rounder",46875000,"Kolkata Knight Riders",2013,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"764","Sagar Trivedi","All-Rounder",1e+06,"Rajasthan Royals",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"765","Sam Billings","Wicket Keeper",3e+06,"Delhi Daredevils",2016,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"766","Sam Billings","Wicket Keeper",1e+07,"Chennai Super Kings",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"767","Sam Billings","Wicket Keeper",2e+07,"Delhi Capitals",2021,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"768","Sam Billings","Wicket Keeper",2e+07,"Kolkata Knight Riders",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"769","Sam Curran","All-Rounder",7.2e+07,"Kings XI Punjab",2019,"Overseas","LFM","Pacer",21,354,"59.0",471,18,"7.98","19.67"
+"770","Sam Curran","All-Rounder",5.5e+07,"Chennai Super Kings",2020,"Overseas","LFM","Pacer",21,354,"59.0",471,18,"7.98","19.67"
+"771","Samuel Badree","Bowler",3e+06,"Chennai Super Kings",2014,"Overseas","LS","Spinner",42,948,"158.0",932,51,"5.90","18.59"
+"772","Samuel Badree","Bowler",5e+06,"Royal Challengers Bangalore",2016,"Overseas","LS","Spinner",42,948,"158.0",932,51,"5.90","18.59"
+"773","Sandeep Bavanaka","All-Rounder",2e+06,"Sunrisers Hyderabad",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"774","Sandeep Lamichhane","Bowler",2e+06,"Delhi Daredevils",2018,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"775","Sandeep Sharma","Bowler",8500000,"Kings XI Punjab",2014,"Indian","RFM","Pacer",45,979,"163.1",1262,55,"7.73","17.80"
+"776","Sandeep Sharma","Bowler",3e+07,"Sunrisers Hyderabad",2018,"Indian","RFM","Pacer",45,979,"163.1",1262,55,"7.73","17.80"
+"777","Sandeep Sharma","Bowler",5e+06,"Punjab Kings",2022,"Indian","RFM","Pacer",45,979,"163.1",1262,55,"7.73","17.80"
+"778","Sandeep Warrier","Bowler",1e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"779","Sanjay Yadav","All-Rounder",2e+06,"Sunrisers Hyderabad",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"780","Sanjay Yadav","All-Rounder",5e+06,"Mumbai Indians",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"781","Sanju Samson","Wicket Keeper",4.2e+07,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"782","Sanju Samson","Wicket Keeper",8e+07,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"783","Sarabjit Ladda","Bowler",1e+06,"Gujarat Lions",2016,"Indian","LS","Spinner",2,24,"4.0",39,1,"9.75","24.00"
+"784","Sarfaraz Khan","All-Rounder",2e+06,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"785","Sarfaraz Naushad Khan","Batsman",5e+06,"Royal Challengers Bangalore",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"786","Sarfaraz Naushad Khan","All-Rounder",2500000,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"787","Saurabh Dubey","Bowler",2e+06,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"788","Saurabh Kumar","Bowler",1e+06,"Rising Pune Supergiant",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"789","Saurabh Kumar","All-Rounder",2e+06,"Punjab Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"790","Saurabh Tiwary","Batsman",7e+06,"Delhi Daredevils",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"791","Saurabh Tiwary","Batsman",3e+06,"Mumbai Indians",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"792","Saurabh Tiwary","Batsman",8e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"793","Saurabh Tiwary","Batsman",5e+06,"Mumbai Indians",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"794","Sayan Ghosh","Bowler",1e+06,"Kolkata Knight Riders",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"795","Sayan Ghosh","Bowler",2e+06,"Delhi Daredevils",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"796","Sayan Sekhar Mandal","All-Rounder",1e+06,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"797","Scott Boland","Bowler",5e+06,"Rising Pune Supergiant",2016,"Overseas","RFM","Pacer",18,402,"67.0",545,20,"8.13","20.10"
+"798","Sean Abbott","Bowler",1e+07,"Royal Challengers Bangalore",2015,"Overseas","RFM","Pacer",29,519,"86.3",746,30,"8.62","17.30"
+"799","Sean Abbott","Bowler",2.4e+07,"Sunrisers Hyderabad",2022,"Overseas","RFM","Pacer",29,519,"86.3",746,30,"8.62","17.30"
+"800","Shadab Jakati","Bowler",2e+06,"Royal Challengers Bangalore",2014,"Indian","SLA","Spinner",7,142,"23.4",219,2,"9.25","71.00"
+"801","Shadab Jakati","All-Rounder",2e+06,"Gujarat Lions",2016,"Indian","SLA","Spinner",7,142,"23.4",219,2,"9.25","71.00"
+"802","Shahbaz Ahamad","Wicket Keeper",2e+06,"Royal Challengers Bangalore",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"803","Shahbaz Ahamad","All-Rounder",2.4e+07,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"804","Shahbaz Nadeem","Bowler",8500000,"Delhi Daredevils",2014,"Indian","SLA","Spinner",29,624,"104.0",740,19,"7.12","32.84"
+"805","Shahbaz Nadeem","Bowler",3.2e+07,"Delhi Daredevils",2018,"Indian","SLA","Spinner",29,624,"104.0",740,19,"7.12","32.84"
+"806","Shahbaz Nadeem","Bowler",5e+06,"Lucknow Super Giants",2022,"Indian","SLA","Spinner",29,624,"104.0",740,19,"7.12","32.84"
+"807","Shahrukh Khan","All-Rounder",52500000,"Punjab Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"808","Shahrukh Khan","All-Rounder",9e+07,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"809","Shakib Al Hasan","All-Rounder",2.8e+07,"Kolkata Knight Riders",2014,"Overseas","SLA","Spinner",61,1337,"222.5",1537,67,"6.90","19.96"
+"810","Shakib Al Hasan","All-Rounder",2e+07,"Sunrisers Hyderabad",2018,"Overseas","SLA","Spinner",61,1337,"222.5",1537,67,"6.90","19.96"
+"811","Shakib Al Hasan","All-Rounder",3.2e+07,"Kolkata Knight Riders",2021,"Overseas","SLA","Spinner",61,1337,"222.5",1537,67,"6.90","19.96"
+"812","Shane Watson","All-Rounder",9.5e+07,"Royal Challengers Bangalore",2016,"Overseas","RFM","Pacer",75,1363,"227.1",1878,64,"8.27","21.30"
+"813","Shane Watson","All-Rounder",4e+07,"Chennai Super Kings",2018,"Overseas","RFM","Pacer",75,1363,"227.1",1878,64,"8.27","21.30"
+"814","Sharad Lumba","Batsman",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"815","Shardul Thakur","Bowler",2e+06,"Kings XI Punjab",2014,"Indian","RFM","Pacer",1,18,"3.0",38,1,"12.67","18.00"
+"816","Shardul Thakur","Bowler",2.6e+07,"Chennai Super Kings",2018,"Indian","RFM","Pacer",1,18,"3.0",38,1,"12.67","18.00"
+"817","Shardul Thakur","Bowler",107500000,"Delhi Capitals",2022,"Indian","RFM","Pacer",1,18,"3.0",38,1,"12.67","18.00"
+"818","Shashank Singh","All-Rounder",1e+06,"Delhi Daredevils",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"819","Shashank Singh","All-Rounder",3e+06,"Rajasthan Royals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"820","Shashank Singh","All-Rounder",2e+06,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"821","Shaun Marsh","Batsman",2.2e+07,"Kings XI Punjab",2014,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"822","Sheldon Cottrell","Bowler",8.5e+07,"Kings XI Punjab",2020,"Overseas","LFM","Pacer",6,121,"20.1",183,8,"9.07","15.12"
+"823","Sheldon Jackson","Batsman",1500000,"Kolkata Knight Riders",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"824","Sheldon Jackson","Wicket Keeper",2e+06,"Kolkata Knight Riders",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"825","Sheldon Jackson","Wicket Keeper",6e+06,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"826","Shelley Shaurya","Bowler",1e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"827","Sherfane Rutherford","All-Rounder",2e+07,"Delhi Capitals",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"828","Sherfane Rutherford","All-Rounder",1e+07,"Royal Challengers Bangalore",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"829","Shikhar Dhawan","Batsman",5.2e+07,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"830","Shikhar Dhawan","Batsman",82500000,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"831","Shimron Hetmyer","Batsman",4.2e+07,"Royal Challengers Bangalore",2019,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"832","Shimron Hetmyer","Batsman",77500000,"Delhi Capitals",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"833","Shimron Hetmyer","Batsman",8.5e+07,"Rajasthan Royals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"834","Shishir Bhavane","Batsman",1e+06,"Royal Challengers Bangalore",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"835","Shivam Dube","All-Rounder",5e+07,"Royal Challengers Bangalore",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"836","Shivam Dube","All-Rounder",4.4e+07,"Rajasthan Royals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"837","Shivam Dube","All-Rounder",4e+07,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"838","Shivam Mavi","All-Rounder",3e+07,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"839","Shivam Mavi","All-Rounder",72500000,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"840","Shivam Sharma","Bowler",1e+06,"Kings XI Punjab",2014,"Indian",NA,NA,5,114,"19.0",165,4,"8.68","28.50"
+"841","Shivil Kaushik","Bowler",1e+06,"Gujarat Lions",2016,"Indian","LAW","Spinner",7,138,"23.0",192,6,"8.35","23.00"
+"842","Shreevats Goswami","Wicket Keeper",1e+07,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"843","Shreyas Gopal","Bowler",1e+06,"Mumbai Indians",2014,"Indian","LS","Spinner",6,115,"19.1",154,7,"8.03","16.43"
+"844","Shreyas Gopal","All-Rounder",2e+06,"Rajasthan Royals",2018,"Indian","LS","Spinner",6,115,"19.1",154,7,"8.03","16.43"
+"845","Shreyas Gopal","Bowler",7500000,"Sunrisers Hyderabad",2022,"Indian","LS","Spinner",6,115,"19.1",154,7,"8.03","16.43"
+"846","Shreyas Iyer","Batsman",2.6e+07,"Delhi Daredevils",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"847","Shreyas Iyer","Batsman",122500000,"Kolkata Knight Riders",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"848","Shrikant Mundhe","All-Rounder",2e+06,"Kolkata Knight Riders",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"849","Shubam Agrawal","All-Rounder",1e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"850","Shubham Garhwal","All-Rounder",2e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"851","Shubham Ranjane","All-Rounder",2e+06,"Rajasthan Royals",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"852","Shubman Gill","Batsman",1.8e+07,"Kolkata Knight Riders",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"853","Siddarth Kaul","Bowler",4500000,"Delhi Daredevils",2014,"Indian","RFM","Pacer",11,209,"34.5",296,6,"8.50","34.83"
+"854","Siddarth Kaul","Bowler",1e+06,"Sunrisers Hyderabad",2015,"Indian","RFM","Pacer",11,209,"34.5",296,6,"8.50","34.83"
+"855","Siddarth Kaul","Bowler",3.8e+07,"Sunrisers Hyderabad",2018,"Indian","RFM","Pacer",11,209,"34.5",296,6,"8.50","34.83"
+"856","Siddharth Kaul","Bowler",7500000,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"857","Siddhesh Dinesh Lad","All-Rounder",1e+06,"Mumbai Indians",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"858","Siddhesh Dinesh Lad","Batsman",2e+06,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"859","Simarjeet Singh","Bowler",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"860","Srikkanth Anirudha","Batsman",2e+06,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"861","Steven Smith","All-Rounder",4e+07,"Rajasthan Royals",2014,"Overseas",NA,NA,1,6,"1.0",4,0,"4.00",NA
+"862","Steven Smith","Batsman",2.2e+07,"Delhi Capitals",2021,"Overseas",NA,NA,1,6,"1.0",4,0,"4.00",NA
+"863","Stuart Binny","All-Rounder",2e+07,"Royal Challengers Bangalore",2016,"Indian","RFM","Pacer",46,444,"74.0",554,15,"7.49","29.60"
+"864","Stuart Binny","All-Rounder",5e+06,"Rajasthan Royals",2018,"Indian","RFM","Pacer",46,444,"74.0",554,15,"7.49","29.60"
+"865","Subhranshu Senapati","Batsman",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"866","Subramaniam Badrinath","Batsman",3e+06,"Royal Challengers Bangalore",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"867","Sudeep Tyagi","Bowler",7500000,"Sunrisers Hyderabad",2013,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"868","Sumit Narwal","All-Rounder",1e+06,"Kolkata Knight Riders",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"869","Suryakumar Yadav","Batsman",7e+06,"Kolkata Knight Riders",2014,"Indian",NA,NA,1,6,"1.0",8,0,"8.00",NA
+"870","Suryakumar Yadav","Batsman",3.2e+07,"Mumbai Indians",2018,"Indian",NA,NA,1,6,"1.0",8,0,"8.00",NA
+"871","Sushant Marathe","Wicket Keeper",1e+06,"Mumbai Indians",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"872","Suyash Prabhudesai","All-Rounder",2e+06,"Royal Challengers Bangalore",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"873","Suyash Prabhudessai","All-Rounder",3e+06,"Royal Challengers Bangalore",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"874","Swapnil Singh","All-Rounder",1e+06,"Kings XI Punjab",2016,"Indian","SLA","Spinner",1,18,"3.0",29,0,"9.67",NA
+"875","Syed Khaleel Ahmed","All-Rounder",1e+06,"Delhi Daredevils",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"876","Syed Khaleel Ahmed","Bowler",3e+07,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"877","Syed Khaleel Ahmed","Bowler",52500000,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"878","Syed Mehdi Hasan","All-Rounder",2e+06,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"879","T Natarajan","Bowler",3e+07,"Kings XI Punjab",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"880","T Natarajan","Bowler",4e+06,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"881","T. Natarajan","Bowler",4e+07,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"882","Tajinder Dhillon","All-Rounder",5500000,"Mumbai Indians",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"883","Tajinder Dhillon","All-Rounder",2e+06,"Kings XI Punjab",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"884","Tanmay Agarwal","Batsman",1e+06,"Sunrisers Hyderabad",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"885","Tanmay Agarwal","Batsman",2e+06,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"886","Tanmay Mishra","Batsman",1e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"887","Tejas Baroka","Bowler",2e+06,"Rajasthan Royals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"888","Tejas Singh Baroka","Bowler",1e+06,"Gujarat Lions",2017,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"889","Thisara Perera","All-Rounder",50625000,"Sunrisers Hyderabad",2013,"Overseas","RFM","Pacer",56,1005,"167.3",1532,52,"9.15","19.33"
+"890","Thisara Perera","All-Rounder",1.6e+07,"Kings XI Punjab",2014,"Overseas","RFM","Pacer",56,1005,"167.3",1532,52,"9.15","19.33"
+"891","Thisara Perera","All-Rounder",1e+07,"Rising Pune Supergiant",2016,"Overseas","RFM","Pacer",56,1005,"167.3",1532,52,"9.15","19.33"
+"892","Tim David","All-Rounder",82500000,"Mumbai Indians",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"893","Tim Seifert","Wicket Keeper",5e+06,"Delhi Capitals",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"894","Tim Southee","Bowler",1.2e+07,"Rajasthan Royals",2014,"Overseas","RFM","Pacer",28,654,"109.0",917,25,"8.41","26.16"
+"895","Tim Southee","Bowler",2.5e+07,"Mumbai Indians",2016,"Overseas","RFM","Pacer",28,654,"109.0",917,25,"8.41","26.16"
+"896","Tim Southee","Bowler",1e+07,"Royal Challengers Bangalore",2018,"Overseas","RFM","Pacer",28,654,"109.0",917,25,"8.41","26.16"
+"897","Tim Southee","Bowler",1.5e+07,"Kolkata Knight Riders",2022,"Overseas","RFM","Pacer",28,654,"109.0",917,25,"8.41","26.16"
+"898","Tirumalasetti Suman","Batsman",1e+06,"Sunrisers Hyderabad",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"899","Tom Banton","Batsman",1e+07,"Kolkata Knight Riders",2020,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"900","Tom Curran","All-Rounder",1e+07,"Rajasthan Royals",2020,"Overseas","RFM","Pacer",31,639,"106.3",878,29,"8.24","22.03"
+"901","Tom Curran","All-Rounder",52500000,"Delhi Capitals",2021,"Overseas","RFM","Pacer",31,639,"106.3",878,29,"8.24","22.03"
+"902","Travis Head","Batsman",3e+06,"Delhi Daredevils",2015,"Overseas","OS","Spinner",14,121,"20.1",174,7,"8.63","17.29"
+"903","Travis Head","Batsman",5e+06,"Royal Challengers Bangalore",2016,"Overseas","OS","Spinner",14,121,"20.1",174,7,"8.63","17.29"
+"904","Trent Boult","Bowler",3.8e+07,"Sunrisers Hyderabad",2015,"Overseas","LFM","Pacer",19,438,"73.0",601,25,"8.23","17.52"
+"905","Trent Boult","Bowler",5e+07,"Kolkata Knight Riders",2017,"Overseas","LFM","Pacer",19,438,"73.0",601,25,"8.23","17.52"
+"906","Trent Boult","Bowler",2.2e+07,"Delhi Daredevils",2018,"Overseas","LFM","Pacer",19,438,"73.0",601,25,"8.23","17.52"
+"907","Trent Boult","Bowler",8e+07,"Rajasthan Royals",2022,"Overseas","LFM","Pacer",19,438,"73.0",601,25,"8.23","17.52"
+"908","Tushar Deshpande","Bowler",2e+06,"Delhi Capitals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"909","Tushar Deshpande","Bowler",2e+06,"Chennai Super Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"910","Tymal Mills","Bowler",1.2e+08,"Royal Challengers Bangalore",2017,"Overseas","LFM","Pacer",27,586,"97.4",761,39,"7.79","15.03"
+"911","Tymal Mills","Bowler",1.5e+07,"Mumbai Indians",2022,"Overseas","LFM","Pacer",27,586,"97.4",761,39,"7.79","15.03"
+"912","Umang Sharma","Batsman",1e+06,"Gujarat Lions",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"913","Umesh Yadav","Bowler",2.6e+07,"Kolkata Knight Riders",2014,"Indian","RFM","Pacer",49,1031,"171.5",1506,47,"8.76","21.94"
+"914","Umesh Yadav","Bowler",4.2e+07,"Royal Challengers Bangalore",2018,"Indian","RFM","Pacer",49,1031,"171.5",1506,47,"8.76","21.94"
+"915","Umesh Yadav","Bowler",1e+07,"Delhi Capitals",2021,"Indian","RFM","Pacer",49,1031,"171.5",1506,47,"8.76","21.94"
+"916","Umesh Yadav","Bowler",2e+07,"Kolkata Knight Riders",2022,"Indian","RFM","Pacer",49,1031,"171.5",1506,47,"8.76","21.94"
+"917","Unmukt Chand","Batsman",6500000,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"918","Utkarsh Singh","All-Rounder",2e+06,"Punjab Kings",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"919","Vaibhav Arora","Bowler",2e+06,"Kolkata Knight Riders",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"920","Vaibhav Arora","Bowler",2e+07,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"921","Vaibhav Rawal","All-Rounder",1e+06,"Kolkata Knight Riders",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"922","Varun Aaron","Bowler",2e+07,"Royal Challengers Bangalore",2014,"Indian","RFM","Pacer",23,466,"77.4",703,21,"9.05","22.19"
+"923","Varun Aaron","Bowler",2.8e+07,"Kings XI Punjab",2017,"Indian","RFM","Pacer",23,466,"77.4",703,21,"9.05","22.19"
+"924","Varun Aaron","Bowler",2.4e+07,"Rajasthan Royals",2019,"Indian","RFM","Pacer",23,466,"77.4",703,21,"9.05","22.19"
+"925","Varun Aaron","Bowler",5e+06,"Gujarat Titans",2022,"Indian","RFM","Pacer",23,466,"77.4",703,21,"9.05","22.19"
+"926","Varun Chakaravarthy","All-Rounder",8.4e+07,"Kings XI Punjab",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"927","Varun Chakaravarthy","All-Rounder",4e+07,"Kolkata Knight Riders",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"928","Veer Pratap Singh","Bowler",4e+06,"Kolkata Knight Riders",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"929","Venkatesh Iyer","All-Rounder",2e+06,"Kolkata Knight Riders",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"930","Venugopal Rao","Batsman",5500000,"Sunrisers Hyderabad",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"931","Vicky Ostwal","All-Rounder",2e+06,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"932","Vijay Shankar","All-Rounder",1e+06,"Chennai Super Kings",2014,"Indian","RFM","Pacer",1,6,"1.0",19,0,"19.00",NA
+"933","Vijay Shankar","All-Rounder",3500000,"Sunrisers Hyderabad",2016,"Indian","RFM","Pacer",1,6,"1.0",19,0,"19.00",NA
+"934","Vijay Shankar","All-Rounder",3.2e+07,"Delhi Daredevils",2018,"Indian","RFM","Pacer",1,6,"1.0",19,0,"19.00",NA
+"935","Vijay Shankar","All-Rounder",1.4e+07,"Gujarat Titans",2022,"Indian","RFM","Pacer",1,6,"1.0",19,0,"19.00",NA
+"936","Vijay Zol","Batsman",3e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"937","Vikas Tokas","Bowler",1e+06,"Royal Challengers Bangalore",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"938","Vikramjeet Malik","Bowler",2e+06,"Rajasthan Royals",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"939","Vikramjeet Malik","Bowler",2e+06,"Royal Challengers Bangalore",2016,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"940","Virat Singh","Batsman",1.9e+07,"Sunrisers Hyderabad",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"941","Virender Sehwag","Batsman",3.2e+07,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"942","Vishnu Vinod","Wicket Keeper",2e+06,"Delhi Capitals",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"943","Vishnu Vinod","Wicket Keeper",5e+06,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"944","Wanindu Hasaranga","All-Rounder",107500000,"Royal Challengers Bangalore",2022,"Overseas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"945","Washington Sundar","All-Rounder",87500000,"Sunrisers Hyderabad",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"946","Wayne Parnell","Bowler",1e+07,"Delhi Daredevils",2014,"Overseas","LFM","Pacer",37,781,"130.1",1023,43,"7.86","18.16"
+"947","Wriddhiman Saha","Wicket Keeper",2.2e+07,"Kings XI Punjab",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"948","Wriddhiman Saha","Wicket Keeper",5e+07,"Sunrisers Hyderabad",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"949","Wriddhiman Saha","Wicket Keeper",1.2e+07,"Sunrisers Hyderabad",2019,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"950","Wriddhiman Saha","Wicket Keeper",1.9e+07,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"951","Writtick Chatterjee","All-Rounder",2e+06,"Punjab Kings",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"952","Yash Dayal","Bowler",3.2e+07,"Gujarat Titans",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"953","Yash Dhull","All-Rounder",5e+06,"Delhi Capitals",2022,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"954","Yashasvi Jaiswal","All-Rounder",2.4e+07,"Rajasthan Royals",2020,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"955","Yogesh Gowalkar","All-Rounder",1e+06,"Kings XI Punjab",2015,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"956","Yogesh Takawale","Wicket Keeper",1e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"957","Yudhvir Charak","All-Rounder",2e+06,"Mumbai Indians",2021,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"958","Yusuf Pathan","All-Rounder",32500000,"Kolkata Knight Riders",2014,"Indian","OS","Spinner",15,156,"26.0",213,4,"8.19","39.00"
+"959","Yusuf Pathan","All-Rounder",1.9e+07,"Sunrisers Hyderabad",2018,"Indian","OS","Spinner",15,156,"26.0",213,4,"8.19","39.00"
+"960","Yuvraj Singh","All-Rounder",1.4e+08,"Royal Challengers Bangalore",2014,"Indian","SLA","Spinner",41,467,"77.5",589,17,"7.57","27.47"
+"961","Yuvraj Singh","Batsman",1.6e+08,"Delhi Daredevils",2015,"Indian","SLA","Spinner",41,467,"77.5",589,17,"7.57","27.47"
+"962","Yuvraj Singh","All-Rounder",7e+07,"Sunrisers Hyderabad",2016,"Indian","SLA","Spinner",41,467,"77.5",589,17,"7.57","27.47"
+"963","Yuvraj Singh","All-Rounder",2e+07,"Kings XI Punjab",2018,"Indian","SLA","Spinner",41,467,"77.5",589,17,"7.57","27.47"
+"964","Yuvraj Singh","All-Rounder",1e+07,"Mumbai Indians",2019,"Indian","SLA","Spinner",41,467,"77.5",589,17,"7.57","27.47"
+"965","Yuzvendra Chahal","Bowler",6.5e+07,"Rajasthan Royals",2022,"Indian","LS","Spinner",45,1002,"167.0",1325,59,"7.93","16.98"
+"966","Yuzvendra Singh Chahal","Bowler",1e+06,"Royal Challengers Bangalore",2014,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"967","Yuzvendra Singh Chahal","Bowler",6e+07,"Royal Challengers Bangalore",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"968","Zaheer Khan","Bowler",2.6e+07,"Mumbai Indians",2014,"Indian","LFM","Pacer",27,577,"96.1",686,27,"7.13","21.37"
+"969","Zaheer Khan","Bowler",4e+07,"Delhi Daredevils",2015,"Indian","LFM","Pacer",27,577,"96.1",686,27,"7.13","21.37"
+"970","Zahir Khan Pakteen","Bowler",6e+06,"Rajasthan Royals",2018,"Indian",NA,NA,NA,NA,NA,NA,NA,NA,NA
