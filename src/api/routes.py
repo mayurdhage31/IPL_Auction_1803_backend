@@ -92,9 +92,14 @@ async def list_players(
     role: Optional[str] = None,
     origin: Optional[str] = None,
     set_type: Optional[str] = None,
+    team: Optional[str] = None,
     limit: int = 50,
 ):
     svc = get_service()
+    # Team filter: players historically bought by this team
+    if team:
+        return svc.get_players_for_team(team.upper())[:limit]
+
     players = svc.all_pool
     if role:
         players = [p for p in players if p.role.value.lower() == role.lower()]
@@ -113,6 +118,15 @@ async def list_players(
         }
         for p in players[:limit]
     ]
+
+
+@router.get("/players/{player_name}")
+async def get_player_detail(player_name: str):
+    svc = get_service()
+    player = svc.processor.get_player(player_name) if svc.processor else None
+    if not player:
+        raise HTTPException(status_code=404, detail=f"Player '{player_name}' not found")
+    return svc.get_player_detail(player)
 
 
 # ─────────────────────────────────────────

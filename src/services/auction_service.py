@@ -224,6 +224,78 @@ class AuctionService:
             },
         }
 
+    @staticmethod
+    def _safe_float(val, decimals: int = 2):
+        """Return rounded float or None, converting nan/inf to None."""
+        import math
+        if val is None:
+            return None
+        try:
+            f = float(val)
+            if math.isnan(f) or math.isinf(f):
+                return None
+            return round(f, decimals)
+        except (TypeError, ValueError):
+            return None
+
+    def get_player_detail(self, player) -> dict:
+        """Return a rich player profile dict for the Scout panel."""
+        s = player.stats
+        sr = self._safe_float(s.get("batting_sr"))
+        batting_cat = None
+        if sr is not None:
+            batting_cat = "Power Hitter" if sr > 140 else "Anchor" if sr < 120 else "Middle Order"
+        bowling_cat = s.get("bowler_category") or None
+        idx = next((i for i, p in enumerate(self.all_pool) if p.name == player.name), -1)
+
+        return {
+            "name": player.name,
+            "role": player.role.value,
+            "origin": player.origin.value,
+            "base_price": player.base_price,
+            "base_price_cr": round(player.base_price / 1e7, 2),
+            "set_type": player.set_type.value,
+            "batting_category": batting_cat,
+            "bowling_category": bowling_cat,
+            "avg_price_cr": self._safe_float(s.get("avg_price", 0) / 1e7 if s.get("avg_price") else None),
+            "max_price_cr": self._safe_float(s.get("max_price", 0) / 1e7 if s.get("max_price") else None),
+            "latest_price_cr": self._safe_float(s.get("latest_price", 0) / 1e7 if s.get("latest_price") else None),
+            "latest_year": s.get("latest_year"),
+            "peak_year": s.get("peak_year"),
+            "trajectory": s.get("trajectory"),
+            "price_trend": self._safe_float(s.get("price_trend"), 4),
+            "volatility": self._safe_float(s.get("volatility"), 3),
+            "auction_appearances": s.get("auction_appearances", 0),
+            "total_teams": s.get("total_teams", 0),
+            # Batting stats
+            "batting_avg": self._safe_float(s.get("batting_avg")),
+            "batting_sr": sr,
+            "total_runs": s.get("total_runs"),
+            # Bowling stats
+            "wickets": s.get("wickets"),
+            "economy": self._safe_float(s.get("economy")),
+            "bowling_sr": self._safe_float(s.get("bowling_sr")),
+            # Full price history (all records, not just last 5)
+            "historical_prices": player.historical_prices,
+            "index_in_pool": idx,
+            "total_in_pool": len(self.all_pool),
+        }
+
+    def get_players_for_team(self, team_code: str) -> list[dict]:
+        """Return players who have historically been bought by a given team."""
+        results = []
+        for p in self.all_pool:
+            if any(h.get("team_code") == team_code for h in p.historical_prices):
+                results.append({
+                    "name": p.name,
+                    "role": p.role.value,
+                    "origin": p.origin.value,
+                    "set_type": p.set_type.value,
+                    "avg_price_cr": round(p.stats["avg_price"] / 1e7, 2) if p.stats.get("avg_price") else 0,
+                })
+        results.sort(key=lambda x: x["avg_price_cr"], reverse=True)
+        return results
+
     def get_all_teams(self) -> list[dict]:
         return [
             {
