@@ -76,6 +76,10 @@ class AuctionService:
         self.team_states: dict[str, SimTeamState] = {}
         self.team_purchases: dict[str, list] = {}  # team_code -> [{name, role, origin, price_cr}]
 
+        # Live purchase outcomes — maps pool index -> outcome dict
+        # Separate from Monte Carlo; only mutated by explicit sell/unsold actions.
+        self.player_outcomes: dict[int, dict] = {}
+
         # Simulation state
         self.simulation_running: bool = False
         self.simulation_progress: int = 0
@@ -149,6 +153,7 @@ class AuctionService:
             for code in ACTIVE_TEAMS
         }
         self.team_purchases = {code: [] for code in ACTIVE_TEAMS}
+        self.player_outcomes = {}
 
     # ─────────────────────────────────────────
     # Nomination
@@ -173,6 +178,9 @@ class AuctionService:
             batting_cat = "Power Hitter" if s["batting_sr"] > 140 else "Anchor" if s["batting_sr"] < 120 else "Middle Order"
         bowling_cat = s.get("bowler_category") or None
 
+        # Include live outcome so the UI knows if this slot is already resolved.
+        outcome = self.player_outcomes.get(idx)
+
         return {
             "name": p.name,
             "role": p.role.value,
@@ -186,7 +194,87 @@ class AuctionService:
             "historical_prices": p.historical_prices[-5:],
             "index_in_pool": idx,
             "total_in_pool": len(self.all_pool),
+            # Live auction outcome: None if not yet decided, else {status, team_code?, price_cr?}
+            "outcome": outcome,
         }
+
+    # ─────────────────────────────────────────
+    # Live Purchase / Assignment
+    # ─────────────────────────────────────────
+
+    def sell_player(self, team_code: str, price_cr: float) -> dict:
+        """
+        Explicitly sell the currently nominated player to a franchise.
+
+        Updates live team state (purse, squad, overseas count) and records the
+        purchase in team_purchases. This is NOT a simulation — it is the user's
+        confirmed auction decision and permanently mutates live state.
+
+        Returns an error dict on validation failure, otherwise the updated squad dict.
+        """
+        team_code = team_code.upper()
+        state = self.team_states.get(team_code)
+        if not state:
+            return {"error": f"Unknown team: {team_code}"}
+
+        idx = self.current_index
+        if idx >= len(self.all_pool):
+            return {"error": "No current player in pool"}
+
+        if idx in self.player_outcomes:
+            return {"error": "Current player is already resolved (sold or unsold)"}
+
+        player = self.all_pool[idx]
+        price_rupees = round(price_cr * 1e7)
+
+        # Validation
+        if price_rupees < player.base_price:
+            return {"error": f"Price ₹{price_cr}Cr is below base price ₹{player.base_price / 1e7}Cr"}
+        if state.remaining_purse < price_rupees:
+            return {"error": f"{team_code} has only ₹{state.remaining_purse / 1e7:.2f}Cr remaining"}
+        if state.squad_size >= state.max_squad:
+            return {"error": f"{team_code} squad is full ({state.max_squad} players)"}
+        if player.origin == PlayerOrigin.OVERSEAS and state.overseas_count >= state.max_overseas:
+            return {"error": f"{team_code} has reached overseas limit ({state.max_overseas})"}
+
+        # Commit the purchase to live team state
+        state.remaining_purse -= price_rupees
+        state.squad_size += 1
+        if player.origin == PlayerOrigin.OVERSEAS:
+            state.overseas_count += 1
+
+        self.team_purchases[team_code].append({
+            "name": player.name,
+            "role": player.role.value,
+            "origin": player.origin.value,
+            "price_paid_cr": round(price_cr, 2),
+        })
+
+        # Record outcome so the nomination panel can show it
+        self.player_outcomes[idx] = {
+            "status": "sold",
+            "team_code": team_code,
+            "price_cr": round(price_cr, 2),
+        }
+
+        return self.get_team_squad(team_code)
+
+    def mark_unsold(self) -> dict:
+        """
+        Mark the currently nominated player as unsold.
+
+        No team state is mutated. Records the outcome so the UI can reflect it.
+        """
+        idx = self.current_index
+        if idx >= len(self.all_pool):
+            return {"error": "No current player in pool"}
+
+        if idx in self.player_outcomes:
+            return {"error": "Current player is already resolved (sold or unsold)"}
+
+        player = self.all_pool[idx]
+        self.player_outcomes[idx] = {"status": "unsold"}
+        return {"player_name": player.name, "status": "unsold"}
 
     # ─────────────────────────────────────────
     # Team Squad (for right-side panel)

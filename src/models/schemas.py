@@ -43,6 +43,7 @@ class NominatedPlayer(BaseModel):
     historical_prices: list[dict] = []
     index_in_pool: int = 0
     total_in_pool: int = 0
+    outcome: Optional[dict] = None
 
 
 # ─────────────────────────────────────────
@@ -157,3 +158,27 @@ class HealthResponse(BaseModel):
     status: str
     players_loaded: int
     data_sources: list[str]
+
+
+# ─────────────────────────────────────────
+# Live purchase / assignment schemas
+# ─────────────────────────────────────────
+
+class SellPlayerRequest(BaseModel):
+    """Explicit sale of the currently nominated player to a franchise."""
+    team_code: str           # e.g. "CSK"
+    price_cr: float          # hammer price in crores, e.g. 14.25
+
+
+class SellPlayerResponse(BaseModel):
+    """Returned after a successful sale."""
+    player_name: str
+    team_code: str
+    price_cr: float
+    updated_squad: TeamSquadResponse  # refreshed squad for the buying team
+
+
+class UnsoldResponse(BaseModel):
+    """Returned after marking the current player unsold."""
+    player_name: str
+    status: str = "unsold"
