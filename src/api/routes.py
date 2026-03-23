@@ -12,6 +12,7 @@ from ..models.schemas import (
     NominatedPlayer, AuctionStateResponse, TeamInfo,
     SimulationResult, PriceDistribution, SimulationStatus,
     RAGResponse, HealthResponse, PlayerSummary,
+    SellPlayerRequest, SellPlayerResponse, UnsoldResponse,
 )
 
 router = APIRouter()
@@ -148,6 +149,11 @@ async def get_auction_state():
         "players_remaining": max(0, len(svc.all_pool) - svc.current_index),
         "teams": teams,
         "simulation_running": svc.simulation_running,
+        "set_totals": {
+            "marquee": len(svc.marquee_pool),
+            "capped": len(svc.capped_pool),
+            "uncapped": len(svc.uncapped_pool),
+        },
     }
 
 
@@ -160,6 +166,49 @@ async def reset_auction():
     svc.latest_results = None
     svc.simulation_running = False
     return {"reset": True}
+
+
+@router.post("/auction/sell")
+async def sell_player(req: SellPlayerRequest):
+    """
+    Explicitly sell the currently nominated player to a franchise at a confirmed price.
+
+    This is a live auction action — it permanently mutates team purse and squad state.
+    It is completely separate from Monte Carlo simulation (which is forecast-only).
+    """
+    svc = get_service()
+    result = svc.sell_player(req.team_code, req.price_cr)
+    if "error" in result:
+        raise HTTPException(status_code=400, detail=result["error"])
+
+    # Build structured response
+    squad_data = result
+    return SellPlayerResponse(
+        player_name=svc.all_pool[svc.current_index].name if svc.current_index < len(svc.all_pool) else "",
+        team_code=req.team_code.upper(),
+        price_cr=req.price_cr,
+        updated_squad=TeamSquadResponse(
+            team_code=squad_data["team_code"],
+            team_name=squad_data["team_name"],
+            remaining_purse_cr=squad_data["remaining_purse_cr"],
+            total_purse_cr=squad_data["total_purse_cr"],
+            squad=[SquadPlayer(**p) for p in squad_data["squad"]],
+            counters=SquadCounters(**squad_data["counters"]),
+        ),
+    )
+
+
+@router.post("/auction/unsold")
+async def mark_unsold():
+    """
+    Mark the currently nominated player as unsold.
+    No team state is changed — purse and squad remain untouched.
+    """
+    svc = get_service()
+    result = svc.mark_unsold()
+    if "error" in result:
+        raise HTTPException(status_code=400, detail=result["error"])
+    return UnsoldResponse(**result)
 
 
 # ─────────────────────────────────────────
