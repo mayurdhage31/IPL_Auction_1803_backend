@@ -1,5 +1,6 @@
 """
 FastAPI route definitions for the IPL Auction Simulator.
+Includes: health, teams, players, auction (state/reset/sell/unsold), simulate, rag.
 """
 
 from fastapi import APIRouter, HTTPException
